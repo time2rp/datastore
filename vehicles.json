@@ -7936,39 +7936,39 @@
         "type": "automobile",
         "hash": 1912215274,
         "price": 80470
-    }  
-        "GBMOGULRS": {
-        "brand": "GB",
+    },
+    "GBMOGULRS": {
+        "brand": "Karin",
         "model": "GBMOGULRS",
         "category": "custom",
-        "name": "GBMOGULRS",
+        "name": "Mogul RS",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBSULTRSX": {
-        "brand": "GB",
+        "brand": "Sultan",
         "model": "GBSULTRSX",
         "category": "custom",
-        "name": "GBSULTRSX",
+        "name": "RS",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBNEONCT": {
-        "brand": "GB",
+        "brand": "Pfister",
         "model": "GBNEONCT",
         "category": "custom",
-        "name": "GBNEONCT",
+        "name": "Neon CT",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
-    "GBDOMGSX": {
-        "brand": "GB",
-        "model": "GBDOMGSX",
+    "GBDOMINATORGSX": {
+        "brand": "Vapid",
+        "model": "GBDOMINATORGSX",
         "category": "custom",
-        "name": "GBDOMGSX",
+        "name": "Dominator GSX",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8044,7 +8044,7 @@
         "type": "automobile",
         "hash": 0,
         "price": 100000
-    }
+    },
     "GBBISONSTX": {
         "brand": "GB",
         "model": "GBBISONSTX",
@@ -8143,8 +8143,8 @@
         "type": "automobile",
         "hash": 0,
         "price": 100000
-    }
-        "GBADMIRAL": {
+    },
+    "GBADMIRAL": {
         "brand": "GB",
         "model": "GBADMIRAL",
         "category": "custom",
@@ -8198,15 +8198,6 @@
         "hash": 0,
         "price": 100000
     },
-    "GBVOYAGERB": {
-        "brand": "GB",
-        "model": "GBVOYAGERB",
-        "category": "custom",
-        "name": "GBVOYAGERB",
-        "type": "automobile",
-        "hash": 0,
-        "price": 100000
-    },
     "GBVOYAGERH": {
         "brand": "GB",
         "model": "GBVOYAGERH",
@@ -8247,16 +8238,16 @@
         "brand": "GB",
         "model": "GBBOXBOYFT",
         "category": "custom",
-        "name": "GBBOXBOYFT",
+        "name": "Food Truck",
         "type": "automobile",
         "hash": 0,
         "price": 100000
-    }
-        "GBVOYAGERB": {
+    },
+    "GBVOYAGERB": {
         "brand": "GB",
         "model": "GBVOYAGERB",
         "category": "custom",
-        "name": "GBVOYAGERB",
+        "name": "Voyager",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8397,15 +8388,15 @@
         "price": 100000
     },
     "GBTR3S": {
-        "brand": "GB",
+        "brand": "Progen",
         "model": "GBTR3S",
         "category": "custom",
-        "name": "GBTR3S",
+        "name": "TR3S",
         "type": "automobile",
         "hash": 0,
         "price": 100000
-    }
-        "BANSHEES": {
+    },
+    "BANSHEES": {
         "brand": "Unknown",
         "model": "BANSHEES",
         "category": "custom",
@@ -8486,7 +8477,4 @@
         "hash": 0,
         "price": 100000
     }
-   
-  
-
 }
