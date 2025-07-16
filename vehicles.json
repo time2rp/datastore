@@ -7936,5 +7936,545 @@
         "type": "automobile",
         "hash": 1912215274,
         "price": 80470
+    },
+    "GBMOGULRS": {
+        "brand": "Karin",
+        "model": "GBMOGULRS",
+        "category": "custom",
+        "name": "Mogul RS",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBSULTRSX": {
+        "brand": "Sultan",
+        "model": "GBSULTRSX",
+        "category": "custom",
+        "name": "RSX",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBNEONCT": {
+        "brand": "Pfister",
+        "model": "GBNEONCT",
+        "category": "custom",
+        "name": "Neon CT",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBDOMINATORGSX": {
+        "brand": "Vapid",
+        "model": "GBDOMINATORGSX",
+        "category": "custom",
+        "name": "Dominator GSX",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBKOMODAGT": {
+        "brand": "lampadati",
+        "model": "GBKOMODAGT",
+        "category": "custom",
+        "name": "Komoda GT",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBBISONHF": {
+        "brand": "Bravado",
+        "model": "GBBISONHF",
+        "category": "custom",
+        "name": "Bison HF",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBARGENTO7F": {
+        "brand": "Obey",
+        "model": "GBARGENTO7F",
+        "category": "custom",
+        "name": "Argento 7F",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBGRESLEYSTX": {
+        "brand": "Bravado",
+        "model": "GBGRESLEYSTX",
+        "category": "custom",
+        "name": "Gresley STX",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBHARMENN": {
+        "brand": "Benefactor",
+        "model": "GBHARMENN",
+        "category": "custom",
+        "name": "HARMENN",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBIRISZ": {
+        "brand": "Bollokan",
+        "model": "GBIRISZ",
+        "category": "custom",
+        "name": "IRISZ",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBISSIMETRO": {
+        "brand": "Weeny",
+        "model": "GBISSIMETRO",
+        "category": "custom",
+        "name": "ISSIMETRO",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBSIDEWINDER": {
+        "brand": "Maxwell",
+        "model": "GBSIDEWINDER",
+        "category": "custom",
+        "name": "SIDEWINDER",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBBISONSTX": {
+        "brand": "Bravado",
+        "model": "GBBISONSTX",
+        "category": "custom",
+        "name": "BISON STX",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBESPERTA": {
+        "brand": "Bravado",
+        "model": "GBESPERTA",
+        "category": "custom",
+        "name": "ESPERTA",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBTAHGT": {
+        "brand": "vulcar",
+        "model": "GBTAHGT",
+        "category": "custom",
+        "name": "TAHGT",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBSTARLGHT": {
+        "brand": "Vulcar",
+        "model": "GBSTARLGHT",
+        "category": "custom",
+        "name": "STARLG HT",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBSCHRAUBER": {
+        "brand": "Benefactor",
+        "model": "GBSCHRAUBER",
+        "category": "custom",
+        "name": "SCHRAUBER",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "gbbriosof": {
+        "brand": "Grotti",
+        "model": "gbbriosof",
+        "category": "custom",
+        "name": "Brios of",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "gbimpaler": {
+        "brand": "Impaler",
+        "model": "gbimpaler",
+        "category": "custom",
+        "name": "Impaler",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBMOJAVE": {
+        "brand": "karin",
+        "model": "GBMOJAVE",
+        "category": "custom",
+        "name": "MOJAVE",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "gbraidillon": {
+        "brand": "Toundra",
+        "model": "gbraidillon",
+        "category": "custom",
+        "name": "Raidillon",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBTURGT": {
+        "brand": "Dundreary",
+        "model": "GBTURGT",
+        "category": "custom",
+        "name": "TUR GT",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBVIVANT": {
+        "brand": "Bordeaux",
+        "model": "GBVIVANT",
+        "category": "custom",
+        "name": "VIVANT",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBADMIRAL": {
+        "brand": "Dundreary",
+        "model": "GBADMIRAL",
+        "category": "custom",
+        "name": "ADMIRAL",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBHADES": {
+        "brand": "dundreary",
+        "model": "GBHADES",
+        "category": "custom",
+        "name": "HADES",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBTERRORIZER": {
+        "brand": "Hvy",
+        "model": "GBTERRORIZER",
+        "category": "custom",
+        "name": "TERRORIZER",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "TOWTRUCK3": {
+        "brand": "truck",
+        "model": "TOWTRUCK3",
+        "category": "custom",
+        "name": "TOWTRUCK3",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBVOYAGER": {
+        "brand": "brute",
+        "model": "GBVOYAGER",
+        "category": "custom",
+        "name": "VOYAGER",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBVOYAGER2": {
+        "brand": "brute",
+        "model": "GBVOYAGER2",
+        "category": "custom",
+        "name": "VOYAGER2",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBVOYAGERH": {
+        "brand": "brute",
+        "model": "GBVOYAGERH",
+        "category": "custom",
+        "name": "VOYAGERH",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBVOYAGERG": {
+        "brand": "brute",
+        "model": "GBVOYAGERG",
+        "category": "custom",
+        "name": "VOYAGERG",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBVOYAGERB2": {
+        "brand": "brute",
+        "model": "GBVOYAGERB2",
+        "category": "custom",
+        "name": "VOYAGERB2",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBBOXBOY": {
+        "brand": "brute",
+        "model": "GBBOXBOY",
+        "category": "custom",
+        "name": "boxboy",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBBOXBOYFT": {
+        "brand": "brute",
+        "model": "GBBOXBOYFT",
+        "category": "custom",
+        "name": "Food Truck",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBVOYAGERB": {
+        "brand": "brute",
+        "model": "GBVOYAGERB",
+        "category": "custom",
+        "name": "Voyager",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBPROSPERO": {
+        "brand": "pegassi",
+        "model": "GBPROSPERO",
+        "category": "custom",
+        "name": "Prospero",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBSAPPHIRE": {
+        "brand": "Enus",
+        "model": "GBSAPPHIRE",
+        "category": "custom",
+        "name": "Sapphire",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GB811S2": {
+        "brand": "Pfister",
+        "model": "GB811S2",
+        "category": "custom",
+        "name": "811 S2",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBCOMETS2R": {
+        "brand": "Pfister",
+        "model": "GBCOMETS2R",
+        "category": "custom",
+        "name": "Comet S2R",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBCOMETS2RC": {
+        "brand": "Pfister",
+        "model": "GBCOMETS2RC",
+        "category": "custom",
+        "name": "Comet 2RC",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBSCHLAGENR": {
+        "brand": "Benefactor",
+        "model": "GBSCHLAGENR",
+        "category": "custom",
+        "name": "Schlagenr",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBTENFR": {
+        "brand": "Obey",
+        "model": "GBTENFR",
+        "category": "custom",
+        "name": "Ten FR",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBSENTINELGTS": {
+        "brand": "Ubermacht",
+        "model": "GBSENTINELGTS",
+        "category": "custom",
+        "name": "Sentinel GTS",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBSCHWARZ": {
+        "brand": "Benefactor",
+        "model": "GBSCHWARZ",
+        "category": "custom",
+        "name": "Schwarz",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBSOLACE": {
+        "brand": "Dewbauchee",
+        "model": "GBSOLACE",
+        "category": "custom",
+        "name": "Solace",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "ElegyRH7": {
+        "brand": "Elegy",
+        "model": "ElegyRH7",
+        "category": "custom",
+        "name": "Elegy RH7",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBBANSHEES": {
+        "brand": "Bravado",
+        "model": "GBBANSHEE",
+        "category": "custom",
+        "name": "Banshees",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBMILANO": {
+        "brand": "Grotti",
+        "model": "GBMILANO",
+        "category": "custom",
+        "name": "milano",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBNEXUSRR": {
+        "brand": "Dinka",
+        "model": "GBNEXUSRR",
+        "category": "custom",
+        "name": "Nexus RR",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBRONIN": {
+        "brand": "emperor",
+        "model": "GBRONIN",
+        "category": "custom",
+        "name": "Ronin",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBTR3S": {
+        "brand": "Progen",
+        "model": "GBTR3S",
+        "category": "custom",
+        "name": "TR3 S",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "BANSHEES": {
+        "brand": "pfister",
+        "model": "BANSHEES",
+        "category": "custom",
+        "name": "BANSHEES",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "SOLACEV": {
+        "brand": "Unknown",
+        "model": "SOLACEV",
+        "category": "custom",
+        "name": "SOLACEV",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "SCHLAGENSP": {
+        "brand": "Unknown",
+        "model": "SCHLAGENSP",
+        "category": "custom",
+        "name": "SCHLAGENSP",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "Cypherct": {
+        "brand": "Unknown",
+        "model": "Cypherct",
+        "category": "custom",
+        "name": "Cypher ct",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "CLUBXR": {
+        "brand": "BF",
+        "model": "CLUBXR",
+        "category": "custom",
+        "name": "Club XR",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "COMETS1T": {
+        "brand": "Pfister",
+        "model": "COMETS1T",
+        "category": "custom",
+        "name": "Comet S1T",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "GBEON": {
+        "brand": "Coil",
+        "model": "eonn",
+        "category": "custom",
+        "name": "Eon",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "TROPHYTRUNBK2": {
+        "brand": "Unknown",
+        "model": "TROPHYTRUNBK2",
+        "category": "custom",
+        "name": "TROPHYTRUNBK2",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "TROPHYTRUNK": {
+        "brand": "Unknown",
+        "model": "TROPHYTRUNK",
+        "category": "custom",
+        "name": "TROPHYTRUNK",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
     }
 }
