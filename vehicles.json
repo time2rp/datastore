@@ -7974,196 +7974,196 @@
         "price": 100000
     },
     "GBKOMODAGT": {
-        "brand": "GB",
+        "brand": "lampadati",
         "model": "GBKOMODAGT",
         "category": "custom",
-        "name": "GBKOMODAGT",
+        "name": "KOMODAGT",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBBISONHF": {
-        "brand": "GB",
+        "brand": "bravado",
         "model": "GBBISONHF",
         "category": "custom",
-        "name": "GBBISONHF",
+        "name": "BISONHF",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBARGENTO7F": {
-        "brand": "GB",
+        "brand": "Obey",
         "model": "GBARGENTO7F",
         "category": "custom",
-        "name": "GBARGENTO7F",
+        "name": "ARGENTO7F",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBGRESLEYSTX": {
-        "brand": "GB",
+        "brand": "bravado",
         "model": "GBGRESLEYSTX",
         "category": "custom",
-        "name": "GBGRESLEYSTX",
+        "name": "GRESLEYSTX",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBHARMENN": {
-        "brand": "GB",
+        "brand": "benefactor",
         "model": "GBHARMENN",
         "category": "custom",
-        "name": "GBHARMENN",
+        "name": "HARMENN",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBIRISZ": {
-        "brand": "GB",
+        "brand": "bollokan",
         "model": "GBIRISZ",
         "category": "custom",
-        "name": "GBIRISZ",
+        "name": "IRISZ",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBISSIMETRO": {
-        "brand": "GB",
+        "brand": "weeny",
         "model": "GBISSIMETRO",
         "category": "custom",
-        "name": "GBISSIMETRO",
+        "name": "ISSIMETRO",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBSIDEWINDER": {
-        "brand": "GB",
+        "brand": "maxwell",
         "model": "GBSIDEWINDER",
         "category": "custom",
-        "name": "GBSIDEWINDER",
+        "name": "SIDEWINDER",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBBISONSTX": {
-        "brand": "GB",
+        "brand": "bravado",
         "model": "GBBISONSTX",
         "category": "custom",
-        "name": "GBBISONSTX",
+        "name": "BISONSTX",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBESPERTA": {
-        "brand": "GB",
+        "brand": "bravado",
         "model": "GBESPERTA",
         "category": "custom",
-        "name": "GBESPERTA",
+        "name": "ESPERTA",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBTAHGT": {
-        "brand": "GB",
+        "brand": "vulcar",
         "model": "GBTAHGT",
         "category": "custom",
-        "name": "GBTAHGT",
+        "name": "TAHGT",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBSTARLGHT": {
-        "brand": "GB",
+        "brand": "vulcar",
         "model": "GBSTARLGHT",
         "category": "custom",
-        "name": "GBSTARLGHT",
+        "name": "STARLGHT",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBSCHRAUBER": {
-        "brand": "GB",
+        "brand": "benefactor",
         "model": "GBSCHRAUBER",
         "category": "custom",
-        "name": "GBSCHRAUBER",
+        "name": "SCHRAUBER",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "gbbriosof": {
-        "brand": "GB",
+        "brand": "grotti",
         "model": "gbbriosof",
         "category": "custom",
-        "name": "gbbriosof",
+        "name": "briosof",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "gbimpaler": {
-        "brand": "GB",
+        "brand": "impaler",
         "model": "gbimpaler",
         "category": "custom",
-        "name": "gbimpaler",
+        "name": "impaler",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBMOJAVE": {
-        "brand": "GB",
+        "brand": "karin",
         "model": "GBMOJAVE",
         "category": "custom",
-        "name": "GBMOJAVE",
+        "name": "MOJAVE",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "gbraidillon": {
-        "brand": "GB",
+        "brand": "toundra",
         "model": "gbraidillon",
         "category": "custom",
-        "name": "gbraidillon",
+        "name": "raidillon",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBTURGT": {
-        "brand": "GB",
+        "brand": "dundreary",
         "model": "GBTURGT",
         "category": "custom",
-        "name": "GBTURGT",
+        "name": "TURGT",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBVIVANT": {
-        "brand": "GB",
+        "brand": "bordeaux",
         "model": "GBVIVANT",
         "category": "custom",
-        "name": "GBVIVANT",
+        "name": "VIVANT",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBADMIRAL": {
-        "brand": "GB",
+        "brand": "dundreary",
         "model": "GBADMIRAL",
         "category": "custom",
-        "name": "GBADMIRAL",
+        "name": "ADMIRAL",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBHADES": {
-        "brand": "GB",
+        "brand": "dundreary",
         "model": "GBHADES",
         "category": "custom",
-        "name": "GBHADES",
+        "name": "HADES",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBTERRORIZER": {
-        "brand": "GB",
+        "brand": "hvy",
         "model": "GBTERRORIZER",
         "category": "custom",
         "name": "GBTERRORIZER",
@@ -8172,7 +8172,7 @@
         "price": 100000
     },
     "TOWTRUCK3": {
-        "brand": "GB",
+        "brand": "truck",
         "model": "TOWTRUCK3",
         "category": "custom",
         "name": "TOWTRUCK3",
@@ -8181,61 +8181,61 @@
         "price": 100000
     },
     "GBVOYAGER": {
-        "brand": "GB",
+        "brand": "brute",
         "model": "GBVOYAGER",
         "category": "custom",
-        "name": "GBVOYAGER",
+        "name": "VOYAGER",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBVOYAGER2": {
-        "brand": "GB",
+        "brand": "brute",
         "model": "GBVOYAGER2",
         "category": "custom",
-        "name": "GBVOYAGER2",
+        "name": "VOYAGER2",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBVOYAGERH": {
-        "brand": "GB",
+        "brand": "brute",
         "model": "GBVOYAGERH",
         "category": "custom",
-        "name": "GBVOYAGERH",
+        "name": "VOYAGERH",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBVOYAGERG": {
-        "brand": "GB",
+        "brand": "brute",
         "model": "GBVOYAGERG",
         "category": "custom",
-        "name": "GBVOYAGERG",
+        "name": "VOYAGERG",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBVOYAGERB2": {
-        "brand": "GB",
+        "brand": "brute",
         "model": "GBVOYAGERB2",
         "category": "custom",
-        "name": "GBVOYAGERB2",
+        "name": "VOYAGERB2",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBBOXBOY": {
-        "brand": "GB",
+        "brand": "brute",
         "model": "GBBOXBOY",
         "category": "custom",
-        "name": "GBBOXBOY",
+        "name": "boxboy",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBBOXBOYFT": {
-        "brand": "GB",
+        "brand": "brute",
         "model": "GBBOXBOYFT",
         "category": "custom",
         "name": "Food Truck",
@@ -8244,7 +8244,7 @@
         "price": 100000
     },
     "GBVOYAGERB": {
-        "brand": "GB",
+        "brand": "brute",
         "model": "GBVOYAGERB",
         "category": "custom",
         "name": "Voyager",
@@ -8253,97 +8253,97 @@
         "price": 100000
     },
     "GBPROSPERO": {
-        "brand": "GB",
+        "brand": "pegassi",
         "model": "GBPROSPERO",
         "category": "custom",
-        "name": "GBPROSPERO",
+        "name": "PROSPERO",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBSAPPHIRE": {
-        "brand": "GB",
+        "brand": "enus",
         "model": "GBSAPPHIRE",
         "category": "custom",
-        "name": "GBSAPPHIRE",
+        "name": "SAPPHIRE",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GB811S2": {
-        "brand": "GB",
+        "brand": "pfister",
         "model": "GB811S2",
         "category": "custom",
-        "name": "GB811S2",
+        "name": "811S2",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBCOMETS2R": {
-        "brand": "GB",
+        "brand": "pfister",
         "model": "GBCOMETS2R",
         "category": "custom",
-        "name": "GBCOMETS2R",
+        "name": "COMETS2R",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBCOMETS2RC": {
-        "brand": "Unknown",
+        "brand": "pfister",
         "model": "GBCOMETS2RC",
         "category": "custom",
-        "name": "GBCOMETS2RC",
+        "name": "COMETS2RC",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBSCHLAGENR": {
-        "brand": "GB",
+        "brand": "benefactor",
         "model": "GBSCHLAGENR",
         "category": "custom",
-        "name": "GBSCHLAGENR",
+        "name": "SCHLAGENR",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBTENFR": {
-        "brand": "GB",
+        "brand": "obey",
         "model": "GBTENFR",
         "category": "custom",
-        "name": "GBTENFR",
+        "name": "TENFR",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBSENTINELGTS": {
-        "brand": "GB",
+        "brand": "ubermacht",
         "model": "GBSENTINELGTS",
         "category": "custom",
-        "name": "GBSENTINELGTS",
+        "name": "SENTINELGTS",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBSCHWARZ": {
-        "brand": "GB",
+        "brand": "benefactor",
         "model": "GBSCHWARZ",
         "category": "custom",
-        "name": "GBSCHWARZ",
+        "name": "SCHWARZ",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBSOLACE": {
-        "brand": "GB",
+        "brand": "dewbauchee",
         "model": "GBSOLACE",
         "category": "custom",
-        "name": "GBSOLACE",
+        "name": "SOLACE",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "ElegyRH7": {
-        "brand": "GB",
+        "brand": "Elegy",
         "model": "ElegyRH7",
         "category": "custom",
         "name": "ElegyRH7",
@@ -8351,38 +8351,38 @@
         "hash": 0,
         "price": 100000
     },
-    "GBBANSHEE": {
-        "brand": "GB",
+    "GBBANSHEES": {
+        "brand": "bravado",
         "model": "GBBANSHEE",
         "category": "custom",
-        "name": "GBBANSHEE",
+        "name": "BANSHEE",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBMILANO": {
-        "brand": "GB",
+        "brand": "grotti",
         "model": "GBMILANO",
         "category": "custom",
-        "name": "GBMILANO",
+        "name": "milano",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBNEXUSRR": {
-        "brand": "GB",
+        "brand": " dinka",
         "model": "GBNEXUSRR",
         "category": "custom",
-        "name": "GBNEXUSRR",
+        "name": "nexusrr",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "GBRONIN": {
-        "brand": "GB",
+        "brand": "emperor",
         "model": "GBRONIN",
         "category": "custom",
-        "name": "GBRONIN",
+        "name": "Ronin",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8451,10 +8451,10 @@
         "price": 100000
     },
     "GBEON": {
-        "brand": "Unknown",
-        "model": "GBEON",
+        "brand": "coil",
+        "model": "eonn",
         "category": "custom",
-        "name": "GBEON",
+        "name": "EON",
         "type": "automobile",
         "hash": 0,
         "price": 100000
