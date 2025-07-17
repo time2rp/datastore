@@ -7937,7 +7937,7 @@
         "hash": 1912215274,
         "price": 80470
     },
-    "GBMOGULRS": {
+    "gbmogulrs": {
         "brand": "Karin",
         "model": "GBMOGULRS",
         "category": "custom",
@@ -7946,7 +7946,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSULTRSX": {
+    "gbsultrsx": {
         "brand": "Sultan",
         "model": "GBSULTRSX",
         "category": "custom",
@@ -7955,7 +7955,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBNEONCT": {
+    "gbneonct": {
         "brand": "Pfister",
         "model": "GBNEONCT",
         "category": "custom",
@@ -7964,7 +7964,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBDOMINATORGSX": {
+    "gbdominatorgsx": {
         "brand": "Vapid",
         "model": "GBDOMINATORGSX",
         "category": "custom",
@@ -7973,7 +7973,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBKOMODAGT": {
+    "gbkomodagt": {
         "brand": "lampadati",
         "model": "GBKOMODAGT",
         "category": "custom",
@@ -7982,7 +7982,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBBISONHF": {
+    "gbbisonhf": {
         "brand": "Bravado",
         "model": "GBBISONHF",
         "category": "custom",
@@ -7991,7 +7991,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBARGENTO7F": {
+    "gbargento7f": {
         "brand": "Obey",
         "model": "GBARGENTO7F",
         "category": "custom",
@@ -8000,7 +8000,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBGRESLEYSTX": {
+    "gbgresleystx": {
         "brand": "Bravado",
         "model": "GBGRESLEYSTX",
         "category": "custom",
@@ -8009,7 +8009,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBHARMENN": {
+    "gbharmenn": {
         "brand": "Benefactor",
         "model": "GBHARMENN",
         "category": "custom",
@@ -8018,7 +8018,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBIRISZ": {
+    "gbirisz": {
         "brand": "Bollokan",
         "model": "GBIRISZ",
         "category": "custom",
@@ -8027,7 +8027,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBISSIMETRO": {
+    "gbissimetro": {
         "brand": "Weeny",
         "model": "GBISSIMETRO",
         "category": "custom",
@@ -8036,7 +8036,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSIDEWINDER": {
+    "gbsidewinder": {
         "brand": "Maxwell",
         "model": "GBSIDEWINDER",
         "category": "custom",
@@ -8045,7 +8045,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBBISONSTX": {
+    "gbbisonstx": {
         "brand": "Bravado",
         "model": "GBBISONSTX",
         "category": "custom",
@@ -8054,7 +8054,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBESPERTA": {
+    "gbesperta": {
         "brand": "Bravado",
         "model": "GBESPERTA",
         "category": "custom",
@@ -8063,7 +8063,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTAHGT": {
+    "gbtahgt": {
         "brand": "vulcar",
         "model": "GBTAHGT",
         "category": "custom",
@@ -8072,7 +8072,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSTARLGHT": {
+    "gbstarlght": {
         "brand": "Vulcar",
         "model": "GBSTARLGHT",
         "category": "custom",
@@ -8081,7 +8081,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSCHRAUBER": {
+    "gbschrauber": {
         "brand": "Benefactor",
         "model": "GBSCHRAUBER",
         "category": "custom",
@@ -8108,7 +8108,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBMOJAVE": {
+    "gbmojave": {
         "brand": "karin",
         "model": "GBMOJAVE",
         "category": "custom",
@@ -8126,7 +8126,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTURGT": {
+    "gbturgt": {
         "brand": "Dundreary",
         "model": "GBTURGT",
         "category": "custom",
@@ -8135,7 +8135,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBVIVANT": {
+    "gbvivant": {
         "brand": "Bordeaux",
         "model": "GBVIVANT",
         "category": "custom",
@@ -8144,7 +8144,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBADMIRAL": {
+    "gbadmiral": {
         "brand": "Dundreary",
         "model": "GBADMIRAL",
         "category": "custom",
@@ -8153,7 +8153,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBHADES": {
+    "gbhades": {
         "brand": "dundreary",
         "model": "GBHADES",
         "category": "custom",
@@ -8162,7 +8162,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTERRORIZER": {
+    "gbterrorizer": {
         "brand": "Hvy",
         "model": "GBTERRORIZER",
         "category": "custom",
@@ -8171,7 +8171,7 @@
         "hash": 0,
         "price": 100000
     },
-    "TOWTRUCK3": {
+    "towtruck3": {
         "brand": "truck",
         "model": "TOWTRUCK3",
         "category": "custom",
@@ -8180,7 +8180,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBVOYAGER": {
+    "gbvoyager": {
         "brand": "brute",
         "model": "GBVOYAGER",
         "category": "custom",
@@ -8189,7 +8189,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBVOYAGER2": {
+    "gbvoyager2": {
         "brand": "brute",
         "model": "GBVOYAGER2",
         "category": "custom",
@@ -8198,7 +8198,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBVOYAGERH": {
+    "gbvoyagerh": {
         "brand": "brute",
         "model": "GBVOYAGERH",
         "category": "custom",
@@ -8207,7 +8207,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBVOYAGERG": {
+    "gbvoyagerg": {
         "brand": "brute",
         "model": "GBVOYAGERG",
         "category": "custom",
@@ -8216,7 +8216,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBVOYAGERB2": {
+    "gbvoyagerb2": {
         "brand": "brute",
         "model": "GBVOYAGERB2",
         "category": "custom",
@@ -8225,7 +8225,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBBOXBOY": {
+    "gbboxboy": {
         "brand": "brute",
         "model": "GBBOXBOY",
         "category": "custom",
@@ -8234,7 +8234,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBBOXBOYFT": {
+    "gbboxboyft": {
         "brand": "brute",
         "model": "GBBOXBOYFT",
         "category": "custom",
@@ -8243,7 +8243,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBVOYAGERB": {
+    "gbvoyagerb": {
         "brand": "brute",
         "model": "GBVOYAGERB",
         "category": "custom",
@@ -8252,7 +8252,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBPROSPERO": {
+    "gbprospero": {
         "brand": "pegassi",
         "model": "GBPROSPERO",
         "category": "custom",
@@ -8261,7 +8261,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSAPPHIRE": {
+    "gbsapphire": {
         "brand": "Enus",
         "model": "GBSAPPHIRE",
         "category": "custom",
@@ -8270,7 +8270,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GB811S2": {
+    "gb811s2": {
         "brand": "Pfister",
         "model": "GB811S2",
         "category": "custom",
@@ -8279,7 +8279,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBCOMETS2R": {
+    "gbcomets2r": {
         "brand": "Pfister",
         "model": "GBCOMETS2R",
         "category": "custom",
@@ -8288,7 +8288,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBCOMETS2RC": {
+    "gbcomets2rc": {
         "brand": "Pfister",
         "model": "GBCOMETS2RC",
         "category": "custom",
@@ -8297,7 +8297,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSCHLAGENR": {
+    "gbschlagenr": {
         "brand": "Benefactor",
         "model": "GBSCHLAGENR",
         "category": "custom",
@@ -8306,7 +8306,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTENFR": {
+    "gbtenfr": {
         "brand": "Obey",
         "model": "GBTENFR",
         "category": "custom",
@@ -8315,7 +8315,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSENTINELGTS": {
+    "gbsentinelgts": {
         "brand": "Ubermacht",
         "model": "GBSENTINELGTS",
         "category": "custom",
@@ -8324,7 +8324,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSCHWARZ": {
+    "gbschwarz": {
         "brand": "Benefactor",
         "model": "GBSCHWARZ",
         "category": "custom",
@@ -8333,7 +8333,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSOLACE": {
+    "gbsolace": {
         "brand": "Dewbauchee",
         "model": "GBSOLACE",
         "category": "custom",
@@ -8342,7 +8342,7 @@
         "hash": 0,
         "price": 100000
     },
-    "ElegyRH7": {
+    "elegyrh7": {
         "brand": "Elegy",
         "model": "ElegyRH7",
         "category": "custom",
@@ -8351,7 +8351,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBBANSHEES": {
+    "gbbanshees": {
         "brand": "Bravado",
         "model": "GBBANSHEE",
         "category": "custom",
@@ -8360,7 +8360,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBMILANO": {
+    "gbmilano": {
         "brand": "Grotti",
         "model": "GBMILANO",
         "category": "custom",
@@ -8369,7 +8369,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBNEXUSRR": {
+    "gbnexusrr": {
         "brand": "Dinka",
         "model": "GBNEXUSRR",
         "category": "custom",
@@ -8378,7 +8378,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBRONIN": {
+    "gbronin": {
         "brand": "emperor",
         "model": "GBRONIN",
         "category": "custom",
@@ -8387,7 +8387,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTR3S": {
+    "gbtr3s": {
         "brand": "Progen",
         "model": "GBTR3S",
         "category": "custom",
@@ -8396,7 +8396,7 @@
         "hash": 0,
         "price": 100000
     },
-    "BANSHEES": {
+    "banshees": {
         "brand": "pfister",
         "model": "BANSHEES",
         "category": "custom",
@@ -8405,7 +8405,7 @@
         "hash": 0,
         "price": 100000
     },
-    "SOLACEV": {
+    "solacev": {
         "brand": "Unknown",
         "model": "SOLACEV",
         "category": "custom",
@@ -8414,7 +8414,7 @@
         "hash": 0,
         "price": 100000
     },
-    "SCHLAGENSP": {
+    "schlagensp": {
         "brand": "Unknown",
         "model": "SCHLAGENSP",
         "category": "custom",
@@ -8423,7 +8423,7 @@
         "hash": 0,
         "price": 100000
     },
-    "Cypherct": {
+    "cypherct": {
         "brand": "Unknown",
         "model": "Cypherct",
         "category": "custom",
@@ -8432,7 +8432,7 @@
         "hash": 0,
         "price": 100000
     },
-    "CLUBXR": {
+    "clubxr": {
         "brand": "BF",
         "model": "CLUBXR",
         "category": "custom",
@@ -8441,7 +8441,7 @@
         "hash": 0,
         "price": 100000
     },
-    "COMETS1T": {
+    "comets1t": {
         "brand": "Pfister",
         "model": "COMETS1T",
         "category": "custom",
@@ -8450,7 +8450,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBEON": {
+    "gbeon": {
         "brand": "Coil",
         "model": "eonn",
         "category": "custom",
@@ -8459,7 +8459,7 @@
         "hash": 0,
         "price": 100000
     },
-    "TROPHYTRUNBK2": {
+    "trophytrunbk2": {
         "brand": "Unknown",
         "model": "TROPHYTRUNBK2",
         "category": "custom",
@@ -8468,7 +8468,7 @@
         "hash": 0,
         "price": 100000
     },
-    "TROPHYTRUNK": {
+    "trophytrunk": {
         "brand": "Unknown",
         "model": "TROPHYTRUNK",
         "category": "custom",
