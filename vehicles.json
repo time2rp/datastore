@@ -8253,7 +8253,7 @@
         "price": 100000
     },
     "gbprospero": {
-        "brand": "pegassi",
+        "brand": "Pegassi",
         "model": "GBPROSPERO",
         "category": "custom",
         "name": "Prospero",
@@ -8355,7 +8355,7 @@
         "brand": "Bravado",
         "model": "GBBANSHEE",
         "category": "custom",
-        "name": "Banshees",
+        "name": "Banshee S",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8379,7 +8379,7 @@
         "price": 100000
     },
     "gbronin": {
-        "brand": "emperor",
+        "brand": "Emperor",
         "model": "GBRONIN",
         "category": "custom",
         "name": "Ronin",
@@ -8397,10 +8397,10 @@
         "price": 100000
     },
     "banshees": {
-        "brand": "pfister",
+        "brand": "Pfister",
         "model": "BANSHEES",
         "category": "custom",
-        "name": "BANSHEES",
+        "name": "Banshee S",
         "type": "automobile",
         "hash": 0,
         "price": 100000
