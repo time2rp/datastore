@@ -920,14 +920,6 @@ Config.Vehicles = {
         braking = 20,
     },
     {
-        model = "toreador",
-        category = "sports",
-        price = 17500,
-        speed = 30,
-        acceleration = 25,
-        braking = 20,
-    },
-    {
         model = "vivanite",
         category = "sports",
         price = 16500,
