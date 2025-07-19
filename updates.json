@@ -1,21 +1,14 @@
 {
-  "patch": "Patch 2.0",
+  "patch": "2.01",
   "changes": [
     {
-      "title": "New heists",
+      "title": "Time2RP 2.0",
       "changes": [
-        "Heist 1",
-        "Heist 2",
-        "Heist 3"
-      ]
-    },
-    {
-      "title": "Quality of Life",
-      "changes": [
-        "Fixed some bugs",
-        "More bug fixes",
-        "Added some new features",
-        "QOL Added everywhere"
+        "Brand New UI",
+        "Fully Bespoke Framework",
+        "New & Improved Civ life",
+        "Advanced Health System",
+        "Brand New Inventory System"
       ]
     }
   ]
