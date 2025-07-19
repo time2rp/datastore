@@ -1,0 +1,22 @@
+{
+  "patch": "Patch 2.0",
+  "changes": [
+    {
+      "title": "New heists",
+      "changes": [
+        "Heist 1",
+        "Heist 2",
+        "Heist 3"
+      ]
+    },
+    {
+      "title": "Quality of Life",
+      "changes": [
+        "Fixed some bugs",
+        "More bug fixes",
+        "Added some new features",
+        "QOL Added everywhere"
+      ]
+    }
+  ]
+}
