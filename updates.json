@@ -1,14 +1,28 @@
 {
-  "patch": "2.01",
+  "patch": "2.03",
   "changes": [
     {
       "title": "Time2RP 2.0",
       "changes": [
-        "Brand New UI",
-        "Fully Bespoke Framework",
-        "New & Improved Civ life",
-        "Advanced Health System",
-        "Brand New Inventory System"
+        "Pocket weights increased",
+        "Item durabilities tweak",
+        "XP System Added to House Robberies",
+        "Burgershot fixes and improvements",
+        "EMS Vehicle Ped",
+        "Instant respawn bugfix",
+        "Exploits fixed",
+        "Trunks implemented",
+        "Business debit card fixes",
+        "Emergency vehicles are now harder to steal",
+        "Fuel consumption tweaks",
+        "Pharmacy Ped added",
+        "Tackling fixed",
+        "Additional lumber processing spots",
+        "Reduced distancing on /me",
+        "Health & Hunger issue resolved",
+        "Job duplicate notifications fixed",
+        "Vehicle rental costs revamped",
+        "Various other fixes and improvements throughout"
       ]
     }
   ]
