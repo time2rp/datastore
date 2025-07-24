@@ -7946,9 +7946,9 @@
         "hash": 0,
         "price": 100000
     },
-    "gbsultrsx": {
+    "gbsultanrsx": {
         "brand": "Sultan",
-        "model": "GBSULTRSX",
+        "model": "gbsultanrsx",
         "category": "custom",
         "name": "RSX",
         "type": "automobile",
