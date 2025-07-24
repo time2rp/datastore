@@ -1,28 +1,24 @@
 {
-  "patch": "2.0.3",
+  "patch": "2.0.4",
   "changes": [
     {
       "title": "Time2RP 2.0",
       "changes": [
-        "Pocket weights increased",
-        "Item durabilities tweak",
-        "XP System Added to House Robberies",
-        "Burgershot fixes and improvements",
-        "EMS Vehicle Ped",
-        "Instant respawn bugfix",
-        "Exploits fixed",
-        "Trunks implemented",
-        "Business debit card fixes",
-        "Emergency vehicles are now harder to steal",
-        "Fuel consumption tweaks",
-        "Pharmacy Ped added",
-        "Tackling fixed",
-        "Additional lumber processing spots",
-        "Reduced distancing on /me",
-        "Health & Hunger issue resolved",
-        "Job duplicate notifications fixed",
-        "Vehicle rental costs revamped",
-        "Various other fixes and improvements throughout"
+        "Updated Youtool Stock",
+        "Updated Crafting Recipes",
+        "Updated Electrical Job eco",
+        "Updated Garbage Job loot pools",
+        "Updated Garbage Job eco",
+        "Updated Lumberjack Job eco",
+        "Updated Jetwash Job eco",
+        "Updated Fishing eco and relocated vendor",
+        "Fixed Que Prio Issues",
+        "Updated TMR to have Recycler",
+        "Updated Health System",
+        "Added Q/E Keybinds to Inventory",
+        "Fixed Apartment Storage issues",
+        "Fixed Invisible Recycler Prop issue",
+        "Fixed Garbage Compacting"
       ]
     }
   ]
