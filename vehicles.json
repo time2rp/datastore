@@ -7928,7 +7928,7 @@
         "hash": 1912215274,
         "price": 80470
     },
-    "GBMOGULRS": {
+    "gbmogulrs": {
         "brand": "Karin",
         "model": "GBMOGULRS",
         "category": "custom",
@@ -7937,16 +7937,16 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSULTRSX": {
+    "gbsultanrsx": {
         "brand": "Sultan",
-        "model": "GBSULTRSX",
+        "model": "gbsultanrsx",
         "category": "custom",
         "name": "RSX",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
-    "GBNEONCT": {
+    "gbneonct": {
         "brand": "Pfister",
         "model": "GBNEONCT",
         "category": "custom",
@@ -7955,7 +7955,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBDOMINATORGSX": {
+    "gbdominatorgsx": {
         "brand": "Vapid",
         "model": "GBDOMINATORGSX",
         "category": "custom",
@@ -7964,7 +7964,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBKOMODAGT": {
+    "gbkomodagt": {
         "brand": "lampadati",
         "model": "GBKOMODAGT",
         "category": "custom",
@@ -7973,7 +7973,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBBISONHF": {
+    "gbbisonhf": {
         "brand": "Bravado",
         "model": "GBBISONHF",
         "category": "custom",
@@ -7982,7 +7982,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBARGENTO7F": {
+    "gbargento7f": {
         "brand": "Obey",
         "model": "GBARGENTO7F",
         "category": "custom",
@@ -7991,7 +7991,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBGRESLEYSTX": {
+    "gbgresleystx": {
         "brand": "Bravado",
         "model": "GBGRESLEYSTX",
         "category": "custom",
@@ -8000,7 +8000,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBHARMENN": {
+    "gbharmenn": {
         "brand": "Benefactor",
         "model": "GBHARMENN",
         "category": "custom",
@@ -8009,7 +8009,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBIRISZ": {
+    "gbirisz": {
         "brand": "Bollokan",
         "model": "GBIRISZ",
         "category": "custom",
@@ -8018,7 +8018,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBISSIMETRO": {
+    "gbissimetro": {
         "brand": "Weeny",
         "model": "GBISSIMETRO",
         "category": "custom",
@@ -8027,7 +8027,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSIDEWINDER": {
+    "gbsidewinder": {
         "brand": "Maxwell",
         "model": "GBSIDEWINDER",
         "category": "custom",
@@ -8036,7 +8036,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBBISONSTX": {
+    "gbbisonstx": {
         "brand": "Bravado",
         "model": "GBBISONSTX",
         "category": "custom",
@@ -8045,7 +8045,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBESPERTA": {
+    "gbesperta": {
         "brand": "Bravado",
         "model": "GBESPERTA",
         "category": "custom",
@@ -8054,7 +8054,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTAHGT": {
+    "gbtahgt": {
         "brand": "vulcar",
         "model": "GBTAHGT",
         "category": "custom",
@@ -8063,7 +8063,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSTARLGHT": {
+    "gbstarlght": {
         "brand": "Vulcar",
         "model": "GBSTARLGHT",
         "category": "custom",
@@ -8072,7 +8072,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSCHRAUBER": {
+    "gbschrauber": {
         "brand": "Benefactor",
         "model": "GBSCHRAUBER",
         "category": "custom",
@@ -8099,7 +8099,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBMOJAVE": {
+    "gbmojave": {
         "brand": "karin",
         "model": "GBMOJAVE",
         "category": "custom",
@@ -8117,7 +8117,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTURGT": {
+    "gbturgt": {
         "brand": "Dundreary",
         "model": "GBTURGT",
         "category": "custom",
@@ -8126,7 +8126,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBVIVANT": {
+    "gbvivant": {
         "brand": "Bordeaux",
         "model": "GBVIVANT",
         "category": "custom",
@@ -8135,7 +8135,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBADMIRAL": {
+    "gbadmiral": {
         "brand": "Dundreary",
         "model": "GBADMIRAL",
         "category": "custom",
@@ -8144,7 +8144,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBHADES": {
+    "gbhades": {
         "brand": "dundreary",
         "model": "GBHADES",
         "category": "custom",
@@ -8153,20 +8153,11 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTERRORIZER": {
+    "gbterrorizer": {
         "brand": "Hvy",
         "model": "GBTERRORIZER",
         "category": "custom",
         "name": "TERRORIZER",
-        "type": "automobile",
-        "hash": 0,
-        "price": 100000
-    },
-    "TOWTRUCK3": {
-        "brand": "truck",
-        "model": "TOWTRUCK3",
-        "category": "custom",
-        "name": "TOWTRUCK3",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8243,8 +8234,8 @@
         "hash": 0,
         "price": 100000
     },
-    "GBPROSPERO": {
-        "brand": "pegassi",
+    "gbprospero": {
+        "brand": "Pegassi",
         "model": "GBPROSPERO",
         "category": "custom",
         "name": "Prospero",
@@ -8252,7 +8243,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSAPPHIRE": {
+    "gbsapphire": {
         "brand": "Enus",
         "model": "GBSAPPHIRE",
         "category": "custom",
@@ -8261,7 +8252,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GB811S2": {
+    "gb811s2": {
         "brand": "Pfister",
         "model": "GB811S2",
         "category": "custom",
@@ -8270,7 +8261,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBCOMETS2R": {
+    "gbcomets2r": {
         "brand": "Pfister",
         "model": "GBCOMETS2R",
         "category": "custom",
@@ -8279,7 +8270,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBCOMETS2RC": {
+    "gbcomets2rc": {
         "brand": "Pfister",
         "model": "GBCOMETS2RC",
         "category": "custom",
@@ -8288,7 +8279,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSCHLAGENR": {
+    "gbschlagenr": {
         "brand": "Benefactor",
         "model": "GBSCHLAGENR",
         "category": "custom",
@@ -8297,7 +8288,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTENFR": {
+    "gbtenfr": {
         "brand": "Obey",
         "model": "GBTENFR",
         "category": "custom",
@@ -8306,7 +8297,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSENTINELGTS": {
+    "gbsentinelgts": {
         "brand": "Ubermacht",
         "model": "GBSENTINELGTS",
         "category": "custom",
@@ -8315,7 +8306,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSCHWARZ": {
+    "gbschwarz": {
         "brand": "Benefactor",
         "model": "GBSCHWARZ",
         "category": "custom",
@@ -8324,7 +8315,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSOLACE": {
+    "gbsolace": {
         "brand": "Dewbauchee",
         "model": "GBSOLACE",
         "category": "custom",
@@ -8333,7 +8324,7 @@
         "hash": 0,
         "price": 100000
     },
-    "ElegyRH7": {
+    "elegyrh7": {
         "brand": "Elegy",
         "model": "ElegyRH7",
         "category": "custom",
@@ -8342,16 +8333,16 @@
         "hash": 0,
         "price": 100000
     },
-    "GBBANSHEES": {
+    "gbbanshees": {
         "brand": "Bravado",
         "model": "GBBANSHEE",
         "category": "custom",
-        "name": "Banshees",
+        "name": "Banshee S",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
-    "GBMILANO": {
+    "gbmilano": {
         "brand": "Grotti",
         "model": "GBMILANO",
         "category": "custom",
@@ -8360,7 +8351,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBNEXUSRR": {
+    "gbnexusrr": {
         "brand": "Dinka",
         "model": "GBNEXUSRR",
         "category": "custom",
@@ -8378,7 +8369,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTR3S": {
+    "gbtr3s": {
         "brand": "Progen",
         "model": "GBTR3S",
         "category": "custom",
@@ -8387,11 +8378,11 @@
         "hash": 0,
         "price": 100000
     },
-    "BANSHEES": {
+    "banshees": {
         "brand": "Pfister",
         "model": "BANSHEES",
         "category": "custom",
-        "name": "Banshees",
+        "name": "Banshee S",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8414,7 +8405,7 @@
         "hash": 0,
         "price": 100000
     },
-    "Cypherct": {
+    "cypherct": {
         "brand": "Unknown",
         "model": "Cypherct",
         "category": "custom",
@@ -8423,7 +8414,7 @@
         "hash": 0,
         "price": 100000
     },
-    "CLUBXR": {
+    "clubxr": {
         "brand": "BF",
         "model": "CLUBXR",
         "category": "custom",
@@ -8432,7 +8423,7 @@
         "hash": 0,
         "price": 100000
     },
-    "COMETS1T": {
+    "comets1t": {
         "brand": "Pfister",
         "model": "COMETS1T",
         "category": "custom",
@@ -8441,7 +8432,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBEON": {
+    "gbeon": {
         "brand": "Coil",
         "model": "eonn",
         "category": "custom",
@@ -8450,7 +8441,7 @@
         "hash": 0,
         "price": 100000
     },
-    "TROPHYTRUNBK2": {
+    "trophytrunbk2": {
         "brand": "Unknown",
         "model": "TROPHYTRUNBK2",
         "category": "custom",
@@ -8459,16 +8450,7 @@
         "hash": 0,
         "price": 100000
     },
-    "TROPHYTRUNK": {
-        "brand": "Unknown",
-        "model": "TROPHYTRUNK",
-        "category": "custom",
-        "name": "TROPHYTRUNK",
-        "type": "automobile",
-        "hash": 0,
-        "price": 100000
-    }
-        {
+    "trophytrunk": {
         "brand": "Unknown",
         "model": "TROPHYTRUNK",
         "category": "custom",
@@ -8477,8 +8459,17 @@
         "hash": 0,
         "price": 100000
     },
-    "expolaleutian":[]{
-        "brand": "Vapid"
+    "unknown": {
+        "brand": "Unknown",
+        "model": "TROPHYTRUNK",
+        "category": "custom",
+        "name": "TROPHYTRUNK",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+    "expolaleutian": {
+        "brand": "Vapid",
         "model": "expolaleutian",
         "category": "emergency",
         "name": "Aleutian",
@@ -8487,10 +8478,10 @@
         "price": 80000
     },
     "expolbuffalo4": {
-        "brand": "Bravado"
+        "brand": "Bravado",
         "model": "expolbuffalo4",
         "category": "emergency",
-        "name": "Buffalo"
+        "name": "Buffalo",
         "type": "automobile",
         "hash": 11,
         "price": 80000
@@ -8532,7 +8523,7 @@
         "price": 80000
     },
     "expolomnisegt": {
-        "brand": "Bravado"
+        "brand": "Bravado",
         "model": "expolomnisegt",
         "category": "emergency",
         "name": "Omnise gt",
@@ -8541,34 +8532,34 @@
         "price": 80000
     },
     "expolregent": {
-        "brand": "Vapid"
+        "brand": "Vapid",
         "model": "expolregent",
         "category": "emergency",
-        "name": "Regent"
+        "name": "Regent",
         "type": "automobile",
         "hash": 17,
         "price": 80000
     },
     "expolstainer": {
-        "brand": "Vapid"
+        "brand": "Vapid",
         "model": "expolstainer",
         "category": "emergency",
-        "name": "Cvpi"
+        "name": "Cvpi",
         "type": "automobile",
         "hash": 18,
         "price": 80000
     },
     "expoltor": {
-        "brand": "Vapid"
+        "brand": "Vapid",
         "model": "expoltor",
         "category": "emergency",
-        "name": "Torruence"
+        "name": "Torruence",
         "type": "automobile",
         "hash": 19,
         "price": 80000
-    }
+    },
     "expolinsurgent": {
-        "brand": "Insurgent"
+        "brand": "Insurgent",
         "model": "expolinsurgent",
         "category": "emergency",
         "name": "Insurgent",
@@ -8577,16 +8568,16 @@
         "price": 100000
     },
     "expolmav": {
-        "brand": "Maverick"
+        "brand": "Maverick",
         "model": "expolmav",
         "category": "emergency",
-        "name": "Maverick"
+        "name": "Maverick",
         "type": "automobile",
         "hash": 21,
         "price": 120000
     },
     "polbf400": {
-        "brand": "Hakucho"
+        "brand": "Hakucho",
         "model": "polbf400",
         "category": "emergency",
         "name": "Bf400",
@@ -8595,7 +8586,7 @@
         "price": 60000
     },
     "polblazer": {
-        "brand": "Blazer"
+        "brand": "Blazer",
         "model": "polblazer",
         "category": "emergency",
         "name": "Blazer",
@@ -8604,7 +8595,7 @@
         "price": 55000
     },
     "polcoach": {
-        "brand": "Coach"
+        "brand": "Coach",
         "model": "polcoach",
         "category": "emergency",
         "name": "Coach",
@@ -8613,43 +8604,43 @@
         "price": 75000
     },
     "poloutlaw": {
-        "brand": "Outlaw"
+        "brand": "Outlaw",
         "model": "poloutlaw",
         "category": "emergency",
-        "name": "Outlaw"
+        "name": "Outlaw",
         "type": "automobile",
         "hash": 25,
         "price": 70000
     },
     "polpredator": {
-        "brand": "Predator"
+        "brand": "Predator",
         "model": "polpredator",
         "category": "emergency",
-        "name": "Predator"
+        "name": "Predator",
         "type": "automobile",
         "hash": 26,
         "price": 85000
     },
     "polseashark": {
-        "brand": "Seashark"
+        "brand": "Seashark",
         "model": "polseashark",
         "category": "emergency",
-        "name": "Sea shark"
+        "name": "Sea shark",
         "type": "automobile",
         "hash": 27,
         "price": 65000
     },
     "polshinobi": {
-        "brand": "Nagasaki"
+        "brand": "Nagasaki",
         "model": "polshinobi",
         "category": "emergency",
-        "name": "Shinobi"
+        "name": "Shinobi",
         "type": "automobile",
         "hash": 28,
         "price": 70000
-    }
+    },
     "expolalamo": {
-        "brand": "Alamo"
+        "brand": "Alamo",
         "model": "expolalamo",
         "category": "emergency",
         "name": "Alamo",
@@ -8658,7 +8649,7 @@
         "price": 80000
     },
     "expolbanshee": {
-        "brand": "Banshee"
+        "brand": "Banshee",
         "model": "expolbanshee",
         "category": "emergency",
         "name": "Banshee",
@@ -8667,16 +8658,16 @@
         "price": 85000
     },
     "expolcoquette": {
-        "brand": "Invetero"
+        "brand": "Invetero",
         "model": "expolcoquette",
         "category": "emergency",
-        "name": "Coquette"
+        "name": "Coquette",
         "type": "automobile",
         "hash": 31,
         "price": 85000
     },
     "expolscout": {
-        "brand": "Vapid"
+        "brand": "Vapid",
         "model": "expolscout",
         "category": "emergency",
         "name": "Scout",
@@ -8685,16 +8676,12 @@
         "price": 80000
     },
     "pbike": {
-        "brand": "Bike"
+        "brand": "Bike",
         "model": "Pbike",
         "category": "emergency",
-        "name": "Pbike"
+        "name": "Pbike",
         "type": "automobile",
         "hash": 33,
         "price": 60000
     }
-    
-
-
-
 }
