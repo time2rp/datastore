@@ -1,24 +1,21 @@
 {
-  "patch": "2.0.4",
+  "patch": "2.0.5",
   "changes": [
     {
       "title": "Time2RP 2.0",
       "changes": [
-        "Updated Youtool Stock",
-        "Updated Crafting Recipes",
-        "Updated Electrical Job eco",
-        "Updated Garbage Job loot pools",
-        "Updated Garbage Job eco",
-        "Updated Lumberjack Job eco",
-        "Updated Jetwash Job eco",
-        "Updated Fishing eco and relocated vendor",
-        "Fixed Que Prio Issues",
-        "Updated TMR to have Recycler",
-        "Updated Health System",
-        "Added Q/E Keybinds to Inventory",
-        "Fixed Apartment Storage issues",
-        "Fixed Invisible Recycler Prop issue",
-        "Fixed Garbage Compacting"
+        "Removed check-in fee if no EMS on duty",
+        "Thermal Drill now has durability",
+        "Replacement ID cards available at DOJ",
+        "Hair ties added to store stock",
+        "Fixed BCSO, FIB, and LSPD vehicle & garage issues",
+        "Blacklisted illegal activity locations as wake-up points",
+        "Adjusted Fuel consumption rates",
+        "Added Farmers Market",
+        "Increased housing storage sizes",
+        "PD can breach house robberies",
+        "DOJ Job spawn location setup",
+        "Ongoing updates to loot pools and economy"
       ]
     }
   ]
