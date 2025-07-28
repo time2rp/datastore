@@ -7941,7 +7941,7 @@
         "brand": "Sultan",
         "model": "GBSULTRSX",
         "category": "custom",
-        "name": "RSX",
+        "name": "Sultan RSX",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8004,7 +8004,7 @@
         "brand": "Benefactor",
         "model": "GBHARMENN",
         "category": "custom",
-        "name": "HARMENN",
+        "name": "Harmenn",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8013,7 +8013,7 @@
         "brand": "Bollokan",
         "model": "GBIRISZ",
         "category": "custom",
-        "name": "IRISZ",
+        "name": "Irisz",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8022,7 +8022,7 @@
         "brand": "Weeny",
         "model": "GBISSIMETRO",
         "category": "custom",
-        "name": "ISSIMETRO",
+        "name": "Issimetro",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8031,7 +8031,7 @@
         "brand": "Maxwell",
         "model": "GBSIDEWINDER",
         "category": "custom",
-        "name": "SIDEWINDER",
+        "name": "Sidewinder",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8040,7 +8040,7 @@
         "brand": "Bravado",
         "model": "GBBISONSTX",
         "category": "custom",
-        "name": "BISON STX",
+        "name": "Bison STX",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8049,7 +8049,7 @@
         "brand": "Bravado",
         "model": "GBESPERTA",
         "category": "custom",
-        "name": "ESPERTA",
+        "name": "Esperta",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8058,7 +8058,7 @@
         "brand": "vulcar",
         "model": "GBTAHGT",
         "category": "custom",
-        "name": "TAHGT",
+        "name": "Tah GT",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8067,7 +8067,7 @@
         "brand": "Vulcar",
         "model": "GBSTARLGHT",
         "category": "custom",
-        "name": "STARLG HT",
+        "name": "Starlg HT",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8076,7 +8076,7 @@
         "brand": "Benefactor",
         "model": "GBSCHRAUBER",
         "category": "custom",
-        "name": "SCHRAUBER",
+        "name": "Schrauber",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8103,7 +8103,7 @@
         "brand": "karin",
         "model": "GBMOJAVE",
         "category": "custom",
-        "name": "MOJAVE",
+        "name": "Mojave",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8400,7 +8400,7 @@
         "brand": "Dewbauchee",
         "model": "GBSOLACEV",
         "category": "custom",
-        "name": "SOLACEV",
+        "name": "Solace V",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8409,7 +8409,7 @@
         "brand": "Benefactor",
         "model": "GBSCHLAGENSP",
         "category": "custom",
-        "name": "SCHLAGEN SP",
+        "name": "Schlagen SP",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8451,28 +8451,28 @@
         "price": 100000
     },
     "TROPHYTRUNBK2": {
-        "brand": "Unknown",
+        "brand": "Vapid",
         "model": "TROPHYTRUNBK2",
         "category": "custom",
-        "name": "TROPHYTRUNBK2",
+        "name": "Trophy Truck 2",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
     "TROPHYTRUNK": {
-        "brand": "Unknown",
+        "brand": "Vapid",
         "model": "TROPHYTRUNK",
         "category": "custom",
-        "name": "TROPHYTRUNK",
+        "name": "Trophy Truck",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     }
         {
-        "brand": "Unknown",
+        "brand": "Vapid",
         "model": "TROPHYTRUNK",
         "category": "custom",
-        "name": "TROPHYTRUNK",
+        "name": "Trophy Truck",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8679,7 +8679,7 @@
         "brand": "Vapid"
         "model": "expolscout",
         "category": "emergency",
-        "name": "Scout",
+        "name": "Vapid Scout",
         "type": "automobile",
         "hash": 32,
         "price": 80000
