@@ -1,5 +1,5 @@
 Config.Vehicles = {
-   {
+    {
         model = "taco",
         category = "vans",
         price = 7500,
@@ -9,7 +9,7 @@ Config.Vehicles = {
     },
     {
         model = "romero",
-        category = "sedan",
+        category = "sedans",
         price = 7500,
         speed = 30,
         acceleration = 25,
@@ -17,7 +17,7 @@ Config.Vehicles = {
     },
     {
         model = "emperor",
-        category = "sedan",
+        category = "sedans",
         price = 8000,
         speed = 30,
         acceleration = 25,
@@ -25,7 +25,7 @@ Config.Vehicles = {
     },
     {
         model = "tornado5",
-        category = "sedan",
+        category = "sedans",
         price = 7000,
         speed = 30,
         acceleration = 25,
@@ -33,7 +33,7 @@ Config.Vehicles = {
     },
     {
         model = "dloader",
-        category = "suv",
+        category = "suvs",
         price = 7500,
         speed = 30,
         acceleration = 25,
@@ -41,7 +41,7 @@ Config.Vehicles = {
     },
     {
         model = "broadway",
-        category = "sedan",
+        category = "sedans",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -49,7 +49,7 @@ Config.Vehicles = {
     },
     {
         model = "btype2",
-        category = "suv",
+        category = "suvs",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -57,7 +57,7 @@ Config.Vehicles = {
     },
     {
         model = "hermes",
-        category = "sedan",
+        category = "sedans",
         price = 9500,
         speed = 30,
         acceleration = 25,
@@ -65,7 +65,7 @@ Config.Vehicles = {
     },
     {
         model = "pigalle",
-        category = "sedan",
+        category = "sedans",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -73,7 +73,7 @@ Config.Vehicles = {
     },
     {
         model = "clique",
-        category = "sedan",
+        category = "sedans",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -81,7 +81,7 @@ Config.Vehicles = {
     },
     {
         model = "clique2",
-        category = "sedan",
+        category = "sedans",
         price = 9500,
         speed = 30,
         acceleration = 25,
@@ -89,7 +89,7 @@ Config.Vehicles = {
     },
     {
         model = "hustler",
-        category = "suv",
+        category = "suvs",
         price = 11000,
         speed = 30,
         acceleration = 25,
@@ -105,7 +105,7 @@ Config.Vehicles = {
     },
     {
         model = "peyote",
-        category = "sedan",
+        category = "sedans",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -113,7 +113,7 @@ Config.Vehicles = {
     },
     {
         model = "stafford",
-        category = "suv",
+        category = "suvs",
         price = 9500,
         speed = 30,
         acceleration = 25,
@@ -121,7 +121,7 @@ Config.Vehicles = {
     },
     {
         model = "voodoo2",
-        category = "sedan",
+        category = "sedans",
         price = 7500,
         speed = 30,
         acceleration = 25,
@@ -137,7 +137,7 @@ Config.Vehicles = {
     },
     {
         model = "manana2",
-        category = "sedan",
+        category = "sedans",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -145,7 +145,7 @@ Config.Vehicles = {
     },
     {
         model = "postlude",
-        category = "sedan",
+        category = "sedans",
         price = 6500,
         speed = 30,
         acceleration = 25,
@@ -161,7 +161,7 @@ Config.Vehicles = {
     },
     {
         model = "voodoo",
-        category = "sedan",
+        category = "sedans",
         price = 9500,
         speed = 30,
         acceleration = 25,
@@ -169,7 +169,7 @@ Config.Vehicles = {
     },
     {
         model = "washington",
-        category = "sedan",
+        category = "sedans",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -177,7 +177,7 @@ Config.Vehicles = {
     },
     {
         model = "weevil",
-        category = "sedan",
+        category = "sedans",
         price = 12500,
         speed = 30,
         acceleration = 25,
@@ -185,7 +185,7 @@ Config.Vehicles = {
     },
     {
         model = "tornado",
-        category = "sedan",
+        category = "sedans",
         price = 7850,
         speed = 30,
         acceleration = 25,
@@ -193,7 +193,7 @@ Config.Vehicles = {
     },
     {
         model = "tahoma",
-        category = "sedan",
+        category = "sedans",
         price = 7500,
         speed = 30,
         acceleration = 25,
@@ -201,7 +201,7 @@ Config.Vehicles = {
     },
     {
         model = "glendale2",
-        category = "sedan",
+        category = "sedans",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -209,7 +209,7 @@ Config.Vehicles = {
     },
     {
         model = "fagaloa",
-        category = "suv",
+        category = "suvs",
         price = 10560,
         speed = 30,
         acceleration = 25,
@@ -217,7 +217,7 @@ Config.Vehicles = {
     },
     {
         model = "lurcher",
-        category = "sedan",
+        category = "sedans",
         price = 8560,
         speed = 30,
         acceleration = 25,
@@ -225,7 +225,7 @@ Config.Vehicles = {
     },
      {
         model = "dynasty",
-        category = "sedan",
+        category = "sedans",
         price = 7850,
         speed = 30,
         acceleration = 25,
@@ -233,7 +233,7 @@ Config.Vehicles = {
     },
     {
         model = "regina",
-        category = "sedan",
+        category = "sedans",
         price = 8540,
         speed = 30,
         acceleration = 25,
@@ -241,7 +241,7 @@ Config.Vehicles = {
     },
     {
         model = "glendale",
-        category = "sedan",
+        category = "sedans",
         price = 7560,
         speed = 30,
         acceleration = 25,
@@ -249,7 +249,7 @@ Config.Vehicles = {
     },
     {
         model = "virgo",
-        category = "sedan",
+        category = "sedans",
         price = 7500,
         speed = 30,
         acceleration = 25,
@@ -257,7 +257,7 @@ Config.Vehicles = {
     },
     {
         model = "warrener",
-        category = "sedan",
+        category = "sedans",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -265,7 +265,7 @@ Config.Vehicles = {
     },
     {
         model = "patriot",
-        category = "suv",
+        category = "suvs",
         price = 12000,
         speed = 30,
         acceleration = 25,
@@ -273,7 +273,7 @@ Config.Vehicles = {
     },
     {
         model = "kanjosj",
-        category = "sedan",
+        category = "sedans",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -281,7 +281,7 @@ Config.Vehicles = {
     },
     {
         model = "manana",
-        category = "sedan",
+        category = "sedans",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -289,7 +289,7 @@ Config.Vehicles = {
     },
     {
         model = "impaler5",
-        category = "sedan",
+        category = "sedans",
         price = 9500,
         speed = 30,
         acceleration = 25,
@@ -297,7 +297,7 @@ Config.Vehicles = {
     },
     {
         model = "dukes3",
-        category = "sedan",
+        category = "sedans",
         price = 7500,
         speed = 30,
         acceleration = 25,
@@ -305,7 +305,7 @@ Config.Vehicles = {
     },
     {
         model = "eudora",
-        category = "sedan",
+        category = "sedans",
         price = 6500,
         speed = 30,
         acceleration = 25,
@@ -313,7 +313,7 @@ Config.Vehicles = {
     },
     {
         model = "rancherxl",
-        category = "suv",
+        category = "suvs",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -321,7 +321,7 @@ Config.Vehicles = {
     },
     {
         model = "issi6",
-        category = "sedan",
+        category = "sedans",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -329,7 +329,7 @@ Config.Vehicles = {
     },
     {
         model = "caddy2",
-        category = "utility",
+        category = "vans",
         price = 5600,
         speed = 30,
         acceleration = 25,
@@ -353,7 +353,7 @@ Config.Vehicles = {
     },
     {
         model = "towtruck3",
-        category = "utility",
+        category = "vans",
         price = 8500,
         speed = 30,
         acceleration = 25,
@@ -361,7 +361,7 @@ Config.Vehicles = {
     },
     {
         model = "towtruck2",
-        category = "utility",
+        category = "vans",
         price = 7500,
         speed = 30,
         acceleration = 25,
@@ -369,7 +369,7 @@ Config.Vehicles = {
     },
     {
         model = "towtruck4",
-        category = "utility",
+        category = "vans",
         price = 9500,
         speed = 30,
         acceleration = 25,
@@ -401,7 +401,7 @@ Config.Vehicles = {
     },
     {
         model = "primo",
-        category = "sedan",
+        category = "sedans",
         price = 13000,
         speed = 30,
         acceleration = 25,
@@ -409,7 +409,7 @@ Config.Vehicles = {
     },
     {
         model = "rhapsody1",
-        category = "sedan",
+        category = "sedans",
         price = 12000,
         speed = 30,
         acceleration = 25,
@@ -417,7 +417,7 @@ Config.Vehicles = {
     },
     {
         model = "seminole",
-        category = "suv",
+        category = "suvs",
         price = 13500,
         speed = 30,
         acceleration = 25,
@@ -425,7 +425,7 @@ Config.Vehicles = {
     },
     {
         model = "virgo2",
-        category = "sedan",
+        category = "sedans",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -433,7 +433,7 @@ Config.Vehicles = {
     },
     {
         model = "monstrociti",
-        category = "suv",
+        category = "suvs",
         price = 14500,
         speed = 30,
         acceleration = 25,
@@ -457,7 +457,7 @@ Config.Vehicles = {
     },
     {
         model = "chino",
-        category = "sedan",
+        category = "sedans",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -465,7 +465,7 @@ Config.Vehicles = {
     },
     {
         model = "chino2",
-        category = "sedan",
+        category = "sedans",
         price = 12500,
         speed = 30,
         acceleration = 25,
@@ -473,7 +473,7 @@ Config.Vehicles = {
     },
     {
         model = "asbo",
-        category = "sedan",
+        category = "sedans",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -489,7 +489,7 @@ Config.Vehicles = {
     },
     {
         model = "bison",
-        category = "utility",
+        category = "vans",
         price = 12500,
         speed = 30,
         acceleration = 25,
@@ -497,7 +497,7 @@ Config.Vehicles = {
     },
     {
         model = "bodhi2",
-        category = "utility",
+        category = "vans",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -505,7 +505,7 @@ Config.Vehicles = {
     },
     {
         model = "boor",
-        category = "sedan",
+        category = "sedans",
         price = 12500,
         speed = 30,
         acceleration = 25,
@@ -521,7 +521,7 @@ Config.Vehicles = {
     },
     {
         model = "dilettante",
-        category = "sedan",
+        category = "sedans",
         price = 12300,
         speed = 30,
         acceleration = 25,
@@ -529,7 +529,7 @@ Config.Vehicles = {
     },
     {
         model = "impaler",
-        category = "sedan",
+        category = "sedans",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -537,7 +537,7 @@ Config.Vehicles = {
     },
     {
         model = "primo2",
-        category = "sedan",
+        category = "sedans",
         price = 13500,
         speed = 30,
         acceleration = 25,
@@ -553,7 +553,7 @@ Config.Vehicles = {
     },
     {
         model = "stanier",
-        category = "sedan",
+        category = "sedans",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -561,7 +561,7 @@ Config.Vehicles = {
     },
     {
         model = "slamvan2",
-        category = "utility",
+        category = "vans",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -569,7 +569,7 @@ Config.Vehicles = {
     },
     {
         model = "tulip2",
-        category = "sedan",
+        category = "sedans",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -585,7 +585,7 @@ Config.Vehicles = {
     },
     {
         model = "virgo3",
-        category = "sedan",
+        category = "sedans",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -593,7 +593,7 @@ Config.Vehicles = {
     },
         {
         model = "granger",
-        category = "suv",
+        category = "suvs",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -601,7 +601,7 @@ Config.Vehicles = {
     },
     {
         model = "greenwood",
-        category = "sedan",
+        category = "sedans",
         price = 12500,
         speed = 30,
         acceleration = 25,
@@ -625,7 +625,7 @@ Config.Vehicles = {
     },
     {
         model = "slamvan",
-        category = "utility",
+        category = "vans",
         price = 13500,
         speed = 30,
         acceleration = 25,
@@ -633,7 +633,7 @@ Config.Vehicles = {
     },
     {
         model = "seminole2",
-        category = "suv",
+        category = "suvs",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -641,7 +641,7 @@ Config.Vehicles = {
     },
     {
         model = "landstalker",
-        category = "suv",
+        category = "suvs",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -649,7 +649,7 @@ Config.Vehicles = {
     },
     {
         model = "radi",
-        category = "suv",
+        category = "suvs",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -657,7 +657,7 @@ Config.Vehicles = {
     },
     {
         model = "habanero",
-        category = "suv",
+        category = "suvs",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -673,7 +673,7 @@ Config.Vehicles = {
     },
     {
         model = "emperor2",
-        category = "sedan",
+        category = "sedans",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -681,7 +681,7 @@ Config.Vehicles = {
     },
     {
         model = "faction2",
-        category = "sedan",
+        category = "sedans",
         price = 12500,
         speed = 30,
         acceleration = 25,
@@ -689,7 +689,7 @@ Config.Vehicles = {
     },
     {
         model = "btype3",
-        category = "sedan",
+        category = "sedans",
         price = 13500,
         speed = 30,
         acceleration = 25,
@@ -697,7 +697,7 @@ Config.Vehicles = {
     },
     {
         model = "bjxl",
-        category = "suv",
+        category = "suvs",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -713,7 +713,7 @@ Config.Vehicles = {
     },
     {
         model = "baller",
-        category = "suv",
+        category = "suvs",
         price = 16500,
         speed = 30,
         acceleration = 25,
@@ -721,7 +721,7 @@ Config.Vehicles = {
     },
     {
         model = "asterope",
-        category = "sedan",
+        category = "sedans",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -729,7 +729,7 @@ Config.Vehicles = {
     },
     {
         model = "panto",
-        category = "compact",
+        category = "compacts",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -737,7 +737,7 @@ Config.Vehicles = {
     },
     {
         model = "ingot",
-        category = "sedan",
+        category = "sedans",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -745,7 +745,7 @@ Config.Vehicles = {
     },
     {
         model = "lguard",
-        category = "suv",
+        category = "suvs",
         price = 16500,
         speed = 30,
         acceleration = 25,
@@ -761,7 +761,7 @@ Config.Vehicles = {
     },
     {
         model = "asea",
-        category = "sedan",
+        category = "sedans",
         price = 11600,
         speed = 30,
         acceleration = 25,
@@ -769,7 +769,7 @@ Config.Vehicles = {
     },
     {
         model = "stretch",
-        category = "sedan",
+        category = "sedans",
         price = 18500,
         speed = 30,
         acceleration = 25,
@@ -777,7 +777,7 @@ Config.Vehicles = {
     },
     {
         model = "blista",
-        category = "compact",
+        category = "compacts",
         price = 12500,
         speed = 30,
         acceleration = 25,
@@ -785,7 +785,7 @@ Config.Vehicles = {
     },
     {
         model = "premier",
-        category = "sedan",
+        category = "sedans",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -793,7 +793,7 @@ Config.Vehicles = {
     },
     {
         model = "impaler6",
-        category = "sedan",
+        category = "sedans",
         price = 14500,
         speed = 30,
         acceleration = 25,
@@ -817,7 +817,7 @@ Config.Vehicles = {
     },
     {
         model = "peyote3",
-        category = "sedan",
+        category = "sedans",
         price = 10500,
         speed = 30,
         acceleration = 25,
@@ -833,7 +833,7 @@ Config.Vehicles = {
     },
     {
         model = "blista3",
-        category = "compact",
+        category = "compacts",
         price = 11500,
         speed = 30,
         acceleration = 25,
@@ -865,7 +865,7 @@ Config.Vehicles = {
     },
     {
         model = "brioso2",
-        category = "compact",
+        category = "compacts",
         price = 13500,
         speed = 30,
         acceleration = 25,
@@ -873,7 +873,7 @@ Config.Vehicles = {
     },
     {
         model = "club",
-        category = "compact",
+        category = "compacts",
         price = 12500,
         speed = 30,
         acceleration = 25,
@@ -881,7 +881,7 @@ Config.Vehicles = {
     },
     {
         model = "issi3",
-        category = "compact",
+        category = "compacts",
         price = 12500,
         speed = 30,
         acceleration = 25,
@@ -969,7 +969,7 @@ Config.Vehicles = {
     },
     {
         model = "patriot3",
-        category = "suv",
+        category = "suvs",
         price = 18500,
         speed = 30,
         acceleration = 25,
@@ -977,7 +977,7 @@ Config.Vehicles = {
     },
     {
         model = "picador",
-        category = "utility",
+        category = "vans",
         price = 14500,
         speed = 30,
         acceleration = 25,
@@ -985,7 +985,7 @@ Config.Vehicles = {
     },
     {
         model = "virgo",
-        category = "sedan",
+        category = "sedans",
         price = 15600,
         speed = 30,
         acceleration = 25,
@@ -993,7 +993,7 @@ Config.Vehicles = {
     },
     {
         model = "gbadmiral",
-        category = "sedan",
+        category = "sedans",
         price = 17500,
         speed = 40,
         acceleration = 35,
@@ -1025,7 +1025,7 @@ Config.Vehicles = {
     },
     {
         model = "issi2",
-        category = "compact",
+        category = "compacts",
         price = 35000,
         speed = 30,
         acceleration = 25,
@@ -1049,7 +1049,7 @@ Config.Vehicles = {
     },
     {
         model = "felon",
-        category = "coupe",
+        category = "coupes",
         price = 41000,
         speed = 30,
         acceleration = 25,
@@ -1057,7 +1057,7 @@ Config.Vehicles = {
     },
     {
         model = "superd",
-        category = "sedan",
+        category = "sedans",
         price = 46000,
         speed = 30,
         acceleration = 25,
@@ -1065,7 +1065,7 @@ Config.Vehicles = {
     },
     {
         model = "windsor",
-        category = "coupe",
+        category = "coupes",
         price = 39000,
         speed = 30,
         acceleration = 25,
@@ -1097,7 +1097,7 @@ Config.Vehicles = {
     },
     {
         model = "gbstanierle",
-        category = "sedan",
+        category = "sedans",
         price = 50000,
         speed = 45,
         acceleration = 35,
@@ -1105,7 +1105,7 @@ Config.Vehicles = {
     },
     {
         model = "gresley",
-        category = "suv",
+        category = "suvs",
         price = 49000,
         speed = 30,
         acceleration = 25,
@@ -1113,7 +1113,7 @@ Config.Vehicles = {
     },
     {
         model = "surge",
-        category = "sedan",
+        category = "sedans",
         price = 39500,
         speed = 30,
         acceleration = 25,
@@ -1137,7 +1137,7 @@ Config.Vehicles = {
     },
     {
         model = "dubsta",
-        category = "suv",
+        category = "suvs",
         price = 41500,
         speed = 30,
         acceleration = 25,
@@ -1145,7 +1145,7 @@ Config.Vehicles = {
     },
     {
         model = "warrener2",
-        category = "sedan",
+        category = "sedans",
         price = 42500,
         speed = 30,
         acceleration = 25,
@@ -1153,7 +1153,7 @@ Config.Vehicles = {
     },
     {
         model = "rocoto",
-        category = "suv",
+        category = "suvs",
         price = 43500,
         speed = 30,
         acceleration = 25,
@@ -1161,7 +1161,7 @@ Config.Vehicles = {
     },
     {
         model = "oracle",
-        category = "coupe",
+        category = "coupes",
         price = 39500,
         speed = 30,
         acceleration = 25,
@@ -1169,7 +1169,7 @@ Config.Vehicles = {
     },
     {
         model = "oracle2",
-        category = "coupe",
+        category = "coupes",
         price = 39500,
         speed = 30,
         acceleration = 25,
@@ -1177,7 +1177,7 @@ Config.Vehicles = {
     },
     {
         model = "felon2",
-        category = "coupe",
+        category = "coupes",
         price = 39500,
         speed = 30,
         acceleration = 25,
@@ -1193,7 +1193,7 @@ Config.Vehicles = {
     },
     {
         model = "fq2",
-        category = "suv",
+        category = "suvs",
         price = 39500,
         speed = 30,
         acceleration = 25,
@@ -1225,7 +1225,7 @@ Config.Vehicles = {
     },
     {
         model = "sentinel3",
-        category = "coupe",
+        category = "coupes",
         price = 39500,
         speed = 30,
         acceleration = 25,
@@ -1233,7 +1233,7 @@ Config.Vehicles = {
     },
     {
         model = "exemplar",
-        category = "coupe",
+        category = "coupes",
         price = 39500,
         speed = 30,
         acceleration = 25,
@@ -1241,7 +1241,7 @@ Config.Vehicles = {
     },
     {
         model = "contender",
-        category = "suv",
+        category = "suvs",
         price = 55000,
         speed = 57,
         acceleration = 35,
@@ -1273,7 +1273,7 @@ Config.Vehicles = {
     },
     {
         model = "huntley",
-        category = "suv",
+        category = "suvs",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1289,7 +1289,7 @@ Config.Vehicles = {
     },
     {
         model = "tailgater",
-        category = "sedan",
+        category = "sedans",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1297,7 +1297,7 @@ Config.Vehicles = {
     },
     {
         model = "gbbisonstx",
-        category = "utility",
+        category = "vans",
         price = 49500,
         speed = 45,
         acceleration = 35,
@@ -1305,7 +1305,7 @@ Config.Vehicles = {
     },
     {
         model = "aleutian",
-        category = "sedan",
+        category = "sedans",
         price = 39500,
         speed = 45,
         acceleration = 35,
@@ -1329,7 +1329,7 @@ Config.Vehicles = {
     },
     {
         model = "briosof",
-        category = "compact",
+        category = "compacts",
         price = 39500,
         speed = 45,
         acceleration = 35,
@@ -1337,7 +1337,7 @@ Config.Vehicles = {
     },
     {
         model = "blista2",
-        category = "compact",
+        category = "compacts",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1345,7 +1345,7 @@ Config.Vehicles = {
     },
     {
         model = "bobcatxl",
-        category = "utility",
+        category = "vans",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1361,7 +1361,7 @@ Config.Vehicles = {
     },
     {
         model = "baller2",
-        category = "suv",
+        category = "suvs",
         price = 39500,
         speed = 45,
         acceleration = 35,
@@ -1385,7 +1385,7 @@ Config.Vehicles = {
     },
     {
         model = "asterope2",
-        category = "sedan",
+        category = "sedans",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1409,7 +1409,7 @@ Config.Vehicles = {
     },
     {
         model = "serrano",
-        category = "suv",
+        category = "suvs",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1433,7 +1433,7 @@ Config.Vehicles = {
     },
     {
         model = "schafter2",
-        category = "sedan",
+        category = "sedans",
         price = 39500,
         speed = 45,
         acceleration = 35,
@@ -1449,7 +1449,7 @@ Config.Vehicles = {
     },
     {
         model = "prairie",
-        category = "compact",
+        category = "compacts",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1497,7 +1497,7 @@ Config.Vehicles = {
     },
     {
         model = "cognosc",
-        category = "sedan",
+        category = "sedans",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1513,7 +1513,7 @@ Config.Vehicles = {
     },
     {
         model = "jackal",
-        category = "coupe",
+        category = "coupes",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1561,7 +1561,7 @@ Config.Vehicles = {
     },
     {
         model = "fugitive",
-        category = "sedan",
+        category = "sedans",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1593,7 +1593,7 @@ Config.Vehicles = {
     },
     {
         model = "landstlkr2",
-        category = "suv",
+        category = "suvs",
         price = 39500,
         speed = 45,
         acceleration = 35,
@@ -1657,7 +1657,7 @@ Config.Vehicles = {
     },
     {
         model = "schafter4",
-        category = "sedan",
+        category = "sedans",
         price = 39500,
         speed = 45,
         acceleration = 35,
@@ -1665,7 +1665,7 @@ Config.Vehicles = {
     },
     {
         model = "patriot",
-        category = "suv",
+        category = "suvs",
         price = 39500,
         speed = 45,
         acceleration = 35,
@@ -1705,7 +1705,7 @@ Config.Vehicles = {
     },
     {
         model = "zion2",
-        category = "coupe",
+        category = "coupes",
         price = 35500,
         speed = 45,
         acceleration = 35,
@@ -1737,7 +1737,7 @@ Config.Vehicles = {
     },
         {
         model = "terminus",
-        category = "sedan",
+        category = "sedans",
         price = 35500,
         speed = 30,
         acceleration = 25,
@@ -1753,7 +1753,7 @@ Config.Vehicles = {
     },
     {
         model = "zion",
-        category = "coupe",
+        category = "coupes",
         price = 35500,
         speed = 30,
         acceleration = 25,
@@ -1761,7 +1761,7 @@ Config.Vehicles = {
     },
     {
         model = "gbbriosof",
-        category = "compact",
+        category = "compacts",
         price = 39500,
         speed = 40,
         acceleration = 35,
@@ -1809,7 +1809,7 @@ Config.Vehicles = {
     },
         {
         model = "cinquemila",
-        category = "sedan",
+        category = "sedans",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -1825,7 +1825,7 @@ Config.Vehicles = {
     },
     {
         model = "cog55",
-        category = "sedan",
+        category = "sedans",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -1833,7 +1833,7 @@ Config.Vehicles = {
     },
     {
         model = "cogcabrio",
-        category = "coupe",
+        category = "coupes",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -1945,7 +1945,7 @@ Config.Vehicles = {
     },
     {
         model = "f620",
-        category = "coupe",
+        category = "coupes",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -1953,7 +1953,7 @@ Config.Vehicles = {
     },
     {
         model = "issi7",
-        category = "compact",
+        category = "compacts",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -1961,7 +1961,7 @@ Config.Vehicles = {
     },
     {
         model = "jubilee",
-        category = "suv",
+        category = "suvs",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2001,7 +2001,7 @@ Config.Vehicles = {
     },
     {
         model = "schafter3",
-        category = "sedan",
+        category = "sedans",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2017,7 +2017,7 @@ Config.Vehicles = {
     },
         {
         model = "windsor2",
-        category = "coupe",
+        category = "coupes",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2049,7 +2049,7 @@ Config.Vehicles = {
     },
     {
         model = "tailgater2",
-        category = "sedan",
+        category = "sedans",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2057,7 +2057,7 @@ Config.Vehicles = {
     },
     {
         model = "kanjo",
-        category = "compact",
+        category = "compacts",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2065,7 +2065,7 @@ Config.Vehicles = {
     },
     {
         model = "khamel",
-        category = "coupe",
+        category = "coupes",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2137,7 +2137,7 @@ Config.Vehicles = {
     },
     {
         model = "vstr",
-        category = "sedan",
+        category = "sedans",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2145,7 +2145,7 @@ Config.Vehicles = {
     },
     {
         model = "rhinehart",
-        category = "sedan",
+        category = "sedans",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2177,7 +2177,7 @@ Config.Vehicles = {
     },
     {
         model = "rebla",
-        category = "suv",
+        category = "suvs",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2257,7 +2257,7 @@ Config.Vehicles = {
     },
     {
         model = "novak",
-        category = "suv",
+        category = "suvs",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2313,7 +2313,7 @@ Config.Vehicles = {
     },
     {
         model = "brioso",
-        category = "compact",
+        category = "compacts",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2321,7 +2321,7 @@ Config.Vehicles = {
     },
     {
         model = "baller3",
-        category = "suv",
+        category = "suvs",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2329,7 +2329,7 @@ Config.Vehicles = {
     },
     {
         model = "baller4",
-        category = "suv",
+        category = "suvs",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2337,7 +2337,7 @@ Config.Vehicles = {
     },
     {
         model = "baller7",
-        category = "suv",
+        category = "suvs",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2345,7 +2345,7 @@ Config.Vehicles = {
     },
     {
         model = "baller8",
-        category = "suv",
+        category = "suvs",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2353,7 +2353,7 @@ Config.Vehicles = {
     },
     {
         model = "astron",
-        category = "suv",
+        category = "suvs",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2441,7 +2441,7 @@ Config.Vehicles = {
     },
     {
         model = "futo2",
-        category = "compact",
+        category = "compacts",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2529,7 +2529,7 @@ Config.Vehicles = {
     },
     {
         model = "sentinel",
-        category = "coupe",
+        category = "coupes",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2537,7 +2537,7 @@ Config.Vehicles = {
     },
     {
         model = "gbgresleystx",
-        category = "suv",
+        category = "suvs",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2561,7 +2561,7 @@ Config.Vehicles = {
     },
     {
         model = "gbissimetro",
-        category = "compact",
+        category = "compacts",
         price = 5000000,
         speed = 65,
         acceleration = 56,
@@ -2601,7 +2601,7 @@ Config.Vehicles = {
     },
     {
         model = "ardent",
-        category = "sportsclassic",
+        category = "sportsclassics",
         price = 10000000,
         speed = 75,
         acceleration = 76,
@@ -2929,7 +2929,7 @@ Config.Vehicles = {
     },
     {
         model = "hakuchou",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 65000,
         speed = 45,
         acceleration = 35,
@@ -2937,7 +2937,7 @@ Config.Vehicles = {
     },
     {
         model = "hakuchou2",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 75000,
         speed = 45,
         acceleration = 35,
@@ -2945,7 +2945,7 @@ Config.Vehicles = {
     },
     {
         model = "ruffian",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 55000,
         speed = 45,
         acceleration = 35,
@@ -2953,7 +2953,7 @@ Config.Vehicles = {
     },
     {
         model = "enduro",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -2961,7 +2961,7 @@ Config.Vehicles = {
     },
     {
         model = "esskey",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -2969,7 +2969,7 @@ Config.Vehicles = {
     },
     {
         model = "thrust",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 45500,
         speed = 45,
         acceleration = 35,
@@ -2977,7 +2977,7 @@ Config.Vehicles = {
     },
     {
         model = "zombiea",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 10000,
         speed = 45,
         acceleration = 35,
@@ -2985,7 +2985,7 @@ Config.Vehicles = {
     },
     {
         model = "zombieb",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 7500,
         speed = 45,
         acceleration = 35,
@@ -2993,7 +2993,7 @@ Config.Vehicles = {
     },
     {
         model = "akuma",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 7500,
         speed = 45,
         acceleration = 35,
@@ -3001,7 +3001,7 @@ Config.Vehicles = {
     },
     {
         model = "avarus",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 7500,
         speed = 45,
         acceleration = 35,
@@ -3009,7 +3009,7 @@ Config.Vehicles = {
     },
     {
         model = "bagger",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 7500,
         speed = 45,
         acceleration = 35,
@@ -3017,7 +3017,7 @@ Config.Vehicles = {
     },
     {
         model = "bati",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3025,7 +3025,7 @@ Config.Vehicles = {
     },
     {
         model = "bf400",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 35000,
         speed = 45,
         acceleration = 35,
@@ -3033,7 +3033,7 @@ Config.Vehicles = {
     },
     {
         model = "blazer4",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3041,7 +3041,7 @@ Config.Vehicles = {
     },
     {
         model = "blazer5",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 35000,
         speed = 45,
         acceleration = 35,
@@ -3049,7 +3049,7 @@ Config.Vehicles = {
     },
     {
         model = "hexer",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3057,7 +3057,7 @@ Config.Vehicles = {
     },
     {
         model = "daemon",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3065,7 +3065,7 @@ Config.Vehicles = {
     },
     {
         model = "daemon2",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3073,7 +3073,7 @@ Config.Vehicles = {
     },
     {
         model = "defiler",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3081,7 +3081,7 @@ Config.Vehicles = {
     },
     {
         model = "diablous",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3089,7 +3089,7 @@ Config.Vehicles = {
     },
     {
         model = "diablous2",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 35000,
         speed = 45,
         acceleration = 35,
@@ -3097,7 +3097,7 @@ Config.Vehicles = {
     },
     {
         model = "cliffhang",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3105,7 +3105,7 @@ Config.Vehicles = {
     },
     {
         model = "chimera",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 35000,
         speed = 45,
         acceleration = 35,
@@ -3113,7 +3113,7 @@ Config.Vehicles = {
     },
     {
         model = "sanctus",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 25500,
         speed = 45,
         acceleration = 35,
@@ -3121,7 +3121,7 @@ Config.Vehicles = {
     },
     {
         model = "sanchez",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3129,7 +3129,7 @@ Config.Vehicles = {
     },
     {
         model = "sovereign",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3137,7 +3137,7 @@ Config.Vehicles = {
     },
     {
         model = "gargoyle",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3145,7 +3145,7 @@ Config.Vehicles = {
     },
     {
         model = "lectro",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 25500,
         speed = 45,
         acceleration = 35,
@@ -3153,7 +3153,7 @@ Config.Vehicles = {
     },
     {
         model = "manchez3",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3161,7 +3161,7 @@ Config.Vehicles = {
     },
     {
         model = "reever",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 25500,
         speed = 45,
         acceleration = 35,
@@ -3169,7 +3169,7 @@ Config.Vehicles = {
     },
     {
         model = "ratbike",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3177,7 +3177,7 @@ Config.Vehicles = {
     },
     {
         model = "manchez",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 7500,
         speed = 45,
         acceleration = 35,
@@ -3185,7 +3185,7 @@ Config.Vehicles = {
     },
     {
         model = "manchez2",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3193,7 +3193,7 @@ Config.Vehicles = {
     },
     {
         model = "faggio3",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3201,7 +3201,7 @@ Config.Vehicles = {
     },
     {
         model = "faggio",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 7500,
         speed = 45,
         acceleration = 35,
@@ -3209,7 +3209,7 @@ Config.Vehicles = {
     },
     {
         model = "nemesis",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3217,7 +3217,7 @@ Config.Vehicles = {
     },
     {
         model = "nightblade",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3225,7 +3225,7 @@ Config.Vehicles = {
     },
     {
         model = "fcr",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3233,7 +3233,7 @@ Config.Vehicles = {
     },
     {
         model = "fcr2",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3241,7 +3241,7 @@ Config.Vehicles = {
     },
     {
         model = "innovat",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3249,7 +3249,7 @@ Config.Vehicles = {
     },
     {
         model = "stryder",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 35000,
         speed = 45,
         acceleration = 35,
@@ -3257,7 +3257,7 @@ Config.Vehicles = {
     },
     {
         model = "vader",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3265,7 +3265,7 @@ Config.Vehicles = {
     },
     {
         model = "vindicator",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 35000,
         speed = 45,
         acceleration = 35,
@@ -3273,7 +3273,7 @@ Config.Vehicles = {
     },
     {
         model = "vortex",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3281,7 +3281,7 @@ Config.Vehicles = {
     },
     {
         model = "shinobi",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 65000,
         speed = 45,
         acceleration = 35,
@@ -3289,7 +3289,7 @@ Config.Vehicles = {
     },
     {
         model = "blazer",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3297,7 +3297,7 @@ Config.Vehicles = {
     },
     {
         model = "powersurge",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
@@ -3305,7 +3305,7 @@ Config.Vehicles = {
     },
     {
         model = "verus",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 65000,
         speed = 45,
         acceleration = 35,
@@ -3313,7 +3313,7 @@ Config.Vehicles = {
     },
     {
         model = "wolfsbane",
-        category = "motorcycle",
+        category = "motorcycles",
         price = 12500,
         speed = 45,
         acceleration = 35,
