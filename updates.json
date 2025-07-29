@@ -1,21 +1,24 @@
 {
-  "patch": "2.0.5",
+  "patch": "2.0.6",
   "changes": [
     {
       "title": "Time2RP 2.0",
       "changes": [
-        "Removed check-in fee if no EMS on duty",
-        "Thermal Drill now has durability",
-        "Replacement ID cards available at DOJ",
-        "Hair ties added to store stock",
-        "Fixed BCSO, FIB, and LSPD vehicle & garage issues",
-        "Blacklisted illegal activity locations as wake-up points",
-        "Adjusted Fuel consumption rates",
-        "Added Farmers Market",
-        "Increased housing storage sizes",
-        "PD can breach house robberies",
-        "DOJ Job spawn location setup",
-        "Ongoing updates to loot pools and economy"
+        "House Robberies were reworked",
+        "Increased food/drink satisfaction",
+        "Jet Washing bug fixes",
+        "Crafting issues resolved",
+        "Fishing permit requirement",
+        "Minigame logic rework for a petty crime",
+        "Garbage searching issues fixed",
+        "Fixed walkstyle resetting issues",
+        "Fixed jail issues for PD",
+        "Removed vehicle population group",
+        "Fixed recycler issues",
+        "Fixed PDM catalogue searching",
+        "Fixed police badges",
+        "PD/EMS Extras and Car Customisation Menu",
+        "Farming Updates"
       ]
     }
   ]
