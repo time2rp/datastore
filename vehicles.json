@@ -8467,18 +8467,9 @@
         "type": "automobile",
         "hash": 0,
         "price": 100000
-    }
-        {
-        "brand": "Vapid",
-        "model": "TROPHYTRUNK",
-        "category": "custom",
-        "name": "Trophy Truck",
-        "type": "automobile",
-        "hash": 0,
-        "price": 100000
     },
-    "expolaleutian":[]{
-        "brand": "Vapid"
+    "expolaleutian": {
+        "brand": "Vapid",
         "model": "expolaleutian",
         "category": "emergency",
         "name": "Aleutian",
@@ -8487,10 +8478,10 @@
         "price": 80000
     },
     "expolbuffalo4": {
-        "brand": "Bravado"
+        "brand": "Bravado",
         "model": "expolbuffalo4",
         "category": "emergency",
-        "name": "Buffalo"
+        "name": "Buffalo",
         "type": "automobile",
         "hash": 11,
         "price": 80000
@@ -8532,7 +8523,7 @@
         "price": 80000
     },
     "expolomnisegt": {
-        "brand": "Bravado"
+        "brand": "Bravado",
         "model": "expolomnisegt",
         "category": "emergency",
         "name": "Omnise gt",
@@ -8541,34 +8532,34 @@
         "price": 80000
     },
     "expolregent": {
-        "brand": "Vapid"
+        "brand": "Vapid",
         "model": "expolregent",
         "category": "emergency",
-        "name": "Regent"
+        "name": "Regent",
         "type": "automobile",
         "hash": 17,
         "price": 80000
     },
     "expolstainer": {
-        "brand": "Vapid"
+        "brand": "Vapid",
         "model": "expolstainer",
         "category": "emergency",
-        "name": "Cvpi"
+        "name": "Cvpi",
         "type": "automobile",
         "hash": 18,
         "price": 80000
     },
     "expoltor": {
-        "brand": "Vapid"
+        "brand": "Vapid",
         "model": "expoltor",
         "category": "emergency",
-        "name": "Torruence"
+        "name": "Torruence",
         "type": "automobile",
         "hash": 19,
         "price": 80000
-    }
+    },
     "expolinsurgent": {
-        "brand": "Insurgent"
+        "brand": "Insurgent",
         "model": "expolinsurgent",
         "category": "emergency",
         "name": "Insurgent",
@@ -8577,16 +8568,16 @@
         "price": 100000
     },
     "expolmav": {
-        "brand": "Maverick"
+        "brand": "Maverick",
         "model": "expolmav",
         "category": "emergency",
-        "name": "Maverick"
+        "name": "Maverick",
         "type": "automobile",
         "hash": 21,
         "price": 120000
     },
     "polbf400": {
-        "brand": "Hakucho"
+        "brand": "Hakucho",
         "model": "polbf400",
         "category": "emergency",
         "name": "Bf400",
@@ -8595,7 +8586,7 @@
         "price": 60000
     },
     "polblazer": {
-        "brand": "Blazer"
+        "brand": "Blazer",
         "model": "polblazer",
         "category": "emergency",
         "name": "Blazer",
@@ -8604,7 +8595,7 @@
         "price": 55000
     },
     "polcoach": {
-        "brand": "Coach"
+        "brand": "Coach",
         "model": "polcoach",
         "category": "emergency",
         "name": "Coach",
@@ -8613,43 +8604,43 @@
         "price": 75000
     },
     "poloutlaw": {
-        "brand": "Outlaw"
+        "brand": "Outlaw",
         "model": "poloutlaw",
         "category": "emergency",
-        "name": "Outlaw"
+        "name": "Outlaw",
         "type": "automobile",
         "hash": 25,
         "price": 70000
     },
     "polpredator": {
-        "brand": "Predator"
+        "brand": "Predator",
         "model": "polpredator",
         "category": "emergency",
-        "name": "Predator"
+        "name": "Predator",
         "type": "automobile",
         "hash": 26,
         "price": 85000
     },
     "polseashark": {
-        "brand": "Seashark"
+        "brand": "Seashark",
         "model": "polseashark",
         "category": "emergency",
-        "name": "Sea shark"
+        "name": "Sea shark",
         "type": "automobile",
         "hash": 27,
         "price": 65000
     },
     "polshinobi": {
-        "brand": "Nagasaki"
+        "brand": "Nagasaki",
         "model": "polshinobi",
         "category": "emergency",
-        "name": "Shinobi"
+        "name": "Shinobi",
         "type": "automobile",
         "hash": 28,
         "price": 70000
-    }
+    },
     "expolalamo": {
-        "brand": "Alamo"
+        "brand": "Alamo",
         "model": "expolalamo",
         "category": "emergency",
         "name": "Alamo",
@@ -8658,7 +8649,7 @@
         "price": 80000
     },
     "expolbanshee": {
-        "brand": "Banshee"
+        "brand": "Banshee",
         "model": "expolbanshee",
         "category": "emergency",
         "name": "Banshee",
@@ -8667,16 +8658,16 @@
         "price": 85000
     },
     "expolcoquette": {
-        "brand": "Invetero"
+        "brand": "Invetero",
         "model": "expolcoquette",
         "category": "emergency",
-        "name": "Coquette"
+        "name": "Coquette",
         "type": "automobile",
         "hash": 31,
         "price": 85000
     },
     "expolscout": {
-        "brand": "Vapid"
+        "brand": "Vapid",
         "model": "expolscout",
         "category": "emergency",
         "name": "Vapid Scout",
@@ -8685,16 +8676,12 @@
         "price": 80000
     },
     "pbike": {
-        "brand": "Bike"
+        "brand": "Bike",
         "model": "Pbike",
         "category": "emergency",
-        "name": "Pbike"
+        "name": "Pbike",
         "type": "automobile",
         "hash": 33,
         "price": 60000
     }
-    
-
-
-
 }
