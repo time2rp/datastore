@@ -3743,15 +3743,6 @@
         "hash": -1683328900,
         "price": 71186
     },
-    "towtruck3": {
-        "brand": "Vapid",
-        "model": "towtruck3",
-        "category": "utility",
-        "name": "Tow Truck (Beater)",
-        "type": "automobile",
-        "hash": -671564942,
-        "price": 62901
-    },
     "towtruck": {
         "brand": "Vapid",
         "model": "towtruck",
