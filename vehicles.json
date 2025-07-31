@@ -7946,7 +7946,7 @@
         "hash": 0,
         "price": 100000
     },
-    "gbneonct": {
+    "GBNEONCT": {
         "brand": "Pfister",
         "model": "gbneonct",
         "category": "custom",
@@ -8072,7 +8072,7 @@
         "hash": 0,
         "price": 100000
     },
-    "gbschrauber": {
+    "GBSCHRAUBER": {
         "brand": "Benefactor",
         "model": "gbschrauber",
         "category": "custom",
@@ -8099,7 +8099,7 @@
         "hash": 0,
         "price": 100000
     },
-    "gbmojave": {
+    "GBMOJAVE": {
         "brand": "karin",
         "model": "gbmojave",
         "category": "custom",
@@ -8126,7 +8126,7 @@
         "hash": 0,
         "price": 100000
     },
-    "gbvivant": {
+    "GBVIVANT": {
         "brand": "Bordeaux",
         "model": "gbvivant",
         "category": "custom",
@@ -8135,7 +8135,7 @@
         "hash": 0,
         "price": 100000
     },
-    "gbadmiral": {
+    "GBADMIRAL": {
         "brand": "Dundreary",
         "model": "gbadmiral",
         "category": "custom",
@@ -8144,7 +8144,7 @@
         "hash": 0,
         "price": 100000
     },
-    "gbhades": {
+    "GBHADES": {
         "brand": "dundreary",
         "model": "gbhades",
         "category": "custom",
@@ -8153,7 +8153,7 @@
         "hash": 0,
         "price": 100000
     },
-    "gbterrorizer": {
+    "GBTERRORIZER": {
         "brand": "Hvy",
         "model": "gbterrorizer",
         "category": "custom",
@@ -8162,7 +8162,7 @@
         "hash": 0,
         "price": 100000
     },
-    "towtruck3": {
+    "TOWTRUCK3": {
         "brand": "truck",
         "model": "towtruck3",
         "category": "custom",
@@ -8252,7 +8252,7 @@
         "hash": 0,
         "price": 100000
     },
-    "gbsapphire": {
+    "GBSAPPHIRE": {
         "brand": "Enus",
         "model": "gbsapphire",
         "category": "custom",
@@ -8261,7 +8261,7 @@
         "hash": 0,
         "price": 100000
     },
-    "gb811s2": {
+    "GB811S2": {
         "brand": "Pfister",
         "model": "gb811s2",
         "category": "custom",
@@ -8270,7 +8270,7 @@
         "hash": 0,
         "price": 100000
     },
-    "gbcomets2r": {
+    "GBCOMETS2R": {
         "brand": "Pfister",
         "model": "gbcomets2r",
         "category": "custom",
@@ -8324,9 +8324,9 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSCHWARZ": {
+    "gbschwarz": {
         "brand": "Benefactor",
-        "model": "GBSCHWARZ",
+        "model": "gbschwarz",
         "category": "custom",
         "name": "Schwarz",
         "type": "automobile",
@@ -8346,7 +8346,7 @@
         "brand": "Elegy",
         "model": "elegyrh7",
         "category": "custom",
-        "name": "Elegy RH7",
+        "name": "RH7",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8423,54 +8423,54 @@
         "hash": 0,
         "price": 100000
     },
-    "Cypherct": {
+    "cypherct": {
         "brand": "Unknown",
-        "model": "Cypherct",
+        "model": "cypherct",
         "category": "custom",
         "name": "Cypher ct",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
-    "CLUBXR": {
+    "clubxr": {
         "brand": "BF",
-        "model": "CLUBXR",
+        "model": "clubxr",
         "category": "custom",
         "name": "Club XR",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
-    "comets1t": {
+    "gbcomets1t": {
         "brand": "Pfister",
-        "model": "comets1t",
+        "model": "gbcomets1t",
         "category": "custom",
         "name": "Comet S1T",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
-    "gbeon": {
+    "gbeonn": {
         "brand": "Coil",
-        "model": "eonn",
+        "model": "gbeonn",
         "category": "custom",
         "name": "Eon",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
-    "TROPHYTRUNBK2": {
+    "trophytrunbk2": {
         "brand": "Vapid",
-        "model": "TROPHYTRUNBK2",
+        "model": "trophytrunbk2",
         "category": "custom",
         "name": "Trophy Truck 2",
         "type": "automobile",
         "hash": 0,
         "price": 100000
     },
-    "TROPHYTRUNK": {
+    "trophytrunk": {
         "brand": "Vapid",
-        "model": "TROPHYTRUNK",
+        "model": "trophytrunk",
         "category": "custom",
         "name": "Trophy Truck",
         "type": "automobile",
