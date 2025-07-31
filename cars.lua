@@ -1376,7 +1376,7 @@ Config.Vehicles = {
         braking = 32,
     },
     {
-        model = "gbtahgt",
+        model = "gbtahomagt",
         category = "sports",
         price = 55000,
         speed = 45,
@@ -1488,7 +1488,7 @@ Config.Vehicles = {
         braking = 32,
     },
     {
-        model = "gbturgts",
+        model = "gbturismogts",
         category = "sports",
         price = 55000,
         speed = 45,
@@ -1608,7 +1608,7 @@ Config.Vehicles = {
         braking = 32,
     },
     {
-        model = "gbstarlght",
+        model = "gbstarlight",
         category = "sports",
         price = 39500,
         speed = 45,
@@ -1864,7 +1864,7 @@ Config.Vehicles = {
         braking = 46,
     },
     {
-        model = "gbsultrsx",
+        model = "gbsultanrsx",
         category = "sports",
         price = 5000000,
         speed = 65,
@@ -2360,7 +2360,7 @@ Config.Vehicles = {
         braking = 46,
     },
     {
-        model = "gbdomgsx",
+        model = "gbdominatorgsx",
         category = "sports",
         price = 5000000,
         speed = 65,
@@ -2544,7 +2544,7 @@ Config.Vehicles = {
         braking = 46,
     },
     {
-        model = "gbharmenn",
+        model = "gbharmann",
         category = "sports",
         price = 5000000,
         speed = 65,
@@ -2631,6 +2631,22 @@ Config.Vehicles = {
         acceleration = 76,
         braking = 56,
     },
+        {
+        model = "gbcometcl",
+        category = "super",
+        price = 10000000,
+        speed = 75,
+        acceleration = 76,
+        braking = 56,
+    },
+        {
+        model = "gbcomets1t",
+        category = "super",
+        price = 10000000,
+        speed = 75,
+        acceleration = 76,
+        braking = 56,
+    },
     {
         model = "gbcomets2r",
         category = "sports",
@@ -2649,6 +2665,14 @@ Config.Vehicles = {
     },
     {
         model = "gbschlagenr",
+        category = "sports",
+        price = 10000000,
+        speed = 75,
+        acceleration = 76,
+        braking = 56,
+    },
+        {
+        model = "gbschlagensp",
         category = "sports",
         price = 10000000,
         speed = 75,
@@ -2800,7 +2824,7 @@ Config.Vehicles = {
         braking = 56,
     },
     {
-        model = "gbschwarz",
+        model = "gbschwartzers",
         category = "sports",
         price = 10000000,
         speed = 75,
@@ -2808,6 +2832,14 @@ Config.Vehicles = {
         braking = 56,
     },
     {
+        model = "gbsolacev",
+        category = "sports",
+        price = 10000000,
+        speed = 75,
+        acceleration = 76,
+        braking = 56,
+    },
+        {
         model = "gbsolace",
         category = "sports",
         price = 10000000,
@@ -2864,7 +2896,7 @@ Config.Vehicles = {
         braking = 56,
     },
     {
-        model = "elegryrh7",
+        model = "elegyrh7",
         category = "sports",
         price = 10000000,
         speed = 75,
@@ -2872,7 +2904,7 @@ Config.Vehicles = {
         braking = 56,
     },
     {
-        model = "gbbanshee",
+        model = "gbbanshees",
         category = "super",
         price = 10000000,
         speed = 75,
