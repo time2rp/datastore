@@ -8162,15 +8162,6 @@
         "hash": 0,
         "price": 100000
     },
-    "towtruck3": {
-        "brand": "truck",
-        "model": "towtruck3",
-        "category": "custom",
-        "name": "TOWTRUCK3",
-        "type": "automobile",
-        "hash": 0,
-        "price": 100000
-    },
     "gbvoyager": {
         "brand": "Brute",
         "model": "gbvoyager",
