@@ -7946,7 +7946,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBNEONCT": {
+    "gbneonct": {
         "brand": "Pfister",
         "model": "gbneonct",
         "category": "custom",
@@ -8072,7 +8072,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSCHRAUBER": {
+    "gbschrauber": {
         "brand": "Benefactor",
         "model": "gbschrauber",
         "category": "custom",
@@ -8099,7 +8099,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBMOJAVE": {
+    "gbmojave": {
         "brand": "karin",
         "model": "gbmojave",
         "category": "custom",
@@ -8126,7 +8126,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBVIVANT": {
+    "gbvivant": {
         "brand": "Bordeaux",
         "model": "gbvivant",
         "category": "custom",
@@ -8135,7 +8135,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBADMIRAL": {
+    "gbadmiral": {
         "brand": "Dundreary",
         "model": "gbadmiral",
         "category": "custom",
@@ -8144,7 +8144,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBHADES": {
+    "gbhades": {
         "brand": "dundreary",
         "model": "gbhades",
         "category": "custom",
@@ -8153,7 +8153,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBTERRORIZER": {
+    "gbterrorizer": {
         "brand": "Hvy",
         "model": "gbterrorizer",
         "category": "custom",
@@ -8162,7 +8162,7 @@
         "hash": 0,
         "price": 100000
     },
-    "TOWTRUCK3": {
+    "towtruck3": {
         "brand": "truck",
         "model": "towtruck3",
         "category": "custom",
@@ -8252,7 +8252,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBSAPPHIRE": {
+    "gbsapphire": {
         "brand": "Enus",
         "model": "gbsapphire",
         "category": "custom",
@@ -8261,7 +8261,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GB811S2": {
+    "gb811s2": {
         "brand": "Pfister",
         "model": "gb811s2",
         "category": "custom",
@@ -8270,7 +8270,7 @@
         "hash": 0,
         "price": 100000
     },
-    "GBCOMETS2R": {
+    "gbcomets2r": {
         "brand": "Pfister",
         "model": "gbcomets2r",
         "category": "custom",
