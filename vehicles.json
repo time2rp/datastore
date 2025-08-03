@@ -1493,15 +1493,6 @@
         "hash": -823509173,
         "price": 53283
     },
-    "patriot": {
-        "brand": "Mammoth",
-        "model": "patriot",
-        "category": "suvs",
-        "name": "Patriot",
-        "type": "automobile",
-        "hash": -808457413,
-        "price": 63246
-    },
     "zentorno": {
         "brand": "Pegassi",
         "model": "zentorno",
@@ -8063,7 +8054,16 @@
         "hash": 0,
         "price": 100000
     },
-    "gbstarlight": {
+    "gbstanierle": {
+        "brand": "Vulcar",
+        "model": "gbstanierle",
+        "category": "custom",
+        "name": "Stanier LE",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+        "gbstarlight": {
         "brand": "Vulcar",
         "model": "gbstarlight",
         "category": "custom",
@@ -8415,7 +8415,7 @@
         "price": 100000
     },
     "cypherct": {
-        "brand": "Unknown",
+        "brand": "Übermacht",
         "model": "cypherct",
         "category": "custom",
         "name": "Cypher ct",
