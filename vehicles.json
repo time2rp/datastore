@@ -8063,7 +8063,7 @@
         "hash": 0,
         "price": 100000
     },
-        "gbstarlight": {
+    "gbstarlight": {
         "brand": "Vulcar",
         "model": "gbstarlight",
         "category": "custom",
@@ -8281,9 +8281,10 @@
     },
     "gbcomets2rc": {
         "brand": "Pfister",
-        "model": "gbcomets2rc",
+        "brand": "Pfister",
+        "model": "gbcometcl",
         "category": "custom",
-        "name": "Comet 2RC",
+        "name": "Comet CL",
         "type": "automobile",
         "hash": 0,
         "price": 100000

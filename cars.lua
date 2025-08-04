@@ -1464,6 +1464,22 @@ Config.Vehicles = {
         braking = 32,
     },
     {
+        model = "cognosc",
+        category = "sedans",
+        price = 35500,
+        speed = 45,
+        acceleration = 35,
+        braking = 32,
+    },
+    {
+        model = "cometcl",
+        category = "sports",
+        price = 55000,
+        speed = 45,
+        acceleration = 35,
+        braking = 32,
+    },
+    {
         model = "jackal",
         category = "coupes",
         price = 35500,
@@ -2775,7 +2791,15 @@ Config.Vehicles = {
         acceleration = 76,
         braking = 56,
     },
-        {
+    {
+        model = "gbsolace",
+        category = "sports",
+        price = 10000000,
+        speed = 75,
+        acceleration = 76,
+        braking = 56,
+    },
+    {
         model = "gbsolace",
         category = "sports",
         price = 10000000,
@@ -2818,6 +2842,14 @@ Config.Vehicles = {
     {
         model = "elegyrh7",
         category = "sports",
+        price = 10000000,
+        speed = 75,
+        acceleration = 76,
+        braking = 56,
+    },
+    {
+        model = "gbbanshees",
+        category = "super",
         price = 10000000,
         speed = 75,
         acceleration = 76,
