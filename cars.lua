@@ -320,14 +320,6 @@ Config.Vehicles = {
         braking = 20,
     },    
     {
-        model = "caddy2",
-        category = "vans",
-        price = 5600,
-        speed = 30,
-        acceleration = 25,
-        braking = 20,
-    },
-    {
         model = "camper",
         category = "vans",
         price = 8500,
@@ -952,14 +944,6 @@ Config.Vehicles = {
         braking = 20,
     },
     {
-        model = "patriot3",
-        category = "suvs",
-        price = 18500,
-        speed = 30,
-        acceleration = 25,
-        braking = 20,
-    },
-    {
         model = "picador",
         category = "vans",
         price = 14500,
@@ -1464,17 +1448,9 @@ Config.Vehicles = {
         braking = 32,
     },
     {
-        model = "cognosc",
+        model = "cognoscenti",
         category = "sedans",
         price = 35500,
-        speed = 45,
-        acceleration = 35,
-        braking = 32,
-    },
-    {
-        model = "cometcl",
-        category = "sports",
-        price = 55000,
         speed = 45,
         acceleration = 35,
         braking = 32,
@@ -1743,14 +1719,7 @@ Config.Vehicles = {
         acceleration = 35,
         braking = 20,
     },
-    {
-        model = "gbturgt",
-        category = "sports",
-        price = 35500,
-        speed = 39,
-        acceleration = 35,
-        braking = 25,
-    },
+
     {
         model = "gbvivant",
         category = "sports",
@@ -2176,7 +2145,7 @@ Config.Vehicles = {
         braking = 46,
     },
     {
-        model = "gbeon",
+        model = "gbeonn",
         category = "sports",
         price = 5000000,
         speed = 65,
@@ -2552,14 +2521,6 @@ Config.Vehicles = {
         braking = 56,
     },
     {
-        model = "ardent",
-        category = "sportsclassics",
-        price = 10000000,
-        speed = 75,
-        acceleration = 76,
-        braking = 56,
-    },
-    {
         model = "gbprospero",
         category = "super",
         price = 10000000,
@@ -2785,14 +2746,6 @@ Config.Vehicles = {
     },
     {
         model = "gbsolacev",
-        category = "sports",
-        price = 10000000,
-        speed = 75,
-        acceleration = 76,
-        braking = 56,
-    },
-    {
-        model = "gbsolace",
         category = "sports",
         price = 10000000,
         speed = 75,
