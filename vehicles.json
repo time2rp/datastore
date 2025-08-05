@@ -7770,7 +7770,7 @@
         "brand": "Pfister",
         "model": "comet2",
         "category": "sports",
-        "name": "Comet",
+        "name": "Comet 2",
         "type": "automobile",
         "hash": -1045541610,
         "price": 83289
@@ -7929,7 +7929,7 @@
         "price": 100000
     },
     "gbsultanrsx": {
-        "brand": "Sultan",
+        "brand": "Karin",
         "model": "gbsultanrsx",
         "category": "custom",
         "name": "Sultan RSX",
@@ -8046,7 +8046,7 @@
         "price": 100000
     },
     "gbtahomagt": {
-        "brand": "vulcar",
+        "brand": "Vulcar",
         "model": "gbtahomagt",
         "category": "custom",
         "name": "Tahoma GT",
@@ -8139,7 +8139,7 @@
         "brand": "Dundreary",
         "model": "gbadmiral",
         "category": "custom",
-        "name": "ADMIRAL",
+        "name": "Admiral",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8281,9 +8281,9 @@
     },
     "gbcomets2rc": {
         "brand": "Pfister",
-        "model": "gbcometcl",
+        "model": "gbcomets2rc",
         "category": "custom",
-        "name": "Comet CL",
+        "name": "comets 2RC",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8329,6 +8329,15 @@
         "model": "gbsolace",
         "category": "custom",
         "name": "Solace",
+        "type": "automobile",
+        "hash": 0,
+        "price": 100000
+    },
+        "gbsolacev": {
+        "brand": "Dewbauchee",
+        "model": "gbsolacev",
+        "category": "custom",
+        "name": "Solace V",
         "type": "automobile",
         "hash": 0,
         "price": 100000
@@ -8396,15 +8405,6 @@
         "hash": 0,
         "price": 100000
     },
-    "gbsolacev": {
-        "brand": "Dewbauchee",
-        "model": "gbsolacev",
-        "category": "custom",
-        "name": "Solace V",
-        "type": "automobile",
-        "hash": 0,
-        "price": 100000
-    },
     "gbschlagensp": {
         "brand": "Benefactor",
         "model": "gbschlagensp",
@@ -8445,7 +8445,7 @@
         "brand": "Coil",
         "model": "gbeonn",
         "category": "custom",
-        "name": "Eon",
+        "name": "Eonn",
         "type": "automobile",
         "hash": 0,
         "price": 100000
