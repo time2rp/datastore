@@ -1,24 +1,16 @@
 {
-  "patch": "2.0.6",
+  "patch": "2.0.7",
   "changes": [
     {
       "title": "Time2RP 2.0",
       "changes": [
-        "House Robberies were reworked",
-        "Increased food/drink satisfaction",
-        "Jet Washing bug fixes",
-        "Crafting issues resolved",
-        "Fishing permit requirement",
-        "Minigame logic rework for a petty crime",
-        "Garbage searching issues fixed",
-        "Fixed walkstyle resetting issues",
-        "Fixed jail issues for PD",
-        "Removed vehicle population group",
-        "Fixed recycler issues",
-        "Fixed PDM catalogue searching",
-        "Fixed police badges",
-        "PD/EMS Extras and Car Customisation Menu",
-        "Farming Updates"
+        "Additional petty crime locations",
+        "PDM",
+        "Trucking",
+        "Pearls",
+        "Job item simplifications",
+        "Lootpool amends",
+        "Bug fixes, exploits and improvements"
       ]
     }
   ]
