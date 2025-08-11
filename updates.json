@@ -1,16 +1,17 @@
 {
-  "patch": "2.0.7",
+  "patch": "2.0.8",
   "changes": [
     {
       "title": "Time2RP 2.0",
       "changes": [
-        "Additional petty crime locations",
-        "PDM",
-        "Trucking",
-        "Pearls",
-        "Job item simplifications",
-        "Lootpool amends",
-        "Bug fixes, exploits and improvements"
+        "Petty crime additions and amends",
+        "Logout via beds in your apartment",
+        "Fishing at more locations",
+        "Water station added at farming",
+        "Vehicle modifications now save",
+        "Die rolling returns",
+        "Pier improvements",
+        "Bug fixes and other improvements"
       ]
     }
   ]
