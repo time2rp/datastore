@@ -2345,14 +2345,6 @@ Config.Vehicles = {
         braking = 46,
     },
     {
-        model = "revolter",
-        category = "sports",
-        price = 446000,
-        speed = 65,
-        acceleration = 56,
-        braking = 46,
-    },
-    {
         model = "infernus",
         category = "super",
         price = 446000,
