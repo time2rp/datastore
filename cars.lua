@@ -1731,7 +1731,7 @@ Config.Vehicles = {
         {
         model = "cinquemila",
         category = "sedans",
-        price = 315000,
+        price = 325000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1739,7 +1739,7 @@ Config.Vehicles = {
     {
         model = "clubxr",
         category = "sports",
-        price = 315000,
+        price = 325000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1747,7 +1747,7 @@ Config.Vehicles = {
     {
         model = "cog55",
         category = "sedans",
-        price = 315000,
+        price = 325000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1755,7 +1755,7 @@ Config.Vehicles = {
     {
         model = "cogcabrio",
         category = "coupes",
-        price = 315000,
+        price = 325000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1763,7 +1763,7 @@ Config.Vehicles = {
     {
         model = "dominator8",
         category = "muscle",
-        price = 315000,
+        price = 415000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1779,7 +1779,7 @@ Config.Vehicles = {
     {
         model = "gbmogulrs",
         category = "sports",
-        price = 556000,
+        price = 656000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1787,7 +1787,7 @@ Config.Vehicles = {
     {
         model = "gbsultanrsx",
         category = "sports",
-        price = 556000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1795,7 +1795,7 @@ Config.Vehicles = {
     {
         model = "banshee",
         category = "sports",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1803,7 +1803,7 @@ Config.Vehicles = {
     {
         model = "buffalo2",
         category = "muscle",
-        price = 315000,
+        price = 325000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1811,7 +1811,7 @@ Config.Vehicles = {
     {
         model = "infernus2",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1819,7 +1819,7 @@ Config.Vehicles = {
     {
         model = "komoda",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1827,7 +1827,7 @@ Config.Vehicles = {
     {
         model = "gbcomets1t",
         category = "sports",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1835,7 +1835,7 @@ Config.Vehicles = {
     {
         model = "coquette",
         category = "sports",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1843,7 +1843,7 @@ Config.Vehicles = {
     {
         model = "coureur",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1851,7 +1851,7 @@ Config.Vehicles = {
     {
         model = "dominator",
         category = "muscle",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1859,7 +1859,7 @@ Config.Vehicles = {
     {
         model = "dominator3",
         category = "muscle",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1867,7 +1867,7 @@ Config.Vehicles = {
     {
         model = "f620",
         category = "coupes",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1875,7 +1875,7 @@ Config.Vehicles = {
     {
         model = "issi7",
         category = "compacts",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1883,7 +1883,7 @@ Config.Vehicles = {
     {
         model = "jubilee",
         category = "suvs",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1891,7 +1891,7 @@ Config.Vehicles = {
     {
         model = "kuruma",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1899,7 +1899,7 @@ Config.Vehicles = {
     {
         model = "paragon",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1907,7 +1907,7 @@ Config.Vehicles = {
     {
         model = "penumbra2",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1915,7 +1915,7 @@ Config.Vehicles = {
     {
         model = "ruiner4",
         category = "muscle",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1923,7 +1923,7 @@ Config.Vehicles = {
     {
         model = "schafter3",
         category = "sedans",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1931,7 +1931,7 @@ Config.Vehicles = {
     {
         model = "schlagen",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1939,7 +1939,7 @@ Config.Vehicles = {
         {
         model = "windsor2",
         category = "coupes",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1947,7 +1947,7 @@ Config.Vehicles = {
     {
         model = "surano",
         category = "sports",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1955,7 +1955,7 @@ Config.Vehicles = {
     {
         model = "savestra",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1963,7 +1963,7 @@ Config.Vehicles = {
     {
         model = "turismo2",
         category = "super",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1971,7 +1971,7 @@ Config.Vehicles = {
     {
         model = "tailgater2",
         category = "sedans",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1979,7 +1979,7 @@ Config.Vehicles = {
     {
         model = "kanjo",
         category = "compacts",
-        price = 356000,
+        price = 346000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1987,7 +1987,7 @@ Config.Vehicles = {
     {
         model = "khamelion",
         category = "coupes",
-        price = 356000,
+        price = 346000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -1995,7 +1995,7 @@ Config.Vehicles = {
     {
         model = "neon",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2003,7 +2003,7 @@ Config.Vehicles = {
     {
         model = "ninef",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2011,7 +2011,7 @@ Config.Vehicles = {
     {
         model = "omnisegt",
         category = "sports",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2019,7 +2019,7 @@ Config.Vehicles = {
     {
         model = "furoregt",
         category = "sports",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2027,7 +2027,7 @@ Config.Vehicles = {
     {
         model = "fr36",
         category = "sports",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2035,7 +2035,7 @@ Config.Vehicles = {
     {
         model = "ruston",
         category = "sports",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2043,7 +2043,7 @@ Config.Vehicles = {
     {
         model = "locust",
         category = "sports",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2051,7 +2051,7 @@ Config.Vehicles = {
     {
         model = "lynx",
         category = "sports",
-        price = 656000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2059,7 +2059,7 @@ Config.Vehicles = {
     {
         model = "vstr",
         category = "sedans",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2067,7 +2067,7 @@ Config.Vehicles = {
     {
         model = "rhinehart",
         category = "sedans",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2075,7 +2075,7 @@ Config.Vehicles = {
     {
         model = "zentorno",
         category = "super",
-        price = 756000,
+        price = 656000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2091,7 +2091,7 @@ Config.Vehicles = {
     {
         model = "specter2",
         category = "sports",
-        price = 456000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2099,7 +2099,7 @@ Config.Vehicles = {
     {
         model = "rebla",
         category = "suvs",
-        price = 456000,
+        price = 356000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2107,7 +2107,7 @@ Config.Vehicles = {
     {
         model = "remus",
         category = "sports",
-        price = 456000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2115,7 +2115,7 @@ Config.Vehicles = {
     {
         model = "comet2",
         category = "sports",
-        price = 656000,
+        price = 566000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2123,7 +2123,7 @@ Config.Vehicles = {
     {
         model = "adder",
         category = "super",
-        price = 756000,
+        price = 656000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2131,7 +2131,7 @@ Config.Vehicles = {
         {
         model = "gauntlet",
         category = "muscle",
-        price = 456000,
+        price = 356000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2147,7 +2147,7 @@ Config.Vehicles = {
     {
         model = "gbeonn",
         category = "sports",
-        price = 656000,
+        price = 566000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2163,7 +2163,7 @@ Config.Vehicles = {
     {
         model = "gbneonct",
         category = "sports",
-        price = 656000,
+        price = 576000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2171,7 +2171,7 @@ Config.Vehicles = {
     {
         model = "vigero2",
         category = "muscle",
-        price = 656000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2179,7 +2179,7 @@ Config.Vehicles = {
     {
         model = "novak",
         category = "suvs",
-        price = 656000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2187,7 +2187,7 @@ Config.Vehicles = {
     {
         model = "italigto",
         category = "sports",
-        price = 756000,
+        price = 656000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2195,7 +2195,7 @@ Config.Vehicles = {
     {
         model = "imorgon",
         category = "sports",
-        price = 856000,
+        price = 756000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2203,7 +2203,7 @@ Config.Vehicles = {
     {
         model = "elegy2",
         category = "sports",
-        price = 656000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2211,7 +2211,7 @@ Config.Vehicles = {
     {
         model = "cheetah2",
         category = "super",
-        price = 856000,
+        price = 756000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2219,7 +2219,7 @@ Config.Vehicles = {
     {
         model = "buffalo3",
         category = "muscle",
-        price = 556000,
+        price = 356000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2227,7 +2227,7 @@ Config.Vehicles = {
     {
         model = "brawler",
         category = "offroad",
-        price = 656000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2235,7 +2235,7 @@ Config.Vehicles = {
     {
         model = "brioso",
         category = "compacts",
-        price = 656000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2243,7 +2243,7 @@ Config.Vehicles = {
     {
         model = "baller3",
         category = "suvs",
-        price = 356000,
+        price = 256000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2251,7 +2251,7 @@ Config.Vehicles = {
     {
         model = "baller4",
         category = "suvs",
-        price = 456000,
+        price = 356000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2259,7 +2259,7 @@ Config.Vehicles = {
     {
         model = "baller7",
         category = "suvs",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2267,7 +2267,7 @@ Config.Vehicles = {
     {
         model = "baller8",
         category = "suvs",
-        price = 656000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2275,7 +2275,7 @@ Config.Vehicles = {
     {
         model = "astron",
         category = "suvs",
-        price = 656000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2283,7 +2283,7 @@ Config.Vehicles = {
     {
         model = "gbdominatorgsx",
         category = "sports",
-        price = 856000,
+        price = 756000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2291,7 +2291,7 @@ Config.Vehicles = {
     {
         model = "r300",
         category = "sports",
-        price = 656000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2299,7 +2299,7 @@ Config.Vehicles = {
     {
         model = "gbkomodagt",
         category = "sports",
-        price = 656000,
+        price = 556000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2307,7 +2307,7 @@ Config.Vehicles = {
     {
         model = "gbbisonhf",
         category = "offroad",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2315,7 +2315,7 @@ Config.Vehicles = {
     {
         model = "gbargento7f",
         category = "sports",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2323,7 +2323,7 @@ Config.Vehicles = {
         {
         model = "t20",
         category = "super",
-        price = 956000,
+        price = 856000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2331,7 +2331,7 @@ Config.Vehicles = {
     {
         model = "pariah",
         category = "sports",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2339,7 +2339,7 @@ Config.Vehicles = {
     {
         model = "specter",
         category = "sports",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2347,7 +2347,7 @@ Config.Vehicles = {
     {
         model = "revolter",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2355,7 +2355,7 @@ Config.Vehicles = {
     {
         model = "infernus",
         category = "super",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2363,7 +2363,7 @@ Config.Vehicles = {
     {
         model = "futo2",
         category = "compacts",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2371,7 +2371,7 @@ Config.Vehicles = {
     {
         model = "massacro",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2379,7 +2379,7 @@ Config.Vehicles = {
     {
         model = "comet5",
         category = "sports",
-        price = 456000,
+        price = 446000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2387,7 +2387,7 @@ Config.Vehicles = {
     {
         model = "buffalo4",
         category = "muscle",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2395,7 +2395,7 @@ Config.Vehicles = {
     {
         model = "bullet",
         category = "super",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2403,7 +2403,7 @@ Config.Vehicles = {
     {
         model = "dominator2",
         category = "muscle",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2411,7 +2411,7 @@ Config.Vehicles = {
     {
         model = "sultan3",
         category = "sports",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2419,7 +2419,7 @@ Config.Vehicles = {
     {
         model = "sultan2",
         category = "sports",
-        price = 556000,
+        price = 554000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2427,7 +2427,7 @@ Config.Vehicles = {
     {
         model = "jester3",
         category = "sports",
-        price = 556000,
+        price = 555000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2435,7 +2435,7 @@ Config.Vehicles = {
     {
         model = "schwarzer",
         category = "sports",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2443,7 +2443,7 @@ Config.Vehicles = {
     {
         model = "sentinel",
         category = "coupes",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2451,7 +2451,7 @@ Config.Vehicles = {
     {
         model = "gbgresleystx",
         category = "suvs",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2459,7 +2459,7 @@ Config.Vehicles = {
     {
         model = "gbharmann",
         category = "sports",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2467,7 +2467,7 @@ Config.Vehicles = {
     {
         model = "gbirisz",
         category = "sports",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2475,7 +2475,7 @@ Config.Vehicles = {
     {
         model = "gbissimetro",
         category = "compacts",
-        price = 656000,
+        price = 646000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2483,7 +2483,7 @@ Config.Vehicles = {
     {
         model = "gbsidewinder",
         category = "sports",
-        price = 556000,
+        price = 546000,
         speed = 65,
         acceleration = 56,
         braking = 46,
