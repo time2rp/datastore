@@ -4,13 +4,10 @@
     {
       "title": "Time2RP 2.0",
       "changes": [
-        "Petty crime additions and amends",
-        "Logout via beds in your apartment",
-        "Fishing at more locations",
-        "Water station added at farming",
-        "Vehicle modifications now save",
-        "Die rolling returns",
-        "Pier improvements",
+        "Repair stations added",
+        "Illegal activities",
+        "Lockpick durability system change",
+        "Sit anywhere",
         "Bug fixes and other improvements"
       ]
     }
