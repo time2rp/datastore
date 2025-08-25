@@ -1,13 +1,18 @@
 {
-  "patch": "2.0.9",
+  "patch": "2.0.10",
   "changes": [
     {
       "title": "Time2RP 2.0",
       "changes": [
-        "Repair stations added",
-        "Illegal activities",
-        "Lockpick durability system change",
-        "Sit anywhere",
+        "Ammunation Restock",
+        "Fuel pumps to PD stations",
+        "Fuel Effects",
+        "PD Helicopter Purchasing",
+        "Prison Jobs now notify of successful work",
+        "Unjailing ability for LEO",
+        "Theres new delivery services in city...",
+        "Eco changes",
+        "One's junk, is another's treasure",
         "Bug fixes and other improvements"
       ]
     }
