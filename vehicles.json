@@ -8685,7 +8685,7 @@
         "price": 60000
     },
     "onx_polvstr": {
-      "brand": "ONX",
+      "brand": "Albany",
       "model": "onx_polvstr",
       "category": "police",
       "name": "Police VSTR",
@@ -8694,7 +8694,7 @@
       "price": 0
     },
     "onx_polvigero": {
-      "brand": "ONX",
+      "brand": "Declasse",
       "model": "onx_polvigero",
       "category": "police",
       "name": "Police Vigero",
@@ -8703,7 +8703,7 @@
       "price": 0
     },
     "onx_polverus": {
-      "brand": "ONX",
+      "brand": "Dinka",
       "model": "onx_polverus",
       "category": "police",
       "name": "Police Verus",
@@ -8712,7 +8712,7 @@
       "price": 0
     },
     "onx_poltulip": {
-      "brand": "ONX",
+      "brand": "Declasse",
       "model": "onx_poltulip",
       "category": "police",
       "name": "Police Tulip",
@@ -8721,7 +8721,7 @@
       "price": 0
     },
     "onx_polterm2": {
-      "brand": "ONX",
+      "brand": "Canis",
       "model": "onx_polterm2",
       "category": "police",
       "name": "Police Terminus Mk2",
@@ -8730,7 +8730,7 @@
       "price": 0
     },
     "onx_polterm": {
-      "brand": "ONX",
+      "brand": "Canis",
       "model": "onx_polterm",
       "category": "police",
       "name": "Police Terminus",
@@ -8739,7 +8739,7 @@
       "price": 0
     },
     "onx_poltavros": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_poltavros",
       "category": "police",
       "name": "Police Tavros",
@@ -8748,7 +8748,7 @@
       "price": 0
     },
     "onx_polstalk": {
-      "brand": "ONX",
+      "brand": "Dundreary",
       "model": "onx_polstalk",
       "category": "police",
       "name": "Police Stalker",
@@ -8757,7 +8757,7 @@
       "price": 0
     },
     "onx_polsem": {
-      "brand": "ONX",
+      "brand": "Canis",
       "model": "onx_polsem",
       "category": "police",
       "name": "Police Seminole",
@@ -8766,7 +8766,7 @@
       "price": 0
     },
     "onx_polscout2": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_polscout2",
       "category": "police",
       "name": "Police Scout II",
@@ -8775,7 +8775,7 @@
       "price": 0
     },
     "onx_polscout": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_polscout",
       "category": "police",
       "name": "Police Scout",
@@ -8784,7 +8784,7 @@
       "price": 0
     },
     "onx_polsandxl": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_polsandxl",
       "category": "police",
       "name": "Police Sandking XL",
@@ -8793,7 +8793,7 @@
       "price": 0
     },
     "onx_polsandsc": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_polsandsc",
       "category": "police",
       "name": "Police Sandking SC",
@@ -8802,7 +8802,7 @@
       "price": 0
     },
     "onx_polsandh": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_polsandh",
       "category": "police",
       "name": "Police Sandking H",
@@ -8811,7 +8811,7 @@
       "price": 0
     },
     "onx_polsand": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_polsand",
       "category": "police",
       "name": "Police Sandking",
@@ -8820,7 +8820,7 @@
       "price": 0
     },
     "onx_polregentxl": {
-      "brand": "ONX",
+      "brand": "Brute",
       "model": "onx_polregentxl",
       "category": "police",
       "name": "Police Regent XL",
@@ -8829,7 +8829,7 @@
       "price": 0
     },
     "onx_polregent": {
-      "brand": "ONX",
+      "brand": "Brute",
       "model": "onx_polregent",
       "category": "police",
       "name": "Police Regent",
@@ -8838,7 +8838,7 @@
       "price": 0
     },
     "onx_polmonar": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_polmonar",
       "category": "police",
       "name": "Police Monaro",
@@ -8847,7 +8847,7 @@
       "price": 0
     },
     "onx_polmerit3": {
-      "brand": "ONX",
+      "brand": "Declasse",
       "model": "onx_polmerit3",
       "category": "police",
       "name": "Police Merit Mk3",
@@ -8856,7 +8856,7 @@
       "price": 0
     },
     "onx_polmerit": {
-      "brand": "ONX",
+      "brand": "Declasse",
       "model": "onx_polmerit",
       "category": "police",
       "name": "Police Merit",
@@ -8865,7 +8865,7 @@
       "price": 0
     },
     "onx_polkandra": {
-      "brand": "ONX",
+      "brand": "Übermacht",
       "model": "onx_polkandra",
       "category": "police",
       "name": "Police Kandra",
@@ -8874,7 +8874,7 @@
       "price": 0
     },
     "onx_polinvict2": {
-      "brand": "ONX",
+      "brand": "Canis",
       "model": "onx_polinvict2",
       "category": "police",
       "name": "Police Invictus Mk2",
@@ -8883,7 +8883,7 @@
       "price": 0
     },
     "onx_polinvict": {
-      "brand": "ONX",
+      "brand": "Canis",
       "model": "onx_polinvict",
       "category": "police",
       "name": "Police Invictus",
@@ -8892,7 +8892,7 @@
       "price": 0
     },
     "onx_polgrang2": {
-      "brand": "ONX",
+      "brand": "Declasse",
       "model": "onx_polgrang2",
       "category": "police",
       "name": "Police Granger 2",
@@ -8901,7 +8901,7 @@
       "price": 0
     },
     "onx_polgrang": {
-      "brand": "ONX",
+      "brand": "Declasse",
       "model": "onx_polgrang",
       "category": "police",
       "name": "Police Granger",
@@ -8910,7 +8910,7 @@
       "price": 0
     },
     "onx_polgaunt": {
-      "brand": "ONX",
+      "brand": "Bravado",
       "model": "onx_polgaunt",
       "category": "police",
       "name": "Police Gauntlet",
@@ -8919,7 +8919,7 @@
       "price": 0
     },
     "onx_poldorado2": {
-      "brand": "ONX",
+      "brand": "Bravado",
       "model": "onx_poldorado2",
       "category": "police",
       "name": "Police Eldorado Mk2",
@@ -8928,7 +8928,7 @@
       "price": 0
     },
     "onx_poldorado": {
-      "brand": "ONX",
+      "brand": "Bravado",
       "model": "onx_poldorado",
       "category": "police",
       "name": "Police Eldorado",
@@ -8937,7 +8937,7 @@
       "price": 0
     },
     "onx_poldom": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_poldom",
       "category": "police",
       "name": "Police Dominator",
@@ -8946,7 +8946,7 @@
       "price": 0
     },
     "onx_polcon": {
-      "brand": "ONX",
+      "brand": "Buckingham",
       "model": "onx_polcon",
       "category": "police",
       "name": "Police Contender",
@@ -8955,7 +8955,7 @@
       "price": 0
     },
     "onx_polcava": {
-      "brand": "ONX",
+      "brand": "Albany",
       "model": "onx_polcava",
       "category": "police",
       "name": "Police Cavalcade",
@@ -8964,7 +8964,7 @@
       "price": 0
     },
     "onx_polcara": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_polcara",
       "category": "police",
       "name": "Police Caracara",
@@ -8973,7 +8973,7 @@
       "price": 0
     },
     "onx_polbuffhf": {
-      "brand": "ONX",
+      "brand": "Bravado",
       "model": "onx_polbuffhf",
       "category": "police",
       "name": "Police Buffalo HF",
@@ -8982,7 +8982,7 @@
       "price": 0
     },
     "onx_polbuff": {
-      "brand": "ONX",
+      "brand": "Bravado",
       "model": "onx_polbuff",
       "category": "police",
       "name": "Police Buffalo",
@@ -8991,7 +8991,7 @@
       "price": 0
     },
     "onx_polbison4": {
-      "brand": "ONX",
+      "brand": "Bravado",
       "model": "onx_polbison4",
       "category": "police",
       "name": "Police Bison 4",
@@ -9000,7 +9000,7 @@
       "price": 0
     },
     "onx_polbison3": {
-      "brand": "ONX",
+      "brand": "Bravado",
       "model": "onx_polbison3",
       "category": "police",
       "name": "Police Bison 3",
@@ -9009,7 +9009,7 @@
       "price": 0
     },
     "onx_polbison2": {
-      "brand": "ONX",
+      "brand": "Bravado",
       "model": "onx_polbison2",
       "category": "police",
       "name": "Police Bison 2",
@@ -9018,7 +9018,7 @@
       "price": 0
     },
     "onx_polbison": {
-      "brand": "ONX",
+      "brand": "Bravado",
       "model": "onx_polbison",
       "category": "police",
       "name": "Police Bison",
@@ -9027,7 +9027,7 @@
       "price": 0
     },
     "onx_polaleu": {
-      "brand": "ONX",
+      "brand": "Vapid",
       "model": "onx_polaleu",
       "category": "police",
       "name": "Police Aleutian",
@@ -9036,7 +9036,7 @@
       "price": 0
     },
     "onx_polalamo": {
-      "brand": "ONX",
+      "brand": "Declasse",
       "model": "onx_polalamo",
       "category": "police",
       "name": "Police Alamo",
