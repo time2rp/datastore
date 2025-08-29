@@ -8683,5 +8683,367 @@
         "type": "automobile",
         "hash": 33,
         "price": 60000
+    },
+    "onx_polvstr": {
+      "brand": "ONX",
+      "model": "onx_polvstr",
+      "category": "police",
+      "name": "Police VSTR",
+      "type": "automobile",
+      "hash": "onx_polvstr",
+      "price": 0
+    },
+    "onx_polvigero": {
+      "brand": "ONX",
+      "model": "onx_polvigero",
+      "category": "police",
+      "name": "Police Vigero",
+      "type": "automobile",
+      "hash": "onx_polvigero",
+      "price": 0
+    },
+    "onx_polverus": {
+      "brand": "ONX",
+      "model": "onx_polverus",
+      "category": "police",
+      "name": "Police Verus",
+      "type": "automobile",
+      "hash": "onx_polverus",
+      "price": 0
+    },
+    "onx_poltulip": {
+      "brand": "ONX",
+      "model": "onx_poltulip",
+      "category": "police",
+      "name": "Police Tulip",
+      "type": "automobile",
+      "hash": "onx_poltulip",
+      "price": 0
+    },
+    "onx_polterm2": {
+      "brand": "ONX",
+      "model": "onx_polterm2",
+      "category": "police",
+      "name": "Police Terminus Mk2",
+      "type": "automobile",
+      "hash": "onx_polterm2",
+      "price": 0
+    },
+    "onx_polterm": {
+      "brand": "ONX",
+      "model": "onx_polterm",
+      "category": "police",
+      "name": "Police Terminus",
+      "type": "automobile",
+      "hash": "onx_polterm",
+      "price": 0
+    },
+    "onx_poltavros": {
+      "brand": "ONX",
+      "model": "onx_poltavros",
+      "category": "police",
+      "name": "Police Tavros",
+      "type": "automobile",
+      "hash": "onx_poltavros",
+      "price": 0
+    },
+    "onx_polstalk": {
+      "brand": "ONX",
+      "model": "onx_polstalk",
+      "category": "police",
+      "name": "Police Stalker",
+      "type": "automobile",
+      "hash": "onx_polstalk",
+      "price": 0
+    },
+    "onx_polsem": {
+      "brand": "ONX",
+      "model": "onx_polsem",
+      "category": "police",
+      "name": "Police Seminole",
+      "type": "automobile",
+      "hash": "onx_polsem",
+      "price": 0
+    },
+    "onx_polscout2": {
+      "brand": "ONX",
+      "model": "onx_polscout2",
+      "category": "police",
+      "name": "Police Scout II",
+      "type": "automobile",
+      "hash": "onx_polscout2",
+      "price": 0
+    },
+    "onx_polscout": {
+      "brand": "ONX",
+      "model": "onx_polscout",
+      "category": "police",
+      "name": "Police Scout",
+      "type": "automobile",
+      "hash": "onx_polscout",
+      "price": 0
+    },
+    "onx_polsandxl": {
+      "brand": "ONX",
+      "model": "onx_polsandxl",
+      "category": "police",
+      "name": "Police Sandking XL",
+      "type": "automobile",
+      "hash": "onx_polsandxl",
+      "price": 0
+    },
+    "onx_polsandsc": {
+      "brand": "ONX",
+      "model": "onx_polsandsc",
+      "category": "police",
+      "name": "Police Sandking SC",
+      "type": "automobile",
+      "hash": "onx_polsandsc",
+      "price": 0
+    },
+    "onx_polsandh": {
+      "brand": "ONX",
+      "model": "onx_polsandh",
+      "category": "police",
+      "name": "Police Sandking H",
+      "type": "automobile",
+      "hash": "onx_polsandh",
+      "price": 0
+    },
+    "onx_polsand": {
+      "brand": "ONX",
+      "model": "onx_polsand",
+      "category": "police",
+      "name": "Police Sandking",
+      "type": "automobile",
+      "hash": "onx_polsand",
+      "price": 0
+    },
+    "onx_polregentxl": {
+      "brand": "ONX",
+      "model": "onx_polregentxl",
+      "category": "police",
+      "name": "Police Regent XL",
+      "type": "automobile",
+      "hash": "onx_polregentxl",
+      "price": 0
+    },
+    "onx_polregent": {
+      "brand": "ONX",
+      "model": "onx_polregent",
+      "category": "police",
+      "name": "Police Regent",
+      "type": "automobile",
+      "hash": "onx_polregent",
+      "price": 0
+    },
+    "onx_polmonar": {
+      "brand": "ONX",
+      "model": "onx_polmonar",
+      "category": "police",
+      "name": "Police Monaro",
+      "type": "automobile",
+      "hash": "onx_polmonar",
+      "price": 0
+    },
+    "onx_polmerit3": {
+      "brand": "ONX",
+      "model": "onx_polmerit3",
+      "category": "police",
+      "name": "Police Merit Mk3",
+      "type": "automobile",
+      "hash": "onx_polmerit3",
+      "price": 0
+    },
+    "onx_polmerit": {
+      "brand": "ONX",
+      "model": "onx_polmerit",
+      "category": "police",
+      "name": "Police Merit",
+      "type": "automobile",
+      "hash": "onx_polmerit",
+      "price": 0
+    },
+    "onx_polkandra": {
+      "brand": "ONX",
+      "model": "onx_polkandra",
+      "category": "police",
+      "name": "Police Kandra",
+      "type": "automobile",
+      "hash": "onx_polkandra",
+      "price": 0
+    },
+    "onx_polinvict2": {
+      "brand": "ONX",
+      "model": "onx_polinvict2",
+      "category": "police",
+      "name": "Police Invictus Mk2",
+      "type": "automobile",
+      "hash": "onx_polinvict2",
+      "price": 0
+    },
+    "onx_polinvict": {
+      "brand": "ONX",
+      "model": "onx_polinvict",
+      "category": "police",
+      "name": "Police Invictus",
+      "type": "automobile",
+      "hash": "onx_polinvict",
+      "price": 0
+    },
+    "onx_polgrang2": {
+      "brand": "ONX",
+      "model": "onx_polgrang2",
+      "category": "police",
+      "name": "Police Granger 2",
+      "type": "automobile",
+      "hash": "onx_polgrang2",
+      "price": 0
+    },
+    "onx_polgrang": {
+      "brand": "ONX",
+      "model": "onx_polgrang",
+      "category": "police",
+      "name": "Police Granger",
+      "type": "automobile",
+      "hash": "onx_polgrang",
+      "price": 0
+    },
+    "onx_polgaunt": {
+      "brand": "ONX",
+      "model": "onx_polgaunt",
+      "category": "police",
+      "name": "Police Gauntlet",
+      "type": "automobile",
+      "hash": "onx_polgaunt",
+      "price": 0
+    },
+    "onx_poldorado2": {
+      "brand": "ONX",
+      "model": "onx_poldorado2",
+      "category": "police",
+      "name": "Police Eldorado Mk2",
+      "type": "automobile",
+      "hash": "onx_poldorado2",
+      "price": 0
+    },
+    "onx_poldorado": {
+      "brand": "ONX",
+      "model": "onx_poldorado",
+      "category": "police",
+      "name": "Police Eldorado",
+      "type": "automobile",
+      "hash": "onx_poldorado",
+      "price": 0
+    },
+    "onx_poldom": {
+      "brand": "ONX",
+      "model": "onx_poldom",
+      "category": "police",
+      "name": "Police Dominator",
+      "type": "automobile",
+      "hash": "onx_poldom",
+      "price": 0
+    },
+    "onx_polcon": {
+      "brand": "ONX",
+      "model": "onx_polcon",
+      "category": "police",
+      "name": "Police Contender",
+      "type": "automobile",
+      "hash": "onx_polcon",
+      "price": 0
+    },
+    "onx_polcava": {
+      "brand": "ONX",
+      "model": "onx_polcava",
+      "category": "police",
+      "name": "Police Cavalcade",
+      "type": "automobile",
+      "hash": "onx_polcava",
+      "price": 0
+    },
+    "onx_polcara": {
+      "brand": "ONX",
+      "model": "onx_polcara",
+      "category": "police",
+      "name": "Police Caracara",
+      "type": "automobile",
+      "hash": "onx_polcara",
+      "price": 0
+    },
+    "onx_polbuffhf": {
+      "brand": "ONX",
+      "model": "onx_polbuffhf",
+      "category": "police",
+      "name": "Police Buffalo HF",
+      "type": "automobile",
+      "hash": "onx_polbuffhf",
+      "price": 0
+    },
+    "onx_polbuff": {
+      "brand": "ONX",
+      "model": "onx_polbuff",
+      "category": "police",
+      "name": "Police Buffalo",
+      "type": "automobile",
+      "hash": "onx_polbuff",
+      "price": 0
+    },
+    "onx_polbison4": {
+      "brand": "ONX",
+      "model": "onx_polbison4",
+      "category": "police",
+      "name": "Police Bison 4",
+      "type": "automobile",
+      "hash": "onx_polbison4",
+      "price": 0
+    },
+    "onx_polbison3": {
+      "brand": "ONX",
+      "model": "onx_polbison3",
+      "category": "police",
+      "name": "Police Bison 3",
+      "type": "automobile",
+      "hash": "onx_polbison3",
+      "price": 0
+    },
+    "onx_polbison2": {
+      "brand": "ONX",
+      "model": "onx_polbison2",
+      "category": "police",
+      "name": "Police Bison 2",
+      "type": "automobile",
+      "hash": "onx_polbison2",
+      "price": 0
+    },
+    "onx_polbison": {
+      "brand": "ONX",
+      "model": "onx_polbison",
+      "category": "police",
+      "name": "Police Bison",
+      "type": "automobile",
+      "hash": "onx_polbison",
+      "price": 0
+    },
+    "onx_polaleu": {
+      "brand": "ONX",
+      "model": "onx_polaleu",
+      "category": "police",
+      "name": "Police Aleutian",
+      "type": "automobile",
+      "hash": "onx_polaleu",
+      "price": 0
+    },
+    "onx_polalamo": {
+      "brand": "ONX",
+      "model": "onx_polalamo",
+      "category": "police",
+      "name": "Police Alamo",
+      "type": "automobile",
+      "hash": "onx_polalamo",
+      "price": 0
     }
+
+    
 }

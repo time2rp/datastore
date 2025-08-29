@@ -1330,7 +1330,7 @@ Config.Vehicles = {
     {
         model = "gbtahomagt",
         category = "sports",
-        price = 55000,
+        price = 100000000,
         speed = 45,
         acceleration = 35,
         braking = 32,
@@ -2171,7 +2171,7 @@ Config.Vehicles = {
     {
         model = "vigero2",
         category = "muscle",
-        price = 556000,
+        price = 100000000,
         speed = 65,
         acceleration = 56,
         braking = 46,
@@ -2776,10 +2776,18 @@ Config.Vehicles = {
         acceleration = 76,
         braking = 56,
     },
+        {
+        model = "docktug",
+        category = "utility",
+        price = 9500,
+        speed = 75,
+        acceleration = 15,
+        braking = 26,
+    },
     {
         model = "vigero3",
         category = "muscle",
-        price = 10000000,
+        price = 556000,
         speed = 75,
         acceleration = 76,
         braking = 56,
