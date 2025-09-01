@@ -15,7 +15,8 @@
         "name": "Jester RR",
         "type": "automobile",
         "hash": -1582061455,
-        "price": 79879
+        "price": 79879,
+        "vehicleClass": "S"
     },
     "marshall": {
         "brand": "Cheval",
@@ -51,7 +52,8 @@
         "name": "Massacro",
         "type": "automobile",
         "hash": -142942670,
-        "price": 83972
+        "price": 83972,
+        "vehicleClass": "A"
     },
     "freightcont1": {
         "brand": "",
@@ -87,7 +89,8 @@
         "name": "Lynx",
         "type": "automobile",
         "hash": 482197771,
-        "price": 81739
+        "price": 81739,
+        "vehicleClass": "A"
     },
     "hustler": {
         "brand": "Vapid",
@@ -96,7 +99,8 @@
         "name": "Hustler",
         "type": "automobile",
         "hash": 600450546,
-        "price": 72900
+        "price": 72900,
+        "vehicleClass": "D"
     },
     "seminole": {
         "brand": "Canis",
@@ -105,7 +109,8 @@
         "name": "Seminole",
         "type": "automobile",
         "hash": 1221512915,
-        "price": 61393
+        "price": 61393,
+        "vehicleClass": "D"
     },
     "ztype": {
         "brand": "Truffade",
@@ -114,7 +119,8 @@
         "name": "Z-Type",
         "type": "automobile",
         "hash": 758895617,
-        "price": 84821
+        "price": 84821,
+        "vehicleClass": "C"
     },
     "gburrito": {
         "brand": "Declasse",
@@ -126,7 +132,7 @@
         "price": 61195
     },
     "autarch": {
-        "brand": "Överflöd",
+        "brand": "Ã–verflÃ¶d",
         "model": "autarch",
         "category": "super",
         "name": "Autarch",
@@ -141,7 +147,8 @@
         "name": "Powersurge",
         "type": "bike",
         "hash": -1386336041,
-        "price": 23026
+        "price": 23026,
+        "vehicleClass": "M"
     },
     "diablous": {
         "brand": "Principe",
@@ -150,7 +157,8 @@
         "name": "Diablous",
         "type": "bike",
         "hash": -239841468,
-        "price": 24745
+        "price": 24745,
+        "vehicleClass": "M"
     },
     "dominator3": {
         "brand": "Vapid",
@@ -159,7 +167,8 @@
         "name": "Dominator GTX",
         "type": "automobile",
         "hash": -986944621,
-        "price": 77862
+        "price": 77862,
+        "vehicleClass": "A"
     },
     "rocoto": {
         "brand": "Obey",
@@ -168,7 +177,8 @@
         "name": "Rocoto",
         "type": "automobile",
         "hash": 2136773105,
-        "price": 67755
+        "price": 67755,
+        "vehicleClass": "B"
     },
     "trailers": {
         "brand": "",
@@ -186,7 +196,8 @@
         "name": "Avarus",
         "type": "bike",
         "hash": -2115793025,
-        "price": 23028
+        "price": 23028,
+        "vehicleClass": "M"
     },
     "thruster": {
         "brand": "Mammoth",
@@ -204,7 +215,8 @@
         "name": "Super Diamond",
         "type": "automobile",
         "hash": 1123216662,
-        "price": 74712
+        "price": 74712,
+        "vehicleClass": "B"
     },
     "benson": {
         "brand": "Vapid",
@@ -222,7 +234,8 @@
         "name": "Champion",
         "type": "automobile",
         "hash": -915234475,
-        "price": 86582
+        "price": 86582,
+        "vehicleClass": "S"
     },
     "titan2": {
         "brand": "Eberhard",
@@ -285,7 +298,8 @@
         "name": "Beater Dukes",
         "type": "automobile",
         "hash": 2134119907,
-        "price": 78577
+        "price": 78577,
+        "vehicleClass": "D"
     },
     "tampa2": {
         "brand": "Declasse",
@@ -303,7 +317,8 @@
         "name": "Michelli GT",
         "type": "automobile",
         "hash": 1046206681,
-        "price": 74020
+        "price": 74020,
+        "vehicleClass": "B"
     },
     "molotok": {
         "brand": "",
@@ -348,7 +363,8 @@
         "name": "F620",
         "type": "automobile",
         "hash": -591610296,
-        "price": 79607
+        "price": 79607,
+        "vehicleClass": "A"
     },
     "swift2": {
         "brand": "Buckingham",
@@ -375,7 +391,8 @@
         "name": "Elegy Retro Custom",
         "type": "automobile",
         "hash": 196747873,
-        "price": 78735
+        "price": 78735,
+        "vehicleClass": "S"
     },
     "rebel2": {
         "brand": "Karin",
@@ -420,7 +437,8 @@
         "name": "Manana",
         "type": "automobile",
         "hash": -2124201592,
-        "price": 60635
+        "price": 60635,
+        "vehicleClass": "D"
     },
     "towtruck2": {
         "brand": "Vapid",
@@ -429,7 +447,8 @@
         "name": "Tow Truck (Small)",
         "type": "automobile",
         "hash": -442313018,
-        "price": 54821
+        "price": 54821,
+        "vehicleClass": "D"
     },
     "issi8": {
         "brand": "Weeny",
@@ -438,7 +457,8 @@
         "name": "Issi Rally",
         "type": "automobile",
         "hash": 1550581940,
-        "price": 79711
+        "price": 79711,
+        "vehicleClass": "B"
     },
     "mixer": {
         "brand": "HVY",
@@ -456,7 +476,8 @@
         "name": "Blista",
         "type": "automobile",
         "hash": -344943009,
-        "price": 69371
+        "price": 69371,
+        "vehicleClass": "C"
     },
     "brickade": {
         "brand": "MTL",
@@ -474,7 +495,8 @@
         "name": "Ingot",
         "type": "automobile",
         "hash": -1289722222,
-        "price": 53344
+        "price": 53344,
+        "vehicleClass": "C"
     },
     "s80": {
         "brand": "Annis",
@@ -537,7 +559,8 @@
         "name": "Baller ST-D",
         "type": "automobile",
         "hash": -863358884,
-        "price": 77694
+        "price": 77694,
+        "vehicleClass": "A"
     },
     "imperator": {
         "brand": "Vapid",
@@ -555,7 +578,8 @@
         "name": "Tornado Custom",
         "type": "automobile",
         "hash": -1797613329,
-        "price": 60890
+        "price": 60890,
+        "vehicleClass": "D"
     },
     "polgauntlet": {
         "brand": "Bravado",
@@ -573,7 +597,8 @@
         "name": "Chino",
         "type": "automobile",
         "hash": 349605904,
-        "price": 58651
+        "price": 58651,
+        "vehicleClass": "D"
     },
     "dominator2": {
         "brand": "Vapid",
@@ -582,7 +607,8 @@
         "name": "Pisswasser Dominator",
         "type": "automobile",
         "hash": -915704871,
-        "price": 81440
+        "price": 81440,
+        "vehicleClass": "A"
     },
     "flatbed": {
         "brand": "MTL",
@@ -594,13 +620,14 @@
         "price": 46633
     },
     "rhinehart": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "rhinehart",
         "category": "sedans",
         "name": "Rhinehart",
         "type": "automobile",
         "hash": -1855505138,
-        "price": 78276
+        "price": 78276,
+        "vehicleClass": "A"
     },
     "pariah": {
         "brand": "Ocelot",
@@ -609,7 +636,8 @@
         "name": "Pariah",
         "type": "automobile",
         "hash": 867799010,
-        "price": 81207
+        "price": 81207,
+        "vehicleClass": "A"
     },
     "airbus": {
         "brand": "",
@@ -627,7 +655,8 @@
         "name": "Fusilade",
         "type": "automobile",
         "hash": 499169875,
-        "price": 81251
+        "price": 81251,
+        "vehicleClass": "B"
     },
     "fq2": {
         "brand": "Fathom",
@@ -636,7 +665,8 @@
         "name": "FQ2",
         "type": "automobile",
         "hash": -1137532101,
-        "price": 65442
+        "price": 65442,
+        "vehicleClass": "B"
     },
     "boxville2": {
         "brand": "Brute",
@@ -648,13 +678,14 @@
         "price": 47273
     },
     "zion3": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "zion3",
         "category": "sportsclassics",
         "name": "Zion Classic",
         "type": "automobile",
         "hash": 1862507111,
-        "price": 74281
+        "price": 74281,
+        "vehicleClass": "C"
     },
     "asterope": {
         "brand": "Karin",
@@ -663,7 +694,8 @@
         "name": "Asterope",
         "type": "automobile",
         "hash": -1903012613,
-        "price": 64174
+        "price": 64174,
+        "vehicleClass": "C"
     },
     "armytrailer": {
         "brand": "",
@@ -690,7 +722,8 @@
         "name": "Bobcat XL Open",
         "type": "automobile",
         "hash": 1069929536,
-        "price": 58720
+        "price": 58720,
+        "vehicleClass": "B"
     },
     "cavalcade2": {
         "brand": "Albany",
@@ -717,7 +750,8 @@
         "name": "Baller",
         "type": "automobile",
         "hash": -808831384,
-        "price": 65628
+        "price": 65628,
+        "vehicleClass": "C"
     },
     "coach": {
         "brand": "",
@@ -735,7 +769,8 @@
         "name": "Diablous Custom",
         "type": "bike",
         "hash": 1790834270,
-        "price": 24901
+        "price": 24901,
+        "vehicleClass": "M"
     },
     "driftjester": {
         "brand": "Dinka",
@@ -771,7 +806,8 @@
         "name": "JB 700W",
         "type": "automobile",
         "hash": 394110044,
-        "price": 82400
+        "price": 82400,
+        "vehicleClass": "B"
     },
     "freightcar2": {
         "brand": "",
@@ -807,7 +843,8 @@
         "name": "Futo",
         "type": "automobile",
         "hash": 2016857647,
-        "price": 74336
+        "price": 74336,
+        "vehicleClass": "B"
     },
     "chavosv6": {
         "brand": "Dewbauchee",
@@ -843,7 +880,8 @@
         "name": "Baller ST",
         "type": "automobile",
         "hash": 359875117,
-        "price": 77229
+        "price": 77229,
+        "vehicleClass": "A"
     },
     "avenger": {
         "brand": "Mammoth",
@@ -870,16 +908,18 @@
         "name": "Nebula Turbo",
         "type": "automobile",
         "hash": -882629065,
-        "price": 62877
+        "price": 62877,
+        "vehicleClass": "B"
     },
     "imorgon": {
-        "brand": "Överflöd",
+        "brand": "Ã–verflÃ¶d",
         "model": "imorgon",
         "category": "sports",
         "name": "Imorgon",
         "type": "automobile",
         "hash": -1132721664,
-        "price": 76854
+        "price": 76854,
+        "vehicleClass": "A"
     },
     "conada": {
         "brand": "Buckingham",
@@ -915,7 +955,8 @@
         "name": "BeeJay XL",
         "type": "automobile",
         "hash": 850565707,
-        "price": 60692
+        "price": 60692,
+        "vehicleClass": "C"
     },
     "stalion2": {
         "brand": "Declasse",
@@ -924,7 +965,8 @@
         "name": "Stallion Burgershot",
         "type": "automobile",
         "hash": -401643538,
-        "price": 79092
+        "price": 79092,
+        "vehicleClass": "B"
     },
     "exemplar": {
         "brand": "Dewbauchee",
@@ -933,7 +975,8 @@
         "name": "Exemplar",
         "type": "automobile",
         "hash": -5153954,
-        "price": 79891
+        "price": 79891,
+        "vehicleClass": "B"
     },
     "faction3": {
         "brand": "Willard",
@@ -951,7 +994,8 @@
         "name": "9F",
         "type": "automobile",
         "hash": 1032823388,
-        "price": 81139
+        "price": 81139,
+        "vehicleClass": "A"
     },
     "handler": {
         "brand": "HVY",
@@ -987,7 +1031,8 @@
         "name": "Komoda",
         "type": "automobile",
         "hash": -834353991,
-        "price": 83129
+        "price": 83129,
+        "vehicleClass": "A"
     },
     "seminole2": {
         "brand": "Canis",
@@ -996,7 +1041,8 @@
         "name": "Seminole Frontier",
         "type": "automobile",
         "hash": -1810806490,
-        "price": 64904
+        "price": 64904,
+        "vehicleClass": "C"
     },
     "barrage": {
         "brand": "HVY",
@@ -1014,7 +1060,8 @@
         "name": "Comet Safari",
         "type": "automobile",
         "hash": 1561920505,
-        "price": 78289
+        "price": 78289,
+        "vehicleClass": "B"
     },
     "blista3": {
         "brand": "Dinka",
@@ -1023,7 +1070,8 @@
         "name": "Blista Go Go Monkey",
         "type": "automobile",
         "hash": -591651781,
-        "price": 69291
+        "price": 69291,
+        "vehicleClass": "C"
     },
     "ninef2": {
         "brand": "Obey",
@@ -1050,7 +1098,8 @@
         "name": "Hermes",
         "type": "automobile",
         "hash": 15219735,
-        "price": 68776
+        "price": 68776,
+        "vehicleClass": "D"
     },
     "weevil2": {
         "brand": "BF",
@@ -1068,7 +1117,8 @@
         "name": "Mesa (Merryweather)",
         "type": "automobile",
         "hash": -2064372143,
-        "price": 57125
+        "price": 57125,
+        "vehicleClass": "C"
     },
     "ardent": {
         "brand": "Ocelot",
@@ -1131,7 +1181,8 @@
         "name": "Blista Kanjo",
         "type": "automobile",
         "hash": 409049982,
-        "price": 73478
+        "price": 73478,
+        "vehicleClass": "A"
     },
     "skylift": {
         "brand": "HVY",
@@ -1176,7 +1227,8 @@
         "name": "Felon",
         "type": "automobile",
         "hash": -391594584,
-        "price": 76088
+        "price": 76088,
+        "vehicleClass": "B"
     },
     "burrito": {
         "brand": "Declasse",
@@ -1185,7 +1237,8 @@
         "name": "Burrito (LSDWP)",
         "type": "automobile",
         "hash": -1346687836,
-        "price": 61195
+        "price": 61195,
+        "vehicleClass": "C"
     },
     "duster": {
         "brand": "Western",
@@ -1212,7 +1265,8 @@
         "name": "Voltic",
         "type": "automobile",
         "hash": -1622444098,
-        "price": 60326
+        "price": 60326,
+        "vehicleClass": "B"
     },
     "omnis": {
         "brand": "Obey",
@@ -1221,7 +1275,8 @@
         "name": "Omnis",
         "type": "automobile",
         "hash": -777172681,
-        "price": 73163
+        "price": 73163,
+        "vehicleClass": "B"
     },
     "driftnebula": {
         "brand": "Vulcar",
@@ -1239,7 +1294,8 @@
         "name": "Roosevelt Valor",
         "type": "automobile",
         "hash": -602287871,
-        "price": 69018
+        "price": 69018,
+        "vehicleClass": "C"
     },
     "vamos": {
         "brand": "Declasse",
@@ -1248,7 +1304,8 @@
         "name": "Vamos",
         "type": "automobile",
         "hash": -49115651,
-        "price": 75751
+        "price": 75751,
+        "vehicleClass": "B"
     },
     "tailgater2": {
         "brand": "Obey",
@@ -1257,16 +1314,18 @@
         "name": "Tailgater S",
         "type": "automobile",
         "hash": -1244461404,
-        "price": 77411
+        "price": 77411,
+        "vehicleClass": "A"
     },
     "oracle": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "oracle",
         "category": "coupes",
         "name": "Oracle XS",
         "type": "automobile",
         "hash": 1348744438,
-        "price": 75192
+        "price": 75192,
+        "vehicleClass": "B"
     },
     "weevil": {
         "brand": "BF",
@@ -1275,7 +1334,8 @@
         "name": "Weevil",
         "type": "automobile",
         "hash": 1644055914,
-        "price": 53983
+        "price": 53983,
+        "vehicleClass": "D"
     },
     "asbo": {
         "brand": "Maxwell",
@@ -1284,7 +1344,8 @@
         "name": "Asbo",
         "type": "automobile",
         "hash": 1118611807,
-        "price": 63020
+        "price": 63020,
+        "vehicleClass": "C"
     },
     "coquette4": {
         "brand": "Invetero",
@@ -1338,7 +1399,8 @@
         "name": "Surge",
         "type": "automobile",
         "hash": -1894894188,
-        "price": 40605
+        "price": 40605,
+        "vehicleClass": "B"
     },
     "pounder": {
         "brand": "MTL",
@@ -1374,7 +1436,8 @@
         "name": "Bifta",
         "type": "automobile",
         "hash": -349601129,
-        "price": 74872
+        "price": 74872,
+        "vehicleClass": "D"
     },
     "cutter": {
         "brand": "HVY",
@@ -1392,7 +1455,8 @@
         "name": "Minivan",
         "type": "automobile",
         "hash": -310465116,
-        "price": 58370
+        "price": 58370,
+        "vehicleClass": "C"
     },
     "tropos": {
         "brand": "Lampadati",
@@ -1410,7 +1474,8 @@
         "name": "Broadway",
         "type": "automobile",
         "hash": -1933242328,
-        "price": 61702
+        "price": 61702,
+        "vehicleClass": "D"
     },
     "utillitruck3": {
         "brand": "Vapid",
@@ -1428,7 +1493,8 @@
         "name": "Elegy RH8",
         "type": "automobile",
         "hash": -566387422,
-        "price": 80339
+        "price": 80339,
+        "vehicleClass": "A"
     },
     "slamvan5": {
         "brand": "Vapid",
@@ -1473,7 +1539,8 @@
         "name": "Baller LE",
         "type": "automobile",
         "hash": 1878062887,
-        "price": 74448
+        "price": 74448,
+        "vehicleClass": "A"
     },
     "penumbra2": {
         "brand": "Maibatsu",
@@ -1482,7 +1549,8 @@
         "name": "Penumbra FF",
         "type": "automobile",
         "hash": -631322662,
-        "price": 74920
+        "price": 74920,
+        "vehicleClass": "A"
     },
     "barracks": {
         "brand": "HVY",
@@ -1500,7 +1568,8 @@
         "name": "Zentorno",
         "type": "automobile",
         "hash": -1403128555,
-        "price": 82795
+        "price": 82795,
+        "vehicleClass": "A"
     },
     "nokota": {
         "brand": "",
@@ -1518,7 +1587,8 @@
         "name": "Gauntlet Classic",
         "type": "automobile",
         "hash": 722226637,
-        "price": 73572
+        "price": 73572,
+        "vehicleClass": "B"
     },
     "deathbike3": {
         "brand": "Western",
@@ -1545,7 +1615,8 @@
         "name": "Hakuchou Drag",
         "type": "bike",
         "hash": -255678177,
-        "price": 27374
+        "price": 27374,
+        "vehicleClass": "M"
     },
     "gb200": {
         "brand": "Vapid",
@@ -1581,7 +1652,8 @@
         "name": "Blista Compact",
         "type": "automobile",
         "hash": 1039032026,
-        "price": 69291
+        "price": 69291,
+        "vehicleClass": "B"
     },
     "brawler": {
         "brand": "Coil",
@@ -1590,7 +1662,8 @@
         "name": "Brawler",
         "type": "automobile",
         "hash": -1479664699,
-        "price": 77578
+        "price": 77578,
+        "vehicleClass": "A"
     },
     "driftcheburek": {
         "brand": "RUNE",
@@ -1644,7 +1717,8 @@
         "name": "Asea",
         "type": "automobile",
         "hash": -1809822327,
-        "price": 63374
+        "price": 63374,
+        "vehicleClass": "C"
     },
     "furia": {
         "brand": "Grotti",
@@ -1653,7 +1727,8 @@
         "name": "Furia",
         "type": "automobile",
         "hash": 960812448,
-        "price": 83110
+        "price": 83110,
+        "vehicleClass": "S"
     },
     "monstrociti": {
         "brand": "Maibatsu",
@@ -1662,7 +1737,8 @@
         "name": "MonstroCiti",
         "type": "automobile",
         "hash": 802856453,
-        "price": 68406
+        "price": 68406,
+        "vehicleClass": "C"
     },
     "everon2": {
         "brand": "Karin",
@@ -1707,7 +1783,8 @@
         "name": "Clown Van",
         "type": "automobile",
         "hash": 728614474,
-        "price": 66002
+        "price": 66002,
+        "vehicleClass": "C"
     },
     "bmx": {
         "brand": "PED",
@@ -1725,7 +1802,8 @@
         "name": "Lurcher",
         "type": "automobile",
         "hash": 2068293287,
-        "price": 78245
+        "price": 78245,
+        "vehicleClass": "D"
     },
     "manana2": {
         "brand": "Albany",
@@ -1734,7 +1812,8 @@
         "name": "Manana Custom",
         "type": "automobile",
         "hash": 1717532765,
-        "price": 71516
+        "price": 71516,
+        "vehicleClass": "D"
     },
     "chernobog": {
         "brand": "HVY",
@@ -1779,7 +1858,8 @@
         "name": "Sandking",
         "type": "automobile",
         "hash": -1189015600,
-        "price": 63694
+        "price": 63694,
+        "vehicleClass": "C"
     },
     "bison": {
         "brand": "Bravado",
@@ -1788,7 +1868,8 @@
         "name": "Bison",
         "type": "automobile",
         "hash": -16948145,
-        "price": 62297
+        "price": 62297,
+        "vehicleClass": "C"
     },
     "vigero2": {
         "brand": "Declasse",
@@ -1797,7 +1878,8 @@
         "name": "Vigero ZX",
         "type": "automobile",
         "hash": -1758379524,
-        "price": 82143
+        "price": 82143,
+        "vehicleClass": "A"
     },
     "sheriff2": {
         "brand": "Declasse",
@@ -1824,7 +1906,8 @@
         "name": "Huntley S",
         "type": "automobile",
         "hash": 486987393,
-        "price": 74869
+        "price": 74869,
+        "vehicleClass": "B"
     },
     "terminus": {
         "brand": "Canis",
@@ -1833,7 +1916,8 @@
         "name": "Terminus",
         "type": "automobile",
         "hash": 167522317,
-        "price": 71490
+        "price": 71490,
+        "vehicleClass": "B"
     },
     "zr380": {
         "brand": "Annis",
@@ -1887,7 +1971,8 @@
         "name": "BF400",
         "type": "bike",
         "hash": 86520421,
-        "price": 23103
+        "price": 23103,
+        "vehicleClass": "M"
     },
     "zombieb": {
         "brand": "Western",
@@ -1896,7 +1981,8 @@
         "name": "Zombie Chopper",
         "type": "bike",
         "hash": -570033273,
-        "price": 23182
+        "price": 23182,
+        "vehicleClass": "M"
     },
     "deveste": {
         "brand": "Principe",
@@ -1917,13 +2003,14 @@
         "price": 69772
     },
     "zion2": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "zion2",
         "category": "coupes",
         "name": "Zion Cabrio",
         "type": "automobile",
         "hash": -1193103848,
-        "price": 77752
+        "price": 77752,
+        "vehicleClass": "B"
     },
     "impaler4": {
         "brand": "Declasse",
@@ -1941,7 +2028,8 @@
         "name": "Regina",
         "type": "automobile",
         "hash": -14495224,
-        "price": 50997
+        "price": 50997,
+        "vehicleClass": "D"
     },
     "yosemite": {
         "brand": "Declasse",
@@ -1962,16 +2050,17 @@
         "price": 56656
     },
     "zion": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "zion",
         "category": "coupes",
         "name": "Zion",
         "type": "automobile",
         "hash": -1122289213,
-        "price": 77752
+        "price": 77752,
+        "vehicleClass": "B"
     },
     "zeno": {
-        "brand": "Överflöd",
+        "brand": "Ã–verflÃ¶d",
         "model": "zeno",
         "category": "super",
         "name": "Zeno",
@@ -1986,7 +2075,8 @@
         "name": "Blazer",
         "type": "automobile",
         "hash": -2128233223,
-        "price": 21457
+        "price": 21457,
+        "vehicleClass": "D"
     },
     "ignus": {
         "brand": "Pegassi",
@@ -2040,7 +2130,8 @@
         "name": "Esskey",
         "type": "bike",
         "hash": 2035069708,
-        "price": 23138
+        "price": 23138,
+        "vehicleClass": "M"
     },
     "swift": {
         "brand": "Buckingham",
@@ -2076,7 +2167,8 @@
         "name": "Youga Custom",
         "type": "automobile",
         "hash": 1486521356,
-        "price": 60252
+        "price": 60252,
+        "vehicleClass": "C"
     },
     "comet7": {
         "brand": "Pfister",
@@ -2085,7 +2177,8 @@
         "name": "Comet S2 Cabrio",
         "type": "automobile",
         "hash": 1141395928,
-        "price": 83759
+        "price": 83759,
+        "vehicleClass": "S"
     },
     "mesa": {
         "brand": "Canis",
@@ -2094,7 +2187,8 @@
         "name": "Mesa",
         "type": "automobile",
         "hash": 914654722,
-        "price": 57125
+        "price": 57125,
+        "vehicleClass": "C"
     },
     "dune3": {
         "brand": "BF",
@@ -2112,7 +2206,8 @@
         "name": "Landstalker XL",
         "type": "automobile",
         "hash": -838099166,
-        "price": 62744
+        "price": 62744,
+        "vehicleClass": "C"
     },
     "youga2": {
         "brand": "Bravado",
@@ -2121,7 +2216,8 @@
         "name": "Youga Classic",
         "type": "automobile",
         "hash": 1026149675,
-        "price": 55630
+        "price": 55630,
+        "vehicleClass": "C"
     },
     "sadler2": {
         "brand": "Vapid",
@@ -2139,7 +2235,8 @@
         "name": "Youga",
         "type": "automobile",
         "hash": 65402552,
-        "price": 55630
+        "price": 55630,
+        "vehicleClass": "C"
     },
     "tractor3": {
         "brand": "Stanley",
@@ -2220,7 +2317,8 @@
         "name": "Pigalle",
         "type": "automobile",
         "hash": 1078682497,
-        "price": 82282
+        "price": 82282,
+        "vehicleClass": "D"
     },
     "freightgrain": {
         "brand": "",
@@ -2238,7 +2336,8 @@
         "name": "Tailgater",
         "type": "automobile",
         "hash": -1008861746,
-        "price": 64174
+        "price": 64174,
+        "vehicleClass": "B"
     },
     "xls": {
         "brand": "Benefactor",
@@ -2256,7 +2355,8 @@
         "name": "Glendale Custom",
         "type": "automobile",
         "hash": -913589546,
-        "price": 66105
+        "price": 66105,
+        "vehicleClass": "D"
     },
     "xa21": {
         "brand": "Ocelot",
@@ -2274,7 +2374,8 @@
         "name": "Wolfsbane",
         "type": "bike",
         "hash": -618617997,
-        "price": 19441
+        "price": 19441,
+        "vehicleClass": "M"
     },
     "mesa2": {
         "brand": "Canis",
@@ -2292,7 +2393,8 @@
         "name": "Comet Retro Custom",
         "type": "automobile",
         "hash": -2022483795,
-        "price": 83253
+        "price": 83253,
+        "vehicleClass": "A"
     },
     "carbonizzare": {
         "brand": "Grotti",
@@ -2310,7 +2412,8 @@
         "name": "Rancher XL",
         "type": "automobile",
         "hash": 1645267888,
-        "price": 58720
+        "price": 58720,
+        "vehicleClass": "D"
     },
     "winky": {
         "brand": "Vapid",
@@ -2319,7 +2422,8 @@
         "name": "Winky",
         "type": "automobile",
         "hash": -210308634,
-        "price": 49504
+        "price": 49504,
+        "vehicleClass": "C"
     },
     "peyote3": {
         "brand": "Vapid",
@@ -2328,7 +2432,8 @@
         "name": "Peyote Custom",
         "type": "automobile",
         "hash": 1107404867,
-        "price": 70150
+        "price": 70150,
+        "vehicleClass": "C"
     },
     "dominator": {
         "brand": "Vapid",
@@ -2337,7 +2442,8 @@
         "name": "Dominator",
         "type": "automobile",
         "hash": 80636076,
-        "price": 80149
+        "price": 80149,
+        "vehicleClass": "A"
     },
     "mule3": {
         "brand": "Maibatsu",
@@ -2346,7 +2452,8 @@
         "name": "Mule (Heist)",
         "type": "automobile",
         "hash": -2052737935,
-        "price": 52599
+        "price": 52599,
+        "vehicleClass": "D"
     },
     "rumpo3": {
         "brand": "Bravado",
@@ -2355,7 +2462,8 @@
         "name": "Rumpo Custom",
         "type": "automobile",
         "hash": 1475773103,
-        "price": 59206
+        "price": 59206,
+        "vehicleClass": "C"
     },
     "windsor": {
         "brand": "Enus",
@@ -2364,7 +2472,8 @@
         "name": "Windsor",
         "type": "automobile",
         "hash": 1581459400,
-        "price": 79422
+        "price": 79422,
+        "vehicleClass": "B"
     },
     "sabregt": {
         "brand": "Declasse",
@@ -2373,7 +2482,8 @@
         "name": "Sabre Turbo",
         "type": "automobile",
         "hash": -1685021548,
-        "price": 77450
+        "price": 77450,
+        "vehicleClass": "B"
     },
     "dinghy4": {
         "brand": "Nagasaki",
@@ -2391,7 +2501,8 @@
         "name": "Washington",
         "type": "automobile",
         "hash": 1777363799,
-        "price": 71053
+        "price": 71053,
+        "vehicleClass": "D"
     },
     "hellion": {
         "brand": "Annis",
@@ -2400,7 +2511,8 @@
         "name": "Hellion",
         "type": "automobile",
         "hash": -362150785,
-        "price": 66525
+        "price": 66525,
+        "vehicleClass": "B"
     },
     "riot2": {
         "brand": "Brute",
@@ -2418,7 +2530,8 @@
         "name": "Savestra",
         "type": "automobile",
         "hash": 903794909,
-        "price": 72617
+        "price": 72617,
+        "vehicleClass": "A"
     },
     "banshee3": {
         "brand": "Bravado",
@@ -2445,7 +2558,8 @@
         "name": "Stinger GT",
         "type": "automobile",
         "hash": -2098947590,
-        "price": 74712
+        "price": 74712,
+        "vehicleClass": "B"
     },
     "sandking2": {
         "brand": "Vapid",
@@ -2454,7 +2568,8 @@
         "name": "Sandking SWB",
         "type": "automobile",
         "hash": 989381445,
-        "price": 63694
+        "price": 63694,
+        "vehicleClass": "C"
     },
     "barracks2": {
         "brand": "HVY",
@@ -2490,7 +2605,8 @@
         "name": "Voodoo",
         "type": "automobile",
         "hash": 523724515,
-        "price": 63070
+        "price": 63070,
+        "vehicleClass": "D"
     },
     "submersible": {
         "brand": "",
@@ -2508,7 +2624,8 @@
         "name": "Growler",
         "type": "automobile",
         "hash": 1304459735,
-        "price": 82635
+        "price": 82635,
+        "vehicleClass": "S"
     },
     "voodoo": {
         "brand": "Declasse",
@@ -2517,7 +2634,8 @@
         "name": "Voodoo Custom",
         "type": "automobile",
         "hash": 2006667053,
-        "price": 66162
+        "price": 66162,
+        "vehicleClass": "D"
     },
     "seashark": {
         "brand": "Speedophile",
@@ -2544,7 +2662,8 @@
         "name": "Innovation",
         "type": "bike",
         "hash": -159126838,
-        "price": 23509
+        "price": 23509,
+        "vehicleClass": "M"
     },
     "italirsx": {
         "brand": "Grotti",
@@ -2562,7 +2681,8 @@
         "name": "Vivanite",
         "type": "automobile",
         "hash": -1372798934,
-        "price": 46334
+        "price": 46334,
+        "vehicleClass": "C"
     },
     "faggio3": {
         "brand": "Pegassi",
@@ -2571,7 +2691,8 @@
         "name": "Faggio Mod",
         "type": "bike",
         "hash": -1289178744,
-        "price": 14291
+        "price": 14291,
+        "vehicleClass": "M"
     },
     "visione": {
         "brand": "Grotti",
@@ -2589,7 +2710,8 @@
         "name": "Viseris",
         "type": "automobile",
         "hash": -391595372,
-        "price": 78246
+        "price": 78246,
+        "vehicleClass": "B"
     },
     "polterminus": {
         "brand": "Canis",
@@ -2625,7 +2747,8 @@
         "name": "Virgo Custom Classic",
         "type": "automobile",
         "hash": 16646064,
-        "price": 60554
+        "price": 60554,
+        "vehicleClass": "C"
     },
     "virgo2": {
         "brand": "Dundreary",
@@ -2634,7 +2757,8 @@
         "name": "Virgo Custom Classic",
         "type": "automobile",
         "hash": -899509638,
-        "price": 60758
+        "price": 60758,
+        "vehicleClass": "D"
     },
     "feltzer2": {
         "brand": "Benefactor",
@@ -2643,7 +2767,8 @@
         "name": "Feltzer",
         "type": "automobile",
         "hash": -1995326987,
-        "price": 82235
+        "price": 82235,
+        "vehicleClass": "S"
     },
     "openwheel2": {
         "brand": "Declasse",
@@ -2661,7 +2786,8 @@
         "name": "Virgo",
         "type": "automobile",
         "hash": -498054846,
-        "price": 60554
+        "price": 60554,
+        "vehicleClass": "D"
     },
     "firebolt": {
         "brand": "Vapid",
@@ -2679,7 +2805,8 @@
         "name": "Faction",
         "type": "automobile",
         "hash": -2119578145,
-        "price": 77450
+        "price": 77450,
+        "vehicleClass": "B"
     },
     "tr2": {
         "brand": "",
@@ -2742,7 +2869,8 @@
         "name": "Vigero ZX Convertible",
         "type": "automobile",
         "hash": 372621319,
-        "price": 81866
+        "price": 81866,
+        "vehicleClass": "S"
     },
     "vigero": {
         "brand": "Declasse",
@@ -2778,7 +2906,8 @@
         "name": "Granger",
         "type": "automobile",
         "hash": -1775728740,
-        "price": 60692
+        "price": 60692,
+        "vehicleClass": "C"
     },
     "frogger": {
         "brand": "Maibatsu",
@@ -2817,13 +2946,14 @@
         "price": 1321065
     },
     "entity3": {
-        "brand": "Överflöd",
+        "brand": "Ã–verflÃ¶d",
         "model": "entity3",
         "category": "super",
         "name": "Entity MT",
         "type": "automobile",
         "hash": 1748565021,
-        "price": 89208
+        "price": 89208,
+        "vehicleClass": "S"
     },
     "fcr2": {
         "brand": "Pegassi",
@@ -2832,7 +2962,8 @@
         "name": "FCR 1000 Custom",
         "type": "bike",
         "hash": -757735410,
-        "price": 24491
+        "price": 24491,
+        "vehicleClass": "M"
     },
     "jester5": {
         "brand": "Dinka",
@@ -2850,7 +2981,8 @@
         "name": "Serrano",
         "type": "automobile",
         "hash": 1337041428,
-        "price": 66517
+        "price": 66517,
+        "vehicleClass": "B"
     },
     "verus": {
         "brand": "Dinka",
@@ -2859,7 +2991,8 @@
         "name": "Verus",
         "type": "automobile",
         "hash": 298565713,
-        "price": 16526
+        "price": 16526,
+        "vehicleClass": "M"
     },
     "verlierer2": {
         "brand": "Bravado",
@@ -2868,7 +3001,8 @@
         "name": "Verlierer",
         "type": "automobile",
         "hash": 1102544804,
-        "price": 83280
+        "price": 83280,
+        "vehicleClass": "A"
     },
     "velum": {
         "brand": "JoBuilt",
@@ -2895,7 +3029,8 @@
         "name": "Bullet",
         "type": "automobile",
         "hash": -1696146015,
-        "price": 82565
+        "price": 82565,
+        "vehicleClass": "A"
     },
     "crusader": {
         "brand": "Canis",
@@ -2913,7 +3048,8 @@
         "name": "Nightblade",
         "type": "bike",
         "hash": -1606187161,
-        "price": 24551
+        "price": 24551,
+        "vehicleClass": "M"
     },
     "ruffian": {
         "brand": "Pegassi",
@@ -2922,7 +3058,8 @@
         "name": "Ruffian",
         "type": "bike",
         "hash": -893578776,
-        "price": 24413
+        "price": 24413,
+        "vehicleClass": "M"
     },
     "bruiser2": {
         "brand": "Benefactor",
@@ -2949,7 +3086,8 @@
         "name": "Jubilee",
         "type": "automobile",
         "hash": 461465043,
-        "price": 71210
+        "price": 71210,
+        "vehicleClass": "A"
     },
     "savage": {
         "brand": "",
@@ -2985,7 +3123,8 @@
         "name": "Sultan Custom",
         "type": "automobile",
         "hash": 872704284,
-        "price": 77184
+        "price": 77184,
+        "vehicleClass": "A"
     },
     "calico": {
         "brand": "Karin",
@@ -3021,7 +3160,8 @@
         "name": "Stallion",
         "type": "automobile",
         "hash": 1923400478,
-        "price": 74781
+        "price": 74781,
+        "vehicleClass": "B"
     },
     "utillitruck": {
         "brand": "Vapid",
@@ -3039,16 +3179,18 @@
         "name": "Clique Wagon",
         "type": "automobile",
         "hash": -979292575,
-        "price": 54902
+        "price": 54902,
+        "vehicleClass": "D"
     },
     "cypher": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "cypher",
         "category": "sports",
         "name": "Cypher",
         "type": "automobile",
         "hash": 1755697647,
-        "price": 75676
+        "price": 75676,
+        "vehicleClass": "S"
     },
     "felon2": {
         "brand": "Lampadati",
@@ -3057,7 +3199,8 @@
         "name": "Felon GT",
         "type": "automobile",
         "hash": -89291282,
-        "price": 72343
+        "price": 72343,
+        "vehicleClass": "B"
     },
     "armytanker": {
         "brand": "",
@@ -3078,7 +3221,7 @@
         "price": 5668
     },
     "tyrant": {
-        "brand": "Överflöd",
+        "brand": "Ã–verflÃ¶d",
         "model": "tyrant",
         "category": "super",
         "name": "Tyrant",
@@ -3102,7 +3245,8 @@
         "name": "Penumbra",
         "type": "automobile",
         "hash": -377465520,
-        "price": 67839
+        "price": 67839,
+        "vehicleClass": "A"
     },
     "cargoplane": {
         "brand": "",
@@ -3174,7 +3318,8 @@
         "name": "Casco",
         "type": "automobile",
         "hash": 941800958,
-        "price": 83125
+        "price": 83125,
+        "vehicleClass": "B"
     },
     "turismor": {
         "brand": "Grotti",
@@ -3183,7 +3328,8 @@
         "name": "Grotti Turismo R",
         "type": "automobile",
         "hash": 408192225,
-        "price": 85403
+        "price": 85403,
+        "vehicleClass": "S"
     },
     "trailers4": {
         "brand": "",
@@ -3228,7 +3374,8 @@
         "name": "Slam Van Custom",
         "type": "automobile",
         "hash": 1119641113,
-        "price": 67005
+        "price": 67005,
+        "vehicleClass": "B"
     },
     "tulip2": {
         "brand": "Declasse",
@@ -3237,7 +3384,8 @@
         "name": "Tulip M-100",
         "type": "automobile",
         "hash": 268758436,
-        "price": 74746
+        "price": 74746,
+        "vehicleClass": "C"
     },
     "baller5": {
         "brand": "Gallivanter",
@@ -3264,7 +3412,8 @@
         "name": "Bagger",
         "type": "bike",
         "hash": -2140431165,
-        "price": 19934
+        "price": 19934,
+        "vehicleClass": "M"
     },
     "asterope2": {
         "brand": "Karin",
@@ -3273,7 +3422,8 @@
         "name": "Asterope GZ",
         "type": "automobile",
         "hash": -741120335,
-        "price": 71306
+        "price": 71306,
+        "vehicleClass": "B"
     },
     "tula": {
         "brand": "Mammoth",
@@ -3294,7 +3444,7 @@
         "price": 94680
     },
     "driftsentinel": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "driftsentinel",
         "category": "sports",
         "name": "Sentinel Classic Widebody (Drift)",
@@ -3318,7 +3468,8 @@
         "name": "Rapid GT",
         "type": "automobile",
         "hash": -1934452204,
-        "price": 83599
+        "price": 83599,
+        "vehicleClass": "A"
     },
     "trophytruck2": {
         "brand": "Vapid",
@@ -3345,7 +3496,8 @@
         "name": "Pony",
         "type": "automobile",
         "hash": -119658072,
-        "price": 61195
+        "price": 61195,
+        "vehicleClass": "C"
     },
     "bombushka": {
         "brand": "",
@@ -3363,7 +3515,8 @@
         "name": "Reever",
         "type": "bike",
         "hash": 1993851908,
-        "price": 26269
+        "price": 26269,
+        "vehicleClass": "M"
     },
     "tribike2": {
         "brand": "",
@@ -3375,13 +3528,14 @@
         "price": 3622
     },
     "revolter": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "revolter",
         "category": "sports",
         "name": "Revolter",
         "type": "automobile",
         "hash": -410205223,
-        "price": 74872
+        "price": 74872,
+        "vehicleClass": "B"
     },
     "boattrailer2": {
         "brand": "",
@@ -3444,7 +3598,8 @@
         "name": "Sabre GT",
         "type": "automobile",
         "hash": 223258115,
-        "price": 77489
+        "price": 77489,
+        "vehicleClass": "B"
     },
     "trailersmall": {
         "brand": "",
@@ -3471,7 +3626,8 @@
         "name": "Emperor (Beater)",
         "type": "automobile",
         "hash": -1883002148,
-        "price": 56110
+        "price": 56110,
+        "vehicleClass": "C"
     },
     "corsita": {
         "brand": "Lampadati",
@@ -3480,7 +3636,8 @@
         "name": "Corsita",
         "type": "automobile",
         "hash": -754687673,
-        "price": 87616
+        "price": 87616,
+        "vehicleClass": "S"
     },
     "turismo3": {
         "brand": "Grotti",
@@ -3489,7 +3646,8 @@
         "name": "Turismo Omaggio",
         "type": "automobile",
         "hash": -122993285,
-        "price": 83545
+        "price": 83545,
+        "vehicleClass": "S"
     },
     "dominator6": {
         "brand": "Vapid",
@@ -3507,7 +3665,8 @@
         "name": "Defiler",
         "type": "bike",
         "hash": 822018448,
-        "price": 25616
+        "price": 25616,
+        "vehicleClass": "M"
     },
     "kalahari": {
         "brand": "Canis",
@@ -3516,7 +3675,8 @@
         "name": "Kalahari",
         "type": "automobile",
         "hash": 92612664,
-        "price": 59046
+        "price": 59046,
+        "vehicleClass": "D"
     },
     "inductor": {
         "brand": "Coil",
@@ -3561,7 +3721,8 @@
         "name": "Premier",
         "type": "automobile",
         "hash": -1883869285,
-        "price": 63694
+        "price": 63694,
+        "vehicleClass": "C"
     },
     "docktug": {
         "brand": "HVY",
@@ -3570,7 +3731,8 @@
         "name": "Docktug",
         "type": "automobile",
         "hash": -884690486,
-        "price": 41473
+        "price": 41473,
+        "vehicleClass": "S"
     },
     "driftfr36": {
         "brand": "Fathom",
@@ -3588,7 +3750,8 @@
         "name": "Contender",
         "type": "automobile",
         "hash": 683047626,
-        "price": 68578
+        "price": 68578,
+        "vehicleClass": "B"
     },
     "deity": {
         "brand": "Enus",
@@ -3624,7 +3787,8 @@
         "name": "Duneloader",
         "type": "automobile",
         "hash": 1770332643,
-        "price": 55231
+        "price": 55231,
+        "vehicleClass": "D"
     },
     "squaddie": {
         "brand": "Mammoth",
@@ -3669,7 +3833,8 @@
         "name": "Gresley",
         "type": "automobile",
         "hash": -1543762099,
-        "price": 63694
+        "price": 63694,
+        "vehicleClass": "B"
     },
     "monster": {
         "brand": "Vapid",
@@ -3687,7 +3852,8 @@
         "name": "Surfer",
         "type": "automobile",
         "hash": 699456151,
-        "price": 34505
+        "price": 34505,
+        "vehicleClass": "D"
     },
     "baller2": {
         "brand": "Gallivanter",
@@ -3696,7 +3862,8 @@
         "name": "Baller",
         "type": "automobile",
         "hash": 142944341,
-        "price": 74432
+        "price": 74432,
+        "vehicleClass": "B"
     },
     "buffalo2": {
         "brand": "Bravado",
@@ -3705,7 +3872,8 @@
         "name": "Buffalo S",
         "type": "automobile",
         "hash": 736902334,
-        "price": 77026
+        "price": 77026,
+        "vehicleClass": "A"
     },
     "comet6": {
         "brand": "Pfister",
@@ -3714,7 +3882,8 @@
         "name": "Comet S2",
         "type": "automobile",
         "hash": -1726022652,
-        "price": 83378
+        "price": 83378,
+        "vehicleClass": "S"
     },
     "avenger3": {
         "brand": "Mammoth",
@@ -3741,7 +3910,8 @@
         "name": "Tow Truck (Beater)",
         "type": "automobile",
         "hash": -671564942,
-        "price": 62901
+        "price": 62901,
+        "vehicleClass": "D"
     },
     "towtruck": {
         "brand": "Vapid",
@@ -3759,7 +3929,8 @@
         "name": "Ruiner",
         "type": "automobile",
         "hash": -227741703,
-        "price": 80117
+        "price": 80117,
+        "vehicleClass": "A"
     },
     "tourbus": {
         "brand": "Brute",
@@ -3858,7 +4029,8 @@
         "name": "Tornado",
         "type": "automobile",
         "hash": 464687292,
-        "price": 60635
+        "price": 60635,
+        "vehicleClass": "D"
     },
     "sugoi": {
         "brand": "Dinka",
@@ -3867,7 +4039,8 @@
         "name": "Sugoi",
         "type": "automobile",
         "hash": 987469656,
-        "price": 75269
+        "price": 75269,
+        "vehicleClass": "B"
     },
     "tampa3": {
         "brand": "Declasse",
@@ -3894,7 +4067,8 @@
         "name": "Emperor",
         "type": "automobile",
         "hash": -685276541,
-        "price": 56110
+        "price": 56110,
+        "vehicleClass": "D"
     },
     "tulip": {
         "brand": "Declasse",
@@ -3903,7 +4077,8 @@
         "name": "Tulip",
         "type": "automobile",
         "hash": 1456744817,
-        "price": 80611
+        "price": 80611,
+        "vehicleClass": "B"
     },
     "tiptruck": {
         "brand": "Brute",
@@ -3939,7 +4114,8 @@
         "name": "Dilettante",
         "type": "automobile",
         "hash": -1130810103,
-        "price": 40298
+        "price": 40298,
+        "vehicleClass": "C"
     },
     "thrust": {
         "brand": "Dinka",
@@ -3948,7 +4124,8 @@
         "name": "Thrust",
         "type": "bike",
         "hash": 1836027715,
-        "price": 25865
+        "price": 25865,
+        "vehicleClass": "M"
     },
     "dilettante2": {
         "brand": "Karin",
@@ -3966,7 +4143,8 @@
         "name": "Speedo",
         "type": "automobile",
         "hash": -810318068,
-        "price": 66002
+        "price": 66002,
+        "vehicleClass": "C"
     },
     "daemon2": {
         "brand": "Western",
@@ -3975,7 +4153,8 @@
         "name": "Daemon Custom",
         "type": "bike",
         "hash": -1404136503,
-        "price": 22423
+        "price": 22423,
+        "vehicleClass": "M"
     },
     "turismo2": {
         "brand": "Grotti",
@@ -3984,7 +4163,8 @@
         "name": "Turismo Classic",
         "type": "automobile",
         "hash": -982130927,
-        "price": 81835
+        "price": 81835,
+        "vehicleClass": "A"
     },
     "picador": {
         "brand": "Cheval",
@@ -3993,7 +4173,8 @@
         "name": "Picador",
         "type": "automobile",
         "hash": 1507916787,
-        "price": 67839
+        "price": 67839,
+        "vehicleClass": "C"
     },
     "phantom": {
         "brand": "JoBuilt",
@@ -4038,7 +4219,8 @@
         "name": "Akuma",
         "type": "bike",
         "hash": 1672195559,
-        "price": 25356
+        "price": 25356,
+        "vehicleClass": "M"
     },
     "stafford": {
         "brand": "Enus",
@@ -4047,7 +4229,8 @@
         "name": "Stafford",
         "type": "automobile",
         "hash": 321186144,
-        "price": 62882
+        "price": 62882,
+        "vehicleClass": "D"
     },
     "technical3": {
         "brand": "Karin",
@@ -4074,7 +4257,8 @@
         "name": "Faction Rider",
         "type": "automobile",
         "hash": -1790546981,
-        "price": 77450
+        "price": 77450,
+        "vehicleClass": "C"
     },
     "deathbike": {
         "brand": "Western",
@@ -4146,7 +4330,8 @@
         "name": "Cognoscenti",
         "type": "automobile",
         "hash": -2030171296,
-        "price": 75535
+        "price": 75535,
+        "vehicleClass": "B"
     },
     "jester3": {
         "brand": "Dinka",
@@ -4155,7 +4340,8 @@
         "name": "Jester Classic",
         "type": "automobile",
         "hash": -214906006,
-        "price": 80462
+        "price": 80462,
+        "vehicleClass": "B"
     },
     "sultan": {
         "brand": "Karin",
@@ -4182,7 +4368,8 @@
         "name": "Adder",
         "type": "automobile",
         "hash": -1216765807,
-        "price": 86065
+        "price": 86065,
+        "vehicleClass": "A"
     },
     "dominator9": {
         "brand": "Vapid",
@@ -4227,7 +4414,8 @@
         "name": "Tampa",
         "type": "automobile",
         "hash": 972671128,
-        "price": 70442
+        "price": 70442,
+        "vehicleClass": "B"
     },
     "tahoma": {
         "brand": "Declasse",
@@ -4236,7 +4424,8 @@
         "name": "Tahoma Coupe",
         "type": "automobile",
         "hash": -461850249,
-        "price": 72249
+        "price": 72249,
+        "vehicleClass": "D"
     },
     "mule": {
         "brand": "Maibatsu",
@@ -4245,7 +4434,8 @@
         "name": "Mule",
         "type": "automobile",
         "hash": 904750859,
-        "price": 47273
+        "price": 47273,
+        "vehicleClass": "D"
     },
     "taco": {
         "brand": "Brute",
@@ -4254,7 +4444,8 @@
         "name": "Taco Van",
         "type": "automobile",
         "hash": 1951180813,
-        "price": 47273
+        "price": 47273,
+        "vehicleClass": "D"
     },
     "brutus3": {
         "brand": "Declasse",
@@ -4272,7 +4463,8 @@
         "name": "Manchez Scout",
         "type": "bike",
         "hash": 1086534307,
-        "price": 21545
+        "price": 21545,
+        "vehicleClass": "M"
     },
     "t20": {
         "brand": "Progen",
@@ -4281,7 +4473,8 @@
         "name": "Progen T20",
         "type": "automobile",
         "hash": 1663218586,
-        "price": 83022
+        "price": 83022,
+        "vehicleClass": "A"
     },
     "bodhi2": {
         "brand": "Canis",
@@ -4290,7 +4483,8 @@
         "name": "Bodhi",
         "type": "automobile",
         "hash": -1435919434,
-        "price": 59867
+        "price": 59867,
+        "vehicleClass": "C"
     },
     "castigator": {
         "brand": "Canis",
@@ -4335,7 +4529,8 @@
         "name": "Tow Truck",
         "type": "automobile",
         "hash": -902029319,
-        "price": 62901
+        "price": 62901,
+        "vehicleClass": "D"
     },
     "riot": {
         "brand": "Brute",
@@ -4362,7 +4557,8 @@
         "name": "Surano",
         "type": "automobile",
         "hash": 384071873,
-        "price": 83971
+        "price": 83971,
+        "vehicleClass": "A"
     },
     "supervolito2": {
         "brand": "Buckingham",
@@ -4416,7 +4612,8 @@
         "name": "Sultan Classic Custom",
         "type": "automobile",
         "hash": -291021213,
-        "price": 78067
+        "price": 78067,
+        "vehicleClass": "A"
     },
     "cerberus2": {
         "brand": "MTL",
@@ -4434,7 +4631,8 @@
         "name": "Progen Emerus",
         "type": "automobile",
         "hash": 1323778901,
-        "price": 85112
+        "price": 85112,
+        "vehicleClass": "S"
     },
     "vagner": {
         "brand": "Dewbauchee",
@@ -4446,7 +4644,7 @@
         "price": 87808
     },
     "sc1": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "sc1",
         "category": "super",
         "name": "SC1",
@@ -4470,7 +4668,8 @@
         "name": "Cheetah Classic",
         "type": "automobile",
         "hash": 223240013,
-        "price": 82724
+        "price": 82724,
+        "vehicleClass": "A"
     },
     "monroe": {
         "brand": "Pegassi",
@@ -4479,7 +4678,8 @@
         "name": "Monroe",
         "type": "automobile",
         "hash": -433375717,
-        "price": 82544
+        "price": 82544,
+        "vehicleClass": "B"
     },
     "jester": {
         "brand": "Dinka",
@@ -4497,7 +4697,8 @@
         "name": "Phoenix",
         "type": "automobile",
         "hash": -2095439403,
-        "price": 78433
+        "price": 78433,
+        "vehicleClass": "B"
     },
     "stunt": {
         "brand": "Western Company",
@@ -4515,7 +4716,8 @@
         "name": "Stryder",
         "type": "bike",
         "hash": 301304410,
-        "price": 26711
+        "price": 26711,
+        "vehicleClass": "M"
     },
     "bison3": {
         "brand": "Bravado",
@@ -4542,7 +4744,8 @@
         "name": "Stretch",
         "type": "automobile",
         "hash": -1961627517,
-        "price": 63950
+        "price": 63950,
+        "vehicleClass": "C"
     },
     "speedo5": {
         "brand": "Vapid",
@@ -4587,7 +4790,8 @@
         "name": "Daemon",
         "type": "bike",
         "hash": 2006142190,
-        "price": 22321
+        "price": 22321,
+        "vehicleClass": "M"
     },
     "policet3": {
         "brand": "Declasse",
@@ -4668,7 +4872,8 @@
         "name": "V-STR",
         "type": "automobile",
         "hash": 1456336509,
-        "price": 79649
+        "price": 79649,
+        "vehicleClass": "A"
     },
     "volatus": {
         "brand": "Buckingham",
@@ -4722,7 +4927,8 @@
         "name": "Stanier",
         "type": "automobile",
         "hash": -1477580979,
-        "price": 71053
+        "price": 71053,
+        "vehicleClass": "C"
     },
     "tempesta": {
         "brand": "Pegassi",
@@ -4731,7 +4937,8 @@
         "name": "Tempesta",
         "type": "automobile",
         "hash": 272929391,
-        "price": 81980
+        "price": 81980,
+        "vehicleClass": "S"
     },
     "dump": {
         "brand": "HVY",
@@ -4743,13 +4950,14 @@
         "price": 24629
     },
     "rebla": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "rebla",
         "category": "suvs",
         "name": "Rebla GTS",
         "type": "automobile",
         "hash": 83136452,
-        "price": 77543
+        "price": 77543,
+        "vehicleClass": "A"
     },
     "freecrawler": {
         "brand": "Canis",
@@ -4785,7 +4993,8 @@
         "name": "Banshee",
         "type": "automobile",
         "hash": -1041692462,
-        "price": 79495
+        "price": 79495,
+        "vehicleClass": "A"
     },
     "rapidgt3": {
         "brand": "Dewbauchee",
@@ -4794,7 +5003,8 @@
         "name": "Rapid GT Classic",
         "type": "automobile",
         "hash": 2049897956,
-        "price": 77766
+        "price": 77766,
+        "vehicleClass": "B"
     },
     "retinue2": {
         "brand": "Vapid",
@@ -4803,7 +5013,8 @@
         "name": "Retinue MKII",
         "type": "automobile",
         "hash": 2031587082,
-        "price": 76099
+        "price": 76099,
+        "vehicleClass": "B"
     },
     "cargobob4": {
         "brand": "Western",
@@ -4839,7 +5050,8 @@
         "name": "Manchez Scout C",
         "type": "bike",
         "hash": 1384502824,
-        "price": 21632
+        "price": 21632,
+        "vehicleClass": "M"
     },
     "cruiser": {
         "brand": "PED",
@@ -4902,7 +5114,8 @@
         "name": "Specter Custom",
         "type": "automobile",
         "hash": 1074745671,
-        "price": 82332
+        "price": 82332,
+        "vehicleClass": "A"
     },
     "cog55": {
         "brand": "Enus",
@@ -4911,7 +5124,8 @@
         "name": "Cognoscenti 55",
         "type": "automobile",
         "hash": 906642318,
-        "price": 76441
+        "price": 76441,
+        "vehicleClass": "A"
     },
     "specter": {
         "brand": "Dewbauchee",
@@ -4920,7 +5134,8 @@
         "name": "Specter",
         "type": "automobile",
         "hash": 1886268224,
-        "price": 81060
+        "price": 81060,
+        "vehicleClass": "A"
     },
     "btype2": {
         "brand": "Albany",
@@ -4929,7 +5144,8 @@
         "name": "Franken Stange",
         "type": "automobile",
         "hash": -831834716,
-        "price": 74624
+        "price": 74624,
+        "vehicleClass": "D"
     },
     "sovereign": {
         "brand": "Western",
@@ -4938,7 +5154,8 @@
         "name": "Sovereign",
         "type": "bike",
         "hash": 743478836,
-        "price": 23078
+        "price": 23078,
+        "vehicleClass": "M"
     },
     "slamvan4": {
         "brand": "Vapid",
@@ -4956,7 +5173,8 @@
         "name": "Sanctus",
         "type": "bike",
         "hash": 1491277511,
-        "price": 24351
+        "price": 24351,
+        "vehicleClass": "M"
     },
     "apc": {
         "brand": "HVY",
@@ -4983,7 +5201,8 @@
         "name": "Gauntlet",
         "type": "automobile",
         "hash": -1800170043,
-        "price": 78237
+        "price": 78237,
+        "vehicleClass": "A"
     },
     "ellie": {
         "brand": "Vapid",
@@ -4992,7 +5211,8 @@
         "name": "Ellie",
         "type": "automobile",
         "hash": -1267543371,
-        "price": 75782
+        "price": 75782,
+        "vehicleClass": "B"
     },
     "camper": {
         "brand": "Brute",
@@ -5001,7 +5221,8 @@
         "name": "Camper",
         "type": "automobile",
         "hash": 1876516712,
-        "price": 50131
+        "price": 50131,
+        "vehicleClass": "D"
     },
     "journey2": {
         "brand": "Zirconium",
@@ -5028,7 +5249,8 @@
         "name": "Lost Slam Van",
         "type": "automobile",
         "hash": 833469436,
-        "price": 67165
+        "price": 67165,
+        "vehicleClass": "C"
     },
     "formula": {
         "brand": "Progen",
@@ -5064,7 +5286,8 @@
         "name": "Streiter",
         "type": "automobile",
         "hash": 1741861769,
-        "price": 71204
+        "price": 71204,
+        "vehicleClass": "B"
     },
     "tvtrailer": {
         "brand": "",
@@ -5118,19 +5341,21 @@
         "name": "SM722",
         "type": "automobile",
         "hash": 775514032,
-        "price": 80260
+        "price": 80260,
+        "vehicleClass": "S"
     },
     "sentinel3": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "sentinel3",
         "category": "sports",
         "name": "Sentinel Classic",
         "type": "automobile",
         "hash": 1104234922,
-        "price": 74166
+        "price": 74166,
+        "vehicleClass": "B"
     },
     "sentinel2": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "sentinel2",
         "category": "coupes",
         "name": " Sentinel XS",
@@ -5154,16 +5379,18 @@
         "name": "300R",
         "type": "automobile",
         "hash": 1076201208,
-        "price": 79467
+        "price": 79467,
+        "vehicleClass": "A"
     },
     "sentinel": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "sentinel",
         "category": "coupes",
         "name": "Sentinel",
         "type": "automobile",
         "hash": 1349725314,
-        "price": 75585
+        "price": 75585,
+        "vehicleClass": "A"
     },
     "seven70": {
         "brand": "Dewbauchee",
@@ -5199,7 +5426,8 @@
         "name": "Schwartzer",
         "type": "automobile",
         "hash": -746882698,
-        "price": 80250
+        "price": 80250,
+        "vehicleClass": "A"
     },
     "schlagen": {
         "brand": "Benefactor",
@@ -5208,7 +5436,8 @@
         "name": "Schlagen GT",
         "type": "automobile",
         "hash": -507495760,
-        "price": 86368
+        "price": 86368,
+        "vehicleClass": "A"
     },
     "driftyosemite": {
         "brand": "Declasse",
@@ -5253,7 +5482,8 @@
         "name": "Hexer",
         "type": "bike",
         "hash": 301427732,
-        "price": 22521
+        "price": 22521,
+        "vehicleClass": "M"
     },
     "schafter3": {
         "brand": "Benefactor",
@@ -5262,7 +5492,8 @@
         "name": "Schafter V12",
         "type": "automobile",
         "hash": -1485523546,
-        "price": 83088
+        "price": 83088,
+        "vehicleClass": "A"
     },
     "schafter2": {
         "brand": "Benefactor",
@@ -5271,7 +5502,8 @@
         "name": "Schafter",
         "type": "automobile",
         "hash": -1255452397,
-        "price": 65682
+        "price": 65682,
+        "vehicleClass": "B"
     },
     "tractor": {
         "brand": "",
@@ -5307,7 +5539,8 @@
         "name": "Sprunk Buffalo",
         "type": "automobile",
         "hash": 237764926,
-        "price": 80264
+        "price": 80264,
+        "vehicleClass": "A"
     },
     "gp1": {
         "brand": "Progen",
@@ -5316,7 +5549,8 @@
         "name": "GP1",
         "type": "automobile",
         "hash": 1234311532,
-        "price": 84220
+        "price": 84220,
+        "vehicleClass": "S"
     },
     "baller4": {
         "brand": "Gallivanter",
@@ -5325,7 +5559,8 @@
         "name": "Baller LE LWB",
         "type": "automobile",
         "hash": 634118882,
-        "price": 74384
+        "price": 74384,
+        "vehicleClass": "A"
     },
     "blazer2": {
         "brand": "Nagasaki",
@@ -5352,7 +5587,8 @@
         "name": "Warrener HKR",
         "type": "automobile",
         "hash": 579912970,
-        "price": 67374
+        "price": 67374,
+        "vehicleClass": "B"
     },
     "vortex": {
         "brand": "Pegassi",
@@ -5361,10 +5597,11 @@
         "name": "Vortex",
         "type": "bike",
         "hash": -609625092,
-        "price": 25612
+        "price": 25612,
+        "vehicleClass": "M"
     },
     "sentinel4": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "sentinel4",
         "category": "sports",
         "name": "Sentinel Classic Widebody",
@@ -5379,7 +5616,8 @@
         "name": "Sanchez (livery)",
         "type": "bike",
         "hash": 788045382,
-        "price": 20686
+        "price": 20686,
+        "vehicleClass": "M"
     },
     "freightcar": {
         "brand": "",
@@ -5406,7 +5644,8 @@
         "name": "Minivan Custom",
         "type": "automobile",
         "hash": -1126264336,
-        "price": 58450
+        "price": 58450,
+        "vehicleClass": "C"
     },
     "brioso2": {
         "brand": "Grotti",
@@ -5415,7 +5654,8 @@
         "name": "Brioso 300",
         "type": "automobile",
         "hash": 1429622905,
-        "price": 54291
+        "price": 54291,
+        "vehicleClass": "C"
     },
     "wastelander": {
         "brand": "MTL",
@@ -5442,7 +5682,8 @@
         "name": "Kamacho",
         "type": "automobile",
         "hash": -121446169,
-        "price": 67315
+        "price": 67315,
+        "vehicleClass": "B"
     },
     "rumpo": {
         "brand": "Bravado",
@@ -5451,7 +5692,8 @@
         "name": "Rumpo",
         "type": "automobile",
         "hash": 1162065741,
-        "price": 63310
+        "price": 63310,
+        "vehicleClass": "C"
     },
     "ruiner4": {
         "brand": "Imponte",
@@ -5460,7 +5702,8 @@
         "name": "Ruiner ZZ-8",
         "type": "automobile",
         "hash": 1706945532,
-        "price": 80458
+        "price": 80458,
+        "vehicleClass": "A"
     },
     "ruiner2": {
         "brand": "Imponte",
@@ -5505,7 +5748,8 @@
         "name": "Buffalo STX",
         "type": "automobile",
         "hash": -619930876,
-        "price": 80516
+        "price": 80516,
+        "vehicleClass": "A"
     },
     "romero": {
         "brand": "Chariot",
@@ -5514,16 +5758,18 @@
         "name": "Romero Hearse",
         "type": "automobile",
         "hash": 627094268,
-        "price": 53105
+        "price": 53105,
+        "vehicleClass": "D"
     },
     "oracle2": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "oracle2",
         "category": "coupes",
         "name": "Oracle",
         "type": "automobile",
         "hash": -511601230,
-        "price": 76907
+        "price": 76907,
+        "vehicleClass": "B"
     },
     "rhapsody": {
         "brand": "Declasse",
@@ -5541,7 +5787,8 @@
         "name": "Retinue",
         "type": "automobile",
         "hash": 1841130506,
-        "price": 70738
+        "price": 70738,
+        "vehicleClass": "B"
     },
     "rentalbus": {
         "brand": "Brute",
@@ -5559,7 +5806,8 @@
         "name": "Remus",
         "type": "automobile",
         "hash": 1377217886,
-        "price": 78314
+        "price": 78314,
+        "vehicleClass": "A"
     },
     "squalo": {
         "brand": "Shitzu",
@@ -5577,7 +5825,8 @@
         "name": "Rusty Rebel",
         "type": "automobile",
         "hash": -1207771834,
-        "price": 63694
+        "price": 63694,
+        "vehicleClass": "C"
     },
     "brickade2": {
         "brand": "MTL",
@@ -5631,7 +5880,8 @@
         "name": "Rat Bike",
         "type": "bike",
         "hash": 1873600305,
-        "price": 19441
+        "price": 19441,
+        "vehicleClass": "M"
     },
     "raptor": {
         "brand": "BF",
@@ -5685,7 +5935,8 @@
         "name": "Faggio Sport",
         "type": "bike",
         "hash": -1842748181,
-        "price": 14728
+        "price": 14728,
+        "vehicleClass": "M"
     },
     "baller6": {
         "brand": "Gallivanter",
@@ -5715,7 +5966,7 @@
         "price": 2712193
     },
     "niobe": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "niobe",
         "category": "sports",
         "name": "Niobe",
@@ -5739,7 +5990,8 @@
         "name": "Dominator GTT",
         "type": "automobile",
         "hash": 736672010,
-        "price": 76296
+        "price": 76296,
+        "vehicleClass": "A"
     },
     "eudora": {
         "brand": "Willard",
@@ -5748,7 +6000,8 @@
         "name": "Eudora",
         "type": "automobile",
         "hash": -1249788006,
-        "price": 66819
+        "price": 66819,
+        "vehicleClass": "D"
     },
     "cerberus3": {
         "brand": "MTL",
@@ -5775,7 +6028,8 @@
         "name": "Radius",
         "type": "automobile",
         "hash": -1651067813,
-        "price": 65522
+        "price": 65522,
+        "vehicleClass": "C"
     },
     "hotknife": {
         "brand": "Vapid",
@@ -5784,7 +6038,8 @@
         "name": "Hotknife",
         "type": "automobile",
         "hash": 37348240,
-        "price": 74328
+        "price": 74328,
+        "vehicleClass": "C"
     },
     "pyro": {
         "brand": "Buckingham",
@@ -5802,7 +6057,8 @@
         "name": "Blazer Sport",
         "type": "automobile",
         "hash": -440768424,
-        "price": 24453
+        "price": 24453,
+        "vehicleClass": "M"
     },
     "surfer3": {
         "brand": "BF",
@@ -5838,7 +6094,8 @@
         "name": "Primo Custom",
         "type": "automobile",
         "hash": -2040426790,
-        "price": 64174
+        "price": 64174,
+        "vehicleClass": "C"
     },
     "primo": {
         "brand": "Albany",
@@ -5847,7 +6104,8 @@
         "name": "Primo",
         "type": "automobile",
         "hash": -1150599089,
-        "price": 64174
+        "price": 64174,
+        "vehicleClass": "D"
     },
     "nero2": {
         "brand": "Truffade",
@@ -5883,7 +6141,8 @@
         "name": "Fagaloa",
         "type": "automobile",
         "hash": 1617472902,
-        "price": 57546
+        "price": 57546,
+        "vehicleClass": "D"
     },
     "prairie": {
         "brand": "Bollokan",
@@ -5892,7 +6151,8 @@
         "name": "Prairie",
         "type": "automobile",
         "hash": -1450650718,
-        "price": 67519
+        "price": 67519,
+        "vehicleClass": "B"
     },
     "pounder2": {
         "brand": "MTL",
@@ -5928,7 +6188,8 @@
         "name": "Dukes",
         "type": "automobile",
         "hash": 723973206,
-        "price": 79383
+        "price": 79383,
+        "vehicleClass": "B"
     },
     "nero": {
         "brand": "Truffade",
@@ -5964,7 +6225,8 @@
         "name": "Lectro",
         "type": "bike",
         "hash": 640818791,
-        "price": 27225
+        "price": 27225,
+        "vehicleClass": "M"
     },
     "gt500": {
         "brand": "Grotti",
@@ -5973,7 +6235,8 @@
         "name": "GT500",
         "type": "automobile",
         "hash": -2079788230,
-        "price": 76158
+        "price": 76158,
+        "vehicleClass": "B"
     },
     "polimpaler6": {
         "brand": "Declasse",
@@ -6027,7 +6290,8 @@
         "name": "Bati 801",
         "type": "bike",
         "hash": -114291515,
-        "price": 25838
+        "price": 25838,
+        "vehicleClass": "M"
     },
     "voltic2": {
         "brand": "Coil",
@@ -6063,7 +6327,8 @@
         "name": "Banshee 900R",
         "type": "automobile",
         "hash": 633712403,
-        "price": 74887
+        "price": 74887,
+        "vehicleClass": "S"
     },
     "policeb": {
         "brand": "Western",
@@ -6090,7 +6355,8 @@
         "name": "Chino Custom",
         "type": "automobile",
         "hash": -1361687965,
-        "price": 60394
+        "price": 60394,
+        "vehicleClass": "C"
     },
     "paragon": {
         "brand": "Enus",
@@ -6099,7 +6365,8 @@
         "name": "Paragon",
         "type": "automobile",
         "hash": -447711397,
-        "price": 75255
+        "price": 75255,
+        "vehicleClass": "A"
     },
     "chimera": {
         "brand": "Nagasaki",
@@ -6108,7 +6375,8 @@
         "name": "Chimera",
         "type": "bike",
         "hash": 6774487,
-        "price": 22412
+        "price": 22412,
+        "vehicleClass": "M"
     },
     "police5": {
         "brand": "Vapid",
@@ -6144,7 +6412,8 @@
         "name": "Neon",
         "type": "automobile",
         "hash": -1848994066,
-        "price": 65765
+        "price": 65765,
+        "vehicleClass": "A"
     },
     "driftremus": {
         "brand": "Annis",
@@ -6189,7 +6458,8 @@
         "name": "FR36",
         "type": "automobile",
         "hash": -465825307,
-        "price": 78667
+        "price": 78667,
+        "vehicleClass": "A"
     },
     "police2": {
         "brand": "Buffalo",
@@ -6210,7 +6480,7 @@
         "price": 60938
     },
     "pipistrello": {
-        "brand": "Överflöd",
+        "brand": "Ã–verflÃ¶d",
         "model": "pipistrello",
         "category": "super",
         "name": "Pipistrello",
@@ -6234,7 +6504,8 @@
         "name": "Zombie Bobber",
         "type": "bike",
         "hash": -1009268949,
-        "price": 23182
+        "price": 23182,
+        "vehicleClass": "M"
     },
     "burrito5": {
         "brand": "Declasse",
@@ -6252,7 +6523,8 @@
         "name": "Windsor Drop",
         "type": "automobile",
         "hash": -1930048799,
-        "price": 79252
+        "price": 79252,
+        "vehicleClass": "A"
     },
     "ruston": {
         "brand": "Hijak",
@@ -6261,7 +6533,8 @@
         "name": "Ruston",
         "type": "automobile",
         "hash": 719660200,
-        "price": 78365
+        "price": 78365,
+        "vehicleClass": "A"
     },
     "peyote": {
         "brand": "Vapid",
@@ -6270,7 +6543,8 @@
         "name": "Peyote",
         "type": "automobile",
         "hash": 1830407356,
-        "price": 60635
+        "price": 60635,
+        "vehicleClass": "D"
     },
     "penetrator": {
         "brand": "Ocelot",
@@ -6342,7 +6616,8 @@
         "name": "Panto",
         "type": "automobile",
         "hash": -431692672,
-        "price": 67549
+        "price": 67549,
+        "vehicleClass": "C"
     },
     "panthere": {
         "brand": "Toundra",
@@ -6405,7 +6680,8 @@
         "name": "Novak",
         "type": "automobile",
         "hash": -1829436850,
-        "price": 78077
+        "price": 78077,
+        "vehicleClass": "A"
     },
     "raiden": {
         "brand": "Coil",
@@ -6414,7 +6690,8 @@
         "name": "Raiden",
         "type": "automobile",
         "hash": -1529242755,
-        "price": 64370
+        "price": 64370,
+        "vehicleClass": "B"
     },
     "nimbus": {
         "brand": "Buckingham",
@@ -6432,7 +6709,8 @@
         "name": "Journey",
         "type": "automobile",
         "hash": -120287622,
-        "price": 52886
+        "price": 52886,
+        "vehicleClass": "D"
     },
     "buffalo5": {
         "brand": "Bravado",
@@ -6441,7 +6719,8 @@
         "name": "Buffalo EVX",
         "type": "automobile",
         "hash": 165968051,
-        "price": 83332
+        "price": 83332,
+        "vehicleClass": "S"
     },
     "issi7": {
         "brand": "Weeny",
@@ -6450,7 +6729,8 @@
         "name": "Issi Sport",
         "type": "automobile",
         "hash": 1854776567,
-        "price": 70443
+        "price": 70443,
+        "vehicleClass": "A"
     },
     "pony2": {
         "brand": "Brute",
@@ -6477,7 +6757,8 @@
         "name": "Neo",
         "type": "automobile",
         "hash": -1620126302,
-        "price": 85696
+        "price": 85696,
+        "vehicleClass": "S"
     },
     "dubsta3": {
         "brand": "Benefactor",
@@ -6513,7 +6794,8 @@
         "name": "Nemesis",
         "type": "bike",
         "hash": -634879114,
-        "price": 23612
+        "price": 23612,
+        "vehicleClass": "M"
     },
     "mule5": {
         "brand": "Maibatsu",
@@ -6531,7 +6813,8 @@
         "name": "Mamba",
         "type": "automobile",
         "hash": -1660945322,
-        "price": 81429
+        "price": 81429,
+        "vehicleClass": "A"
     },
     "mule4": {
         "brand": "Maibatsu",
@@ -6540,7 +6823,8 @@
         "name": "Mule Custom",
         "type": "automobile",
         "hash": 1945374990,
-        "price": 47273
+        "price": 47273,
+        "vehicleClass": "D"
     },
     "fcr": {
         "brand": "Pegassi",
@@ -6549,7 +6833,8 @@
         "name": "FCR 1000",
         "type": "bike",
         "hash": 627535535,
-        "price": 24321
+        "price": 24321,
+        "vehicleClass": "M"
     },
     "moonbeam": {
         "brand": "Declasse",
@@ -6558,7 +6843,8 @@
         "name": "Moonbeam",
         "type": "automobile",
         "hash": 525509695,
-        "price": 68586
+        "price": 68586,
+        "vehicleClass": "C"
     },
     "boor": {
         "brand": "Karin",
@@ -6567,7 +6853,8 @@
         "name": "Boor",
         "type": "automobile",
         "hash": 996383885,
-        "price": 67237
+        "price": 67237,
+        "vehicleClass": "D"
     },
     "monster4": {
         "brand": "Bravado",
@@ -6675,7 +6962,8 @@
         "name": "Manchez",
         "type": "bike",
         "hash": -1523428744,
-        "price": 23138
+        "price": 23138,
+        "vehicleClass": "M"
     },
     "impaler5": {
         "brand": "Declasse",
@@ -6684,7 +6972,8 @@
         "name": "Impaler SZ",
         "type": "automobile",
         "hash": -478639183,
-        "price": 78875
+        "price": 78875,
+        "vehicleClass": "D"
     },
     "longfin": {
         "brand": "Shitzu",
@@ -6702,7 +6991,8 @@
         "name": "Locust",
         "type": "automobile",
         "hash": -941272559,
-        "price": 81371
+        "price": 81371,
+        "vehicleClass": "A"
     },
     "annihilator2": {
         "brand": "Western",
@@ -6720,7 +7010,8 @@
         "name": "Lifeguard",
         "type": "automobile",
         "hash": 469291905,
-        "price": 62617
+        "price": 62617,
+        "vehicleClass": "C"
     },
     "lazer": {
         "brand": "Jobuilt",
@@ -6738,7 +7029,8 @@
         "name": "Walton L35",
         "type": "automobile",
         "hash": -1763675285,
-        "price": 64429
+        "price": 64429,
+        "vehicleClass": "B"
     },
     "kuruma": {
         "brand": "Karin",
@@ -6747,7 +7039,8 @@
         "name": "Kuruma",
         "type": "automobile",
         "hash": -1372848492,
-        "price": 77445
+        "price": 77445,
+        "vehicleClass": "A"
     },
     "krieger": {
         "brand": "Benefactor",
@@ -6774,7 +7067,8 @@
         "name": "Khamelion",
         "type": "automobile",
         "hash": 544021352,
-        "price": 53292
+        "price": 53292,
+        "vehicleClass": "A"
     },
     "vindicator": {
         "brand": "Dinka",
@@ -6783,7 +7077,8 @@
         "name": "Vindicator",
         "type": "bike",
         "hash": -1353081087,
-        "price": 31055
+        "price": 31055,
+        "vehicleClass": "M"
     },
     "bruiser3": {
         "brand": "Benefactor",
@@ -6819,7 +7114,8 @@
         "name": "Comet SR",
         "type": "automobile",
         "hash": 661493923,
-        "price": 78583
+        "price": 78583,
+        "vehicleClass": "A"
     },
     "slamvan6": {
         "brand": "Vapid",
@@ -6837,7 +7133,8 @@
         "name": "Coquette",
         "type": "automobile",
         "hash": 108773431,
-        "price": 83674
+        "price": 83674,
+        "vehicleClass": "A"
     },
     "jetmax": {
         "brand": "Shitzu",
@@ -6864,7 +7161,8 @@
         "name": "Enduro",
         "type": "bike",
         "hash": 1753414259,
-        "price": 20848
+        "price": 20848,
+        "vehicleClass": "M"
     },
     "jackal": {
         "brand": "Ocelot",
@@ -6873,7 +7171,8 @@
         "name": "Jackal",
         "type": "automobile",
         "hash": -624529134,
-        "price": 76324
+        "price": 76324,
+        "vehicleClass": "B"
     },
     "iwagen": {
         "brand": "Obey",
@@ -6891,7 +7190,8 @@
         "name": "Stinger",
         "type": "automobile",
         "hash": 1545842587,
-        "price": 74712
+        "price": 74712,
+        "vehicleClass": "C"
     },
     "freightcont2": {
         "brand": "",
@@ -6936,7 +7236,8 @@
         "name": "Nightshade",
         "type": "automobile",
         "hash": -1943285540,
-        "price": 67005
+        "price": 67005,
+        "vehicleClass": "B"
     },
     "impaler": {
         "brand": "Declasse",
@@ -6945,7 +7246,8 @@
         "name": "Impaler",
         "type": "automobile",
         "hash": -2096690334,
-        "price": 74584
+        "price": 74584,
+        "vehicleClass": "C"
     },
     "kanjosj": {
         "brand": "Dinka",
@@ -6954,7 +7256,8 @@
         "name": "Kanjo SJ",
         "type": "automobile",
         "hash": -64075878,
-        "price": 73789
+        "price": 73789,
+        "vehicleClass": "D"
     },
     "freight": {
         "brand": "",
@@ -6981,7 +7284,8 @@
         "name": "Issi Classic",
         "type": "automobile",
         "hash": 931280609,
-        "price": 65593
+        "price": 65593,
+        "vehicleClass": "C"
     },
     "dune5": {
         "brand": "BF",
@@ -7035,7 +7339,8 @@
         "name": "Issi",
         "type": "automobile",
         "hash": -1177863319,
-        "price": 69371
+        "price": 69371,
+        "vehicleClass": "C"
     },
     "impaler3": {
         "brand": "Declasse",
@@ -7044,7 +7349,8 @@
         "name": "Future Shock Impaler",
         "type": "automobile",
         "hash": -1924800695,
-        "price": 84076
+        "price": 84076,
+        "vehicleClass": "B"
     },
     "inductor2": {
         "brand": "Coil",
@@ -7062,7 +7368,8 @@
         "name": "Impaler LX",
         "type": "automobile",
         "hash": -178442374,
-        "price": 77917
+        "price": 77917,
+        "vehicleClass": "C"
     },
     "boattrailer": {
         "brand": "",
@@ -7080,7 +7387,8 @@
         "name": "Burrito (McGill-Olsen)",
         "type": "automobile",
         "hash": 893081117,
-        "price": 61195
+        "price": 61195,
+        "vehicleClass": "C"
     },
     "luxor": {
         "brand": "Buckingham",
@@ -7107,7 +7415,8 @@
         "name": "Blade",
         "type": "automobile",
         "hash": -1205801634,
-        "price": 70520
+        "price": 70520,
+        "vehicleClass": "B"
     },
     "infernus": {
         "brand": "Pegassi",
@@ -7116,7 +7425,8 @@
         "name": "Infernus",
         "type": "automobile",
         "hash": 418536135,
-        "price": 81077
+        "price": 81077,
+        "vehicleClass": "A"
     },
     "impaler2": {
         "brand": "Declasse",
@@ -7134,7 +7444,8 @@
         "name": "190Z",
         "type": "automobile",
         "hash": 838982985,
-        "price": 73299
+        "price": 73299,
+        "vehicleClass": "B"
     },
     "dinghy5": {
         "brand": "Nagasaki",
@@ -7179,7 +7490,8 @@
         "name": "Habanero",
         "type": "automobile",
         "hash": 884422927,
-        "price": 65442
+        "price": 65442,
+        "vehicleClass": "C"
     },
     "guardian": {
         "brand": "Vapid",
@@ -7197,7 +7509,8 @@
         "name": "Greenwood",
         "type": "automobile",
         "hash": 40817712,
-        "price": 78897
+        "price": 78897,
+        "vehicleClass": "C"
     },
     "granger2": {
         "brand": "Declasse",
@@ -7233,7 +7546,8 @@
         "name": "Clique",
         "type": "automobile",
         "hash": -1566607184,
-        "price": 76525
+        "price": 76525,
+        "vehicleClass": "D"
     },
     "dominator10": {
         "brand": "Vapid",
@@ -7251,7 +7565,8 @@
         "name": "Coquette BlackFin",
         "type": "automobile",
         "hash": 784565758,
-        "price": 74621
+        "price": 74621,
+        "vehicleClass": "C"
     },
     "gauntlet4": {
         "brand": "Bravado",
@@ -7287,7 +7602,8 @@
         "name": "Gargoyle",
         "type": "bike",
         "hash": 741090084,
-        "price": 25195
+        "price": 25195,
+        "vehicleClass": "M"
     },
     "futo2": {
         "brand": "Karin",
@@ -7296,7 +7612,8 @@
         "name": "Futo GTX",
         "type": "automobile",
         "hash": -1507230520,
-        "price": 75463
+        "price": 75463,
+        "vehicleClass": "A"
     },
     "bulldozer": {
         "brand": "HVY",
@@ -7323,7 +7640,8 @@
         "name": "Furore GT",
         "type": "automobile",
         "hash": -1089039904,
-        "price": 84346
+        "price": 84346,
+        "vehicleClass": "A"
     },
     "driftvorschlag": {
         "brand": "Declasse",
@@ -7350,7 +7668,8 @@
         "name": "Itali GTO",
         "type": "automobile",
         "hash": -331467772,
-        "price": 87475
+        "price": 87475,
+        "vehicleClass": "A"
     },
     "postlude": {
         "brand": "Dinka",
@@ -7359,7 +7678,8 @@
         "name": "Postlude",
         "type": "automobile",
         "hash": -294678663,
-        "price": 69683
+        "price": 69683,
+        "vehicleClass": "D"
     },
     "slamvan": {
         "brand": "Vapid",
@@ -7368,7 +7688,8 @@
         "name": "Slam Van",
         "type": "automobile",
         "hash": 729783779,
-        "price": 66207
+        "price": 66207,
+        "vehicleClass": "C"
     },
     "forklift": {
         "brand": "HVY",
@@ -7404,7 +7725,8 @@
         "name": "Brioso R/A",
         "type": "automobile",
         "hash": 1549126457,
-        "price": 69113
+        "price": 69113,
+        "vehicleClass": "A"
     },
     "mule2": {
         "brand": "Maibatsu",
@@ -7422,7 +7744,8 @@
         "name": "Fugitive",
         "type": "automobile",
         "hash": 1909141499,
-        "price": 67317
+        "price": 67317,
+        "vehicleClass": "B"
     },
     "technical": {
         "brand": "Karin",
@@ -7440,7 +7763,8 @@
         "name": "Aleutian",
         "type": "automobile",
         "hash": -38879449,
-        "price": 66169
+        "price": 66169,
+        "vehicleClass": "B"
     },
     "envisage": {
         "brand": "Bollokan",
@@ -7458,7 +7782,8 @@
         "name": "Everon",
         "type": "automobile",
         "hash": -1756021720,
-        "price": 68803
+        "price": 68803,
+        "vehicleClass": "B"
     },
     "omnisegt": {
         "brand": "Obey",
@@ -7467,7 +7792,8 @@
         "name": "Omnis e-GT",
         "type": "automobile",
         "hash": -505223465,
-        "price": 80374
+        "price": 80374,
+        "vehicleClass": "A"
     },
     "euros": {
         "brand": "Annis",
@@ -7476,25 +7802,28 @@
         "name": "Euros",
         "type": "automobile",
         "hash": 2038480341,
-        "price": 78840
+        "price": 78840,
+        "vehicleClass": "S"
     },
     "entityxf": {
-        "brand": "Överflöd",
+        "brand": "Ã–verflÃ¶d",
         "model": "entityxf",
         "category": "super",
         "name": "Entity XF",
         "type": "automobile",
         "hash": -1291952903,
-        "price": 84601
+        "price": 84601,
+        "vehicleClass": "S"
     },
     "entity2": {
-        "brand": "Överflöd",
+        "brand": "Ã–verflÃ¶d",
         "model": "entity2",
         "category": "super",
         "name": "Entity XXR",
         "type": "automobile",
         "hash": -2120700196,
-        "price": 89286
+        "price": 89286,
+        "vehicleClass": "S"
     },
     "jester2": {
         "brand": "Dinka",
@@ -7530,7 +7859,8 @@
         "name": "Dynasty",
         "type": "automobile",
         "hash": 310284501,
-        "price": 58840
+        "price": 58840,
+        "vehicleClass": "D"
     },
     "infernus2": {
         "brand": "Pegassi",
@@ -7539,7 +7869,8 @@
         "name": "Infernus Classic",
         "type": "automobile",
         "hash": -1405937764,
-        "price": 79349
+        "price": 79349,
+        "vehicleClass": "A"
     },
     "alkonost": {
         "brand": "",
@@ -7557,7 +7888,8 @@
         "name": "Dubsta",
         "type": "automobile",
         "hash": 1177543287,
-        "price": 62617
+        "price": 62617,
+        "vehicleClass": "B"
     },
     "dune4": {
         "brand": "BF",
@@ -7605,7 +7937,7 @@
         "price": 86900
     },
     "driftcypher": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "driftcypher",
         "category": "sports",
         "name": "Cypher (Drift)",
@@ -7647,7 +7979,8 @@
         "name": "Schafter LWB",
         "type": "automobile",
         "hash": 1489967196,
-        "price": 65602
+        "price": 65602,
+        "vehicleClass": "C"
     },
     "hakuchou": {
         "brand": "Shitzu",
@@ -7656,7 +7989,8 @@
         "name": "Hakuchou",
         "type": "bike",
         "hash": 1265391242,
-        "price": 25975
+        "price": 25975,
+        "vehicleClass": "M"
     },
     "deathbike2": {
         "brand": "Western",
@@ -7692,7 +8026,8 @@
         "name": "La Coureuse",
         "type": "automobile",
         "hash": 610429990,
-        "price": 77754
+        "price": 77754,
+        "vehicleClass": "A"
     },
     "cinquemila": {
         "brand": "Lampadati",
@@ -7701,7 +8036,8 @@
         "name": "Cinquemila",
         "type": "automobile",
         "hash": -1527436269,
-        "price": 80476
+        "price": 80476,
+        "vehicleClass": "A"
     },
     "astron": {
         "brand": "Pfister",
@@ -7710,7 +8046,8 @@
         "name": "Astron",
         "type": "automobile",
         "hash": 629969764,
-        "price": 81719
+        "price": 81719,
+        "vehicleClass": "A"
     },
     "cargobob3": {
         "brand": "Western",
@@ -7728,7 +8065,8 @@
         "name": "Coquette Classic",
         "type": "automobile",
         "hash": 1011753235,
-        "price": 81755
+        "price": 81755,
+        "vehicleClass": "C"
     },
     "shinobi": {
         "brand": "Nagasaki",
@@ -7737,7 +8075,8 @@
         "name": "Shinobi",
         "type": "bike",
         "hash": 1353120668,
-        "price": 27244
+        "price": 27244,
+        "vehicleClass": "M"
     },
     "cogcabrio": {
         "brand": "Enus",
@@ -7746,7 +8085,8 @@
         "name": "Cognoscenti Cabrio",
         "type": "automobile",
         "hash": 330661258,
-        "price": 74712
+        "price": 74712,
+        "vehicleClass": "A"
     },
     "caracara": {
         "brand": "Vapid",
@@ -7764,7 +8104,8 @@
         "name": "Warrener",
         "type": "automobile",
         "hash": 1373123368,
-        "price": 64367
+        "price": 64367,
+        "vehicleClass": "D"
     },
     "comet2": {
         "brand": "Pfister",
@@ -7773,7 +8114,8 @@
         "name": "Comet 2",
         "type": "automobile",
         "hash": -1045541610,
-        "price": 83289
+        "price": 83289,
+        "vehicleClass": "A"
     },
     "boxville": {
         "brand": "Brute",
@@ -7782,7 +8124,8 @@
         "name": "Boxville (LSDWP)",
         "type": "automobile",
         "hash": -1987130134,
-        "price": 47273
+        "price": 47273,
+        "vehicleClass": "D"
     },
     "club": {
         "brand": "BF",
@@ -7791,7 +8134,8 @@
         "name": "Club",
         "type": "automobile",
         "hash": -2098954619,
-        "price": 69335
+        "price": 69335,
+        "vehicleClass": "C"
     },
     "glendale": {
         "brand": "Benefactor",
@@ -7800,7 +8144,8 @@
         "name": "Glendale",
         "type": "automobile",
         "hash": 75131841,
-        "price": 65948
+        "price": 65948,
+        "vehicleClass": "D"
     },
     "cliffhanger": {
         "brand": "Western",
@@ -7809,7 +8154,8 @@
         "name": "Cliffhanger",
         "type": "bike",
         "hash": 390201602,
-        "price": 25621
+        "price": 25621,
+        "vehicleClass": "M"
     },
     "cerberus": {
         "brand": "MTL",
@@ -7827,7 +8173,8 @@
         "name": "Vader",
         "type": "bike",
         "hash": -140902153,
-        "price": 22163
+        "price": 22163,
+        "vehicleClass": "M"
     },
     "buzzard": {
         "brand": "Nagasaki",
@@ -7845,7 +8192,8 @@
         "name": "Bugstars Burrito",
         "type": "automobile",
         "hash": -907477130,
-        "price": 61195
+        "price": 61195,
+        "vehicleClass": "C"
     },
     "dukes2": {
         "brand": "Imponte",
@@ -7899,7 +8247,8 @@
         "name": "Bestia GTS",
         "type": "automobile",
         "hash": 1274868363,
-        "price": 79703
+        "price": 79703,
+        "vehicleClass": "A"
     },
     "blazer5": {
         "brand": "Nagasaki",
@@ -7926,7 +8275,8 @@
         "name": "Mogul RS",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbsultanrsx": {
         "brand": "Karin",
@@ -7935,7 +8285,8 @@
         "name": "Sultan RSX",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbneonct": {
         "brand": "Pfister",
@@ -7944,7 +8295,8 @@
         "name": "Neon CT",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbdominatorgsx": {
         "brand": "Vapid",
@@ -7953,7 +8305,8 @@
         "name": "Dominator GSX",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbkomodagt": {
         "brand": "lampadati",
@@ -7962,7 +8315,8 @@
         "name": "Komoda GT",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbbisonhf": {
         "brand": "Bravado",
@@ -7971,7 +8325,8 @@
         "name": "Bison HF",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbargento7f": {
         "brand": "Obey",
@@ -7980,7 +8335,8 @@
         "name": "Argento 7F",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbgresleystx": {
         "brand": "Bravado",
@@ -7989,7 +8345,8 @@
         "name": "Gresley STX",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbharmann": {
         "brand": "Benefactor",
@@ -7998,7 +8355,8 @@
         "name": "Harmann",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbirisz": {
         "brand": "Bollokan",
@@ -8007,7 +8365,8 @@
         "name": "Irisz",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbissimetro": {
         "brand": "Weeny",
@@ -8016,7 +8375,8 @@
         "name": "Issimetro",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbsidewinder": {
         "brand": "Maxwell",
@@ -8025,7 +8385,8 @@
         "name": "Sidewinder",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbbisonstx": {
         "brand": "Bravado",
@@ -8034,7 +8395,8 @@
         "name": "Bison STX",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbesperta": {
         "brand": "Bravado",
@@ -8043,7 +8405,8 @@
         "name": "Esperta",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbtahomagt": {
         "brand": "Vulcar",
@@ -8052,7 +8415,8 @@
         "name": "Tahoma GT",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbstanierle": {
         "brand": "Vulcar",
@@ -8061,7 +8425,8 @@
         "name": "Stanier LE",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbstarlight": {
         "brand": "Vulcar",
@@ -8070,7 +8435,8 @@
         "name": "Starlg HT",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbschrauber": {
         "brand": "Benefactor",
@@ -8079,7 +8445,8 @@
         "name": "Schrauber",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbbriosof": {
         "brand": "Grotti",
@@ -8088,7 +8455,8 @@
         "name": "Brios of",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbimpaler": {
         "brand": "Impaler",
@@ -8097,7 +8465,8 @@
         "name": "Impaler",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbmojave": {
         "brand": "karin",
@@ -8106,7 +8475,8 @@
         "name": "Mojave",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbraidillon": {
         "brand": "Toundra",
@@ -8115,7 +8485,8 @@
         "name": "Raidillon",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbturismogts": {
         "brand": "Dundreary",
@@ -8124,7 +8495,8 @@
         "name": "Turismo GTS",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "B"
     },
     "gbvivant": {
         "brand": "Bordeaux",
@@ -8133,7 +8505,8 @@
         "name": "VIVANT",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "C"
     },
     "gbadmiral": {
         "brand": "Dundreary",
@@ -8142,7 +8515,8 @@
         "name": "Admiral",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "C"
     },
     "gbhades": {
         "brand": "dundreary",
@@ -8151,7 +8525,8 @@
         "name": "HADES",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "C"
     },
     "gbterrorizer": {
         "brand": "Hvy",
@@ -8241,7 +8616,8 @@
         "name": "Prospero",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbsapphire": {
         "brand": "Enus",
@@ -8250,7 +8626,8 @@
         "name": "Sapphire",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gb811s2": {
         "brand": "Pfister",
@@ -8259,7 +8636,8 @@
         "name": "811 S2",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbcomets2r": {
         "brand": "Pfister",
@@ -8268,7 +8646,8 @@
         "name": "Comet S2R",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbcometcl": {
         "brand": "Pfister",
@@ -8277,7 +8656,8 @@
         "name": "Comet CL",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbcomets2rc": {
         "brand": "Pfister",
@@ -8286,7 +8666,8 @@
         "name": "comets 2RC",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbschlagenr": {
         "brand": "Benefactor",
@@ -8295,7 +8676,8 @@
         "name": "Schlagen R",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbtenfr": {
         "brand": "Obey",
@@ -8304,7 +8686,8 @@
         "name": "Ten FR",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbsentinelgts": {
         "brand": "Ubermacht",
@@ -8313,7 +8696,8 @@
         "name": "Sentinel GTS",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbschwarz": {
         "brand": "Benefactor",
@@ -8331,16 +8715,18 @@
         "name": "Solace",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
-        "gbsolacev": {
+    "gbsolacev": {
         "brand": "Dewbauchee",
         "model": "gbsolacev",
         "category": "custom",
         "name": "Solace V",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "elegyrh7": {
         "brand": "Elegy",
@@ -8349,7 +8735,8 @@
         "name": "RH7",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbbanshees": {
         "brand": "Bravado",
@@ -8358,7 +8745,8 @@
         "name": "Banshees",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbmilano": {
         "brand": "Grotti",
@@ -8367,7 +8755,8 @@
         "name": "Milano",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbnexusrr": {
         "brand": "Dinka",
@@ -8376,7 +8765,8 @@
         "name": "Nexus RR",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbronin": {
         "brand": "Emperor",
@@ -8385,7 +8775,8 @@
         "name": "Ronin",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "gbtr3s": {
         "brand": "Progen",
@@ -8394,7 +8785,8 @@
         "name": "TR3 S",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "banshees": {
         "brand": "Pfister",
@@ -8412,16 +8804,18 @@
         "name": "Schlagen SP",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "cypherct": {
-        "brand": "Übermacht",
+        "brand": "Ãœbermacht",
         "model": "cypherct",
         "category": "custom",
         "name": "Cypher ct",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "S"
     },
     "clubxr": {
         "brand": "BF",
@@ -8430,7 +8824,8 @@
         "name": "Club XR",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbcomets1t": {
         "brand": "Pfister",
@@ -8439,7 +8834,8 @@
         "name": "Comet S1T",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "gbeonn": {
         "brand": "Coil",
@@ -8448,7 +8844,8 @@
         "name": "Eonn",
         "type": "automobile",
         "hash": 0,
-        "price": 100000
+        "price": 100000,
+        "vehicleClass": "A"
     },
     "trophytrunbk2": {
         "brand": "Vapid",
@@ -8685,365 +9082,363 @@
         "price": 60000
     },
     "onx_polvstr": {
-      "brand": "Albany",
-      "model": "onx_polvstr",
-      "category": "police",
-      "name": "Police VSTR",
-      "type": "automobile",
-      "hash": "onx_polvstr",
-      "price": 0
+        "brand": "Albany",
+        "model": "onx_polvstr",
+        "category": "police",
+        "name": "Police VSTR",
+        "type": "automobile",
+        "hash": "onx_polvstr",
+        "price": 0
     },
     "onx_polvigero": {
-      "brand": "Declasse",
-      "model": "onx_polvigero",
-      "category": "police",
-      "name": "Police Vigero",
-      "type": "automobile",
-      "hash": "onx_polvigero",
-      "price": 0
+        "brand": "Declasse",
+        "model": "onx_polvigero",
+        "category": "police",
+        "name": "Police Vigero",
+        "type": "automobile",
+        "hash": "onx_polvigero",
+        "price": 0
     },
     "onx_polverus": {
-      "brand": "Dinka",
-      "model": "onx_polverus",
-      "category": "police",
-      "name": "Police Verus",
-      "type": "automobile",
-      "hash": "onx_polverus",
-      "price": 0
+        "brand": "Dinka",
+        "model": "onx_polverus",
+        "category": "police",
+        "name": "Police Verus",
+        "type": "automobile",
+        "hash": "onx_polverus",
+        "price": 0
     },
     "onx_poltulip": {
-      "brand": "Declasse",
-      "model": "onx_poltulip",
-      "category": "police",
-      "name": "Police Tulip",
-      "type": "automobile",
-      "hash": "onx_poltulip",
-      "price": 0
+        "brand": "Declasse",
+        "model": "onx_poltulip",
+        "category": "police",
+        "name": "Police Tulip",
+        "type": "automobile",
+        "hash": "onx_poltulip",
+        "price": 0
     },
     "onx_polterm2": {
-      "brand": "Canis",
-      "model": "onx_polterm2",
-      "category": "police",
-      "name": "Police Terminus Mk2",
-      "type": "automobile",
-      "hash": "onx_polterm2",
-      "price": 0
+        "brand": "Canis",
+        "model": "onx_polterm2",
+        "category": "police",
+        "name": "Police Terminus Mk2",
+        "type": "automobile",
+        "hash": "onx_polterm2",
+        "price": 0
     },
     "onx_polterm": {
-      "brand": "Canis",
-      "model": "onx_polterm",
-      "category": "police",
-      "name": "Police Terminus",
-      "type": "automobile",
-      "hash": "onx_polterm",
-      "price": 0
+        "brand": "Canis",
+        "model": "onx_polterm",
+        "category": "police",
+        "name": "Police Terminus",
+        "type": "automobile",
+        "hash": "onx_polterm",
+        "price": 0
     },
     "onx_poltavros": {
-      "brand": "Vapid",
-      "model": "onx_poltavros",
-      "category": "police",
-      "name": "Police Tavros",
-      "type": "automobile",
-      "hash": "onx_poltavros",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_poltavros",
+        "category": "police",
+        "name": "Police Tavros",
+        "type": "automobile",
+        "hash": "onx_poltavros",
+        "price": 0
     },
     "onx_polstalk": {
-      "brand": "Dundreary",
-      "model": "onx_polstalk",
-      "category": "police",
-      "name": "Police Stalker",
-      "type": "automobile",
-      "hash": "onx_polstalk",
-      "price": 0
+        "brand": "Dundreary",
+        "model": "onx_polstalk",
+        "category": "police",
+        "name": "Police Stalker",
+        "type": "automobile",
+        "hash": "onx_polstalk",
+        "price": 0
     },
     "onx_polsem": {
-      "brand": "Canis",
-      "model": "onx_polsem",
-      "category": "police",
-      "name": "Police Seminole",
-      "type": "automobile",
-      "hash": "onx_polsem",
-      "price": 0
+        "brand": "Canis",
+        "model": "onx_polsem",
+        "category": "police",
+        "name": "Police Seminole",
+        "type": "automobile",
+        "hash": "onx_polsem",
+        "price": 0
     },
     "onx_polscout2": {
-      "brand": "Vapid",
-      "model": "onx_polscout2",
-      "category": "police",
-      "name": "Police Scout II",
-      "type": "automobile",
-      "hash": "onx_polscout2",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_polscout2",
+        "category": "police",
+        "name": "Police Scout II",
+        "type": "automobile",
+        "hash": "onx_polscout2",
+        "price": 0
     },
     "onx_polscout": {
-      "brand": "Vapid",
-      "model": "onx_polscout",
-      "category": "police",
-      "name": "Police Scout",
-      "type": "automobile",
-      "hash": "onx_polscout",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_polscout",
+        "category": "police",
+        "name": "Police Scout",
+        "type": "automobile",
+        "hash": "onx_polscout",
+        "price": 0
     },
     "onx_polsandxl": {
-      "brand": "Vapid",
-      "model": "onx_polsandxl",
-      "category": "police",
-      "name": "Police Sandking XL",
-      "type": "automobile",
-      "hash": "onx_polsandxl",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_polsandxl",
+        "category": "police",
+        "name": "Police Sandking XL",
+        "type": "automobile",
+        "hash": "onx_polsandxl",
+        "price": 0
     },
     "onx_polsandsc": {
-      "brand": "Vapid",
-      "model": "onx_polsandsc",
-      "category": "police",
-      "name": "Police Sandking SC",
-      "type": "automobile",
-      "hash": "onx_polsandsc",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_polsandsc",
+        "category": "police",
+        "name": "Police Sandking SC",
+        "type": "automobile",
+        "hash": "onx_polsandsc",
+        "price": 0
     },
     "onx_polsandh": {
-      "brand": "Vapid",
-      "model": "onx_polsandh",
-      "category": "police",
-      "name": "Police Sandking H",
-      "type": "automobile",
-      "hash": "onx_polsandh",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_polsandh",
+        "category": "police",
+        "name": "Police Sandking H",
+        "type": "automobile",
+        "hash": "onx_polsandh",
+        "price": 0
     },
     "onx_polsand": {
-      "brand": "Vapid",
-      "model": "onx_polsand",
-      "category": "police",
-      "name": "Police Sandking",
-      "type": "automobile",
-      "hash": "onx_polsand",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_polsand",
+        "category": "police",
+        "name": "Police Sandking",
+        "type": "automobile",
+        "hash": "onx_polsand",
+        "price": 0
     },
     "onx_polregentxl": {
-      "brand": "Brute",
-      "model": "onx_polregentxl",
-      "category": "police",
-      "name": "Police Regent XL",
-      "type": "automobile",
-      "hash": "onx_polregentxl",
-      "price": 0
+        "brand": "Brute",
+        "model": "onx_polregentxl",
+        "category": "police",
+        "name": "Police Regent XL",
+        "type": "automobile",
+        "hash": "onx_polregentxl",
+        "price": 0
     },
     "onx_polregent": {
-      "brand": "Brute",
-      "model": "onx_polregent",
-      "category": "police",
-      "name": "Police Regent",
-      "type": "automobile",
-      "hash": "onx_polregent",
-      "price": 0
+        "brand": "Brute",
+        "model": "onx_polregent",
+        "category": "police",
+        "name": "Police Regent",
+        "type": "automobile",
+        "hash": "onx_polregent",
+        "price": 0
     },
     "onx_polmonar": {
-      "brand": "Vapid",
-      "model": "onx_polmonar",
-      "category": "police",
-      "name": "Police Monaro",
-      "type": "automobile",
-      "hash": "onx_polmonar",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_polmonar",
+        "category": "police",
+        "name": "Police Monaro",
+        "type": "automobile",
+        "hash": "onx_polmonar",
+        "price": 0
     },
     "onx_polmerit3": {
-      "brand": "Declasse",
-      "model": "onx_polmerit3",
-      "category": "police",
-      "name": "Police Merit Mk3",
-      "type": "automobile",
-      "hash": "onx_polmerit3",
-      "price": 0
+        "brand": "Declasse",
+        "model": "onx_polmerit3",
+        "category": "police",
+        "name": "Police Merit Mk3",
+        "type": "automobile",
+        "hash": "onx_polmerit3",
+        "price": 0
     },
     "onx_polmerit": {
-      "brand": "Declasse",
-      "model": "onx_polmerit",
-      "category": "police",
-      "name": "Police Merit",
-      "type": "automobile",
-      "hash": "onx_polmerit",
-      "price": 0
+        "brand": "Declasse",
+        "model": "onx_polmerit",
+        "category": "police",
+        "name": "Police Merit",
+        "type": "automobile",
+        "hash": "onx_polmerit",
+        "price": 0
     },
     "onx_polkandra": {
-      "brand": "Übermacht",
-      "model": "onx_polkandra",
-      "category": "police",
-      "name": "Police Kandra",
-      "type": "automobile",
-      "hash": "onx_polkandra",
-      "price": 0
+        "brand": "Ãœbermacht",
+        "model": "onx_polkandra",
+        "category": "police",
+        "name": "Police Kandra",
+        "type": "automobile",
+        "hash": "onx_polkandra",
+        "price": 0
     },
     "onx_polinvict2": {
-      "brand": "Canis",
-      "model": "onx_polinvict2",
-      "category": "police",
-      "name": "Police Invictus Mk2",
-      "type": "automobile",
-      "hash": "onx_polinvict2",
-      "price": 0
+        "brand": "Canis",
+        "model": "onx_polinvict2",
+        "category": "police",
+        "name": "Police Invictus Mk2",
+        "type": "automobile",
+        "hash": "onx_polinvict2",
+        "price": 0
     },
     "onx_polinvict": {
-      "brand": "Canis",
-      "model": "onx_polinvict",
-      "category": "police",
-      "name": "Police Invictus",
-      "type": "automobile",
-      "hash": "onx_polinvict",
-      "price": 0
+        "brand": "Canis",
+        "model": "onx_polinvict",
+        "category": "police",
+        "name": "Police Invictus",
+        "type": "automobile",
+        "hash": "onx_polinvict",
+        "price": 0
     },
     "onx_polgrang2": {
-      "brand": "Declasse",
-      "model": "onx_polgrang2",
-      "category": "police",
-      "name": "Police Granger 2",
-      "type": "automobile",
-      "hash": "onx_polgrang2",
-      "price": 0
+        "brand": "Declasse",
+        "model": "onx_polgrang2",
+        "category": "police",
+        "name": "Police Granger 2",
+        "type": "automobile",
+        "hash": "onx_polgrang2",
+        "price": 0
     },
     "onx_polgrang": {
-      "brand": "Declasse",
-      "model": "onx_polgrang",
-      "category": "police",
-      "name": "Police Granger",
-      "type": "automobile",
-      "hash": "onx_polgrang",
-      "price": 0
+        "brand": "Declasse",
+        "model": "onx_polgrang",
+        "category": "police",
+        "name": "Police Granger",
+        "type": "automobile",
+        "hash": "onx_polgrang",
+        "price": 0
     },
     "onx_polgaunt": {
-      "brand": "Bravado",
-      "model": "onx_polgaunt",
-      "category": "police",
-      "name": "Police Gauntlet",
-      "type": "automobile",
-      "hash": "onx_polgaunt",
-      "price": 0
+        "brand": "Bravado",
+        "model": "onx_polgaunt",
+        "category": "police",
+        "name": "Police Gauntlet",
+        "type": "automobile",
+        "hash": "onx_polgaunt",
+        "price": 0
     },
     "onx_poldorado2": {
-      "brand": "Bravado",
-      "model": "onx_poldorado2",
-      "category": "police",
-      "name": "Police Eldorado Mk2",
-      "type": "automobile",
-      "hash": "onx_poldorado2",
-      "price": 0
+        "brand": "Bravado",
+        "model": "onx_poldorado2",
+        "category": "police",
+        "name": "Police Eldorado Mk2",
+        "type": "automobile",
+        "hash": "onx_poldorado2",
+        "price": 0
     },
     "onx_poldorado": {
-      "brand": "Bravado",
-      "model": "onx_poldorado",
-      "category": "police",
-      "name": "Police Eldorado",
-      "type": "automobile",
-      "hash": "onx_poldorado",
-      "price": 0
+        "brand": "Bravado",
+        "model": "onx_poldorado",
+        "category": "police",
+        "name": "Police Eldorado",
+        "type": "automobile",
+        "hash": "onx_poldorado",
+        "price": 0
     },
     "onx_poldom": {
-      "brand": "Vapid",
-      "model": "onx_poldom",
-      "category": "police",
-      "name": "Police Dominator",
-      "type": "automobile",
-      "hash": "onx_poldom",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_poldom",
+        "category": "police",
+        "name": "Police Dominator",
+        "type": "automobile",
+        "hash": "onx_poldom",
+        "price": 0
     },
     "onx_polcon": {
-      "brand": "Buckingham",
-      "model": "onx_polcon",
-      "category": "police",
-      "name": "Police Contender",
-      "type": "automobile",
-      "hash": "onx_polcon",
-      "price": 0
+        "brand": "Buckingham",
+        "model": "onx_polcon",
+        "category": "police",
+        "name": "Police Contender",
+        "type": "automobile",
+        "hash": "onx_polcon",
+        "price": 0
     },
     "onx_polcava": {
-      "brand": "Albany",
-      "model": "onx_polcava",
-      "category": "police",
-      "name": "Police Cavalcade",
-      "type": "automobile",
-      "hash": "onx_polcava",
-      "price": 0
+        "brand": "Albany",
+        "model": "onx_polcava",
+        "category": "police",
+        "name": "Police Cavalcade",
+        "type": "automobile",
+        "hash": "onx_polcava",
+        "price": 0
     },
     "onx_polcara": {
-      "brand": "Vapid",
-      "model": "onx_polcara",
-      "category": "police",
-      "name": "Police Caracara",
-      "type": "automobile",
-      "hash": "onx_polcara",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_polcara",
+        "category": "police",
+        "name": "Police Caracara",
+        "type": "automobile",
+        "hash": "onx_polcara",
+        "price": 0
     },
     "onx_polbuffhf": {
-      "brand": "Bravado",
-      "model": "onx_polbuffhf",
-      "category": "police",
-      "name": "Police Buffalo HF",
-      "type": "automobile",
-      "hash": "onx_polbuffhf",
-      "price": 0
+        "brand": "Bravado",
+        "model": "onx_polbuffhf",
+        "category": "police",
+        "name": "Police Buffalo HF",
+        "type": "automobile",
+        "hash": "onx_polbuffhf",
+        "price": 0
     },
     "onx_polbuff": {
-      "brand": "Bravado",
-      "model": "onx_polbuff",
-      "category": "police",
-      "name": "Police Buffalo",
-      "type": "automobile",
-      "hash": "onx_polbuff",
-      "price": 0
+        "brand": "Bravado",
+        "model": "onx_polbuff",
+        "category": "police",
+        "name": "Police Buffalo",
+        "type": "automobile",
+        "hash": "onx_polbuff",
+        "price": 0
     },
     "onx_polbison4": {
-      "brand": "Bravado",
-      "model": "onx_polbison4",
-      "category": "police",
-      "name": "Police Bison 4",
-      "type": "automobile",
-      "hash": "onx_polbison4",
-      "price": 0
+        "brand": "Bravado",
+        "model": "onx_polbison4",
+        "category": "police",
+        "name": "Police Bison 4",
+        "type": "automobile",
+        "hash": "onx_polbison4",
+        "price": 0
     },
     "onx_polbison3": {
-      "brand": "Bravado",
-      "model": "onx_polbison3",
-      "category": "police",
-      "name": "Police Bison 3",
-      "type": "automobile",
-      "hash": "onx_polbison3",
-      "price": 0
+        "brand": "Bravado",
+        "model": "onx_polbison3",
+        "category": "police",
+        "name": "Police Bison 3",
+        "type": "automobile",
+        "hash": "onx_polbison3",
+        "price": 0
     },
     "onx_polbison2": {
-      "brand": "Bravado",
-      "model": "onx_polbison2",
-      "category": "police",
-      "name": "Police Bison 2",
-      "type": "automobile",
-      "hash": "onx_polbison2",
-      "price": 0
+        "brand": "Bravado",
+        "model": "onx_polbison2",
+        "category": "police",
+        "name": "Police Bison 2",
+        "type": "automobile",
+        "hash": "onx_polbison2",
+        "price": 0
     },
     "onx_polbison": {
-      "brand": "Bravado",
-      "model": "onx_polbison",
-      "category": "police",
-      "name": "Police Bison",
-      "type": "automobile",
-      "hash": "onx_polbison",
-      "price": 0
+        "brand": "Bravado",
+        "model": "onx_polbison",
+        "category": "police",
+        "name": "Police Bison",
+        "type": "automobile",
+        "hash": "onx_polbison",
+        "price": 0
     },
     "onx_polaleu": {
-      "brand": "Vapid",
-      "model": "onx_polaleu",
-      "category": "police",
-      "name": "Police Aleutian",
-      "type": "automobile",
-      "hash": "onx_polaleu",
-      "price": 0
+        "brand": "Vapid",
+        "model": "onx_polaleu",
+        "category": "police",
+        "name": "Police Aleutian",
+        "type": "automobile",
+        "hash": "onx_polaleu",
+        "price": 0
     },
     "onx_polalamo": {
-      "brand": "Declasse",
-      "model": "onx_polalamo",
-      "category": "police",
-      "name": "Police Alamo",
-      "type": "automobile",
-      "hash": "onx_polalamo",
-      "price": 0
+        "brand": "Declasse",
+        "model": "onx_polalamo",
+        "category": "police",
+        "name": "Police Alamo",
+        "type": "automobile",
+        "hash": "onx_polalamo",
+        "price": 0
     }
-
-    
 }
