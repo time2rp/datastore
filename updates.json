@@ -1,19 +1,21 @@
 {
-  "patch": "2.0.10",
+  "patch": "2.0.11",
   "changes": [
     {
       "title": "Time2RP 2.0",
       "changes": [
-        "Ammunation Restock",
-        "Fuel pumps to PD stations",
-        "Fuel Effects",
-        "PD Helicopter Purchasing",
-        "Prison Jobs now notify of successful work",
-        "Unjailing ability for LEO",
-        "Theres new delivery services in city...",
-        "Eco changes",
-        "One's junk, is another's treasure",
-        "Bug fixes and other improvements"
+        "Fixed fueling issues for vehicles",
+        "Added Dirt Bag as a buyable item at U-Tool",
+        "Drug economy tweaked",
+        "Impound system updated",
+        "Weapons adjusted and updated",
+        "New Quest system at City Hall – be rewarded for exploring & doing!",
+        "Added garage at the Foundry",
+        "Bin searching reduced cooldown",
+        "Baggies now have a functional use",
+        "Guns now have more value – be careful with them (base gun decay added)",
+        "Updated pricing at PDM",
+        "Prison time now goes down while offline"
       ]
     }
   ]
