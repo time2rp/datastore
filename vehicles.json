@@ -15,7 +15,7 @@
         "name": "Jester RR",
         "type": "automobile",
         "hash": -1582061455,
-        "price": 79879,
+        "price": 750540,
         "vehicleClass": "S"
     },
     "marshall": {
@@ -52,7 +52,7 @@
         "name": "Massacro",
         "type": "automobile",
         "hash": -142942670,
-        "price": 83972,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "freightcont1": {
@@ -89,7 +89,7 @@
         "name": "Lynx",
         "type": "automobile",
         "hash": 482197771,
-        "price": 81739,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "hustler": {
@@ -99,7 +99,7 @@
         "name": "Hustler",
         "type": "automobile",
         "hash": 600450546,
-        "price": 72900,
+        "price": 11000,
         "vehicleClass": "D"
     },
     "seminole": {
@@ -109,7 +109,7 @@
         "name": "Seminole",
         "type": "automobile",
         "hash": 1221512915,
-        "price": 61393,
+        "price": 13500,
         "vehicleClass": "D"
     },
     "ztype": {
@@ -119,7 +119,7 @@
         "name": "Z-Type",
         "type": "automobile",
         "hash": 758895617,
-        "price": 84821,
+        "price": 14500,
         "vehicleClass": "C"
     },
     "gburrito": {
@@ -132,7 +132,7 @@
         "price": 61195
     },
     "autarch": {
-        "brand": "Ã–verflÃ¶d",
+        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
         "model": "autarch",
         "category": "super",
         "name": "Autarch",
@@ -147,7 +147,7 @@
         "name": "Powersurge",
         "type": "bike",
         "hash": -1386336041,
-        "price": 23026,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "diablous": {
@@ -157,7 +157,7 @@
         "name": "Diablous",
         "type": "bike",
         "hash": -239841468,
-        "price": 24745,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "dominator3": {
@@ -167,7 +167,7 @@
         "name": "Dominator GTX",
         "type": "automobile",
         "hash": -986944621,
-        "price": 77862,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "rocoto": {
@@ -177,7 +177,7 @@
         "name": "Rocoto",
         "type": "automobile",
         "hash": 2136773105,
-        "price": 67755,
+        "price": 30450,
         "vehicleClass": "B"
     },
     "trailers": {
@@ -196,7 +196,7 @@
         "name": "Avarus",
         "type": "bike",
         "hash": -2115793025,
-        "price": 23028,
+        "price": 7500,
         "vehicleClass": "M"
     },
     "thruster": {
@@ -215,7 +215,7 @@
         "name": "Super Diamond",
         "type": "automobile",
         "hash": 1123216662,
-        "price": 74712,
+        "price": 32200,
         "vehicleClass": "B"
     },
     "benson": {
@@ -234,7 +234,7 @@
         "name": "Champion",
         "type": "automobile",
         "hash": -915234475,
-        "price": 86582,
+        "price": 880540,
         "vehicleClass": "S"
     },
     "titan2": {
@@ -298,7 +298,7 @@
         "name": "Beater Dukes",
         "type": "automobile",
         "hash": 2134119907,
-        "price": 78577,
+        "price": 7500,
         "vehicleClass": "D"
     },
     "tampa2": {
@@ -317,7 +317,7 @@
         "name": "Michelli GT",
         "type": "automobile",
         "hash": 1046206681,
-        "price": 74020,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "molotok": {
@@ -363,7 +363,7 @@
         "name": "F620",
         "type": "automobile",
         "hash": -591610296,
-        "price": 79607,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "swift2": {
@@ -391,7 +391,7 @@
         "name": "Elegy Retro Custom",
         "type": "automobile",
         "hash": 196747873,
-        "price": 78735,
+        "price": 680540,
         "vehicleClass": "S"
     },
     "rebel2": {
@@ -437,7 +437,7 @@
         "name": "Manana",
         "type": "automobile",
         "hash": -2124201592,
-        "price": 60635,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "towtruck2": {
@@ -447,7 +447,7 @@
         "name": "Tow Truck (Small)",
         "type": "automobile",
         "hash": -442313018,
-        "price": 54821,
+        "price": 7500,
         "vehicleClass": "D"
     },
     "issi8": {
@@ -457,7 +457,7 @@
         "name": "Issi Rally",
         "type": "automobile",
         "hash": 1550581940,
-        "price": 79711,
+        "price": 45500,
         "vehicleClass": "B"
     },
     "mixer": {
@@ -476,7 +476,7 @@
         "name": "Blista",
         "type": "automobile",
         "hash": -344943009,
-        "price": 69371,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "brickade": {
@@ -495,7 +495,7 @@
         "name": "Ingot",
         "type": "automobile",
         "hash": -1289722222,
-        "price": 53344,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "s80": {
@@ -559,7 +559,7 @@
         "name": "Baller ST-D",
         "type": "automobile",
         "hash": -863358884,
-        "price": 77694,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "imperator": {
@@ -578,7 +578,7 @@
         "name": "Tornado Custom",
         "type": "automobile",
         "hash": -1797613329,
-        "price": 60890,
+        "price": 7000,
         "vehicleClass": "D"
     },
     "polgauntlet": {
@@ -597,7 +597,7 @@
         "name": "Chino",
         "type": "automobile",
         "hash": 349605904,
-        "price": 58651,
+        "price": 11500,
         "vehicleClass": "D"
     },
     "dominator2": {
@@ -607,7 +607,7 @@
         "name": "Pisswasser Dominator",
         "type": "automobile",
         "hash": -915704871,
-        "price": 81440,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "flatbed": {
@@ -620,13 +620,13 @@
         "price": 46633
     },
     "rhinehart": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "rhinehart",
         "category": "sedans",
         "name": "Rhinehart",
         "type": "automobile",
         "hash": -1855505138,
-        "price": 78276,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "pariah": {
@@ -636,7 +636,7 @@
         "name": "Pariah",
         "type": "automobile",
         "hash": 867799010,
-        "price": 81207,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "airbus": {
@@ -655,7 +655,7 @@
         "name": "Fusilade",
         "type": "automobile",
         "hash": 499169875,
-        "price": 81251,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "fq2": {
@@ -665,7 +665,7 @@
         "name": "FQ2",
         "type": "automobile",
         "hash": -1137532101,
-        "price": 65442,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "boxville2": {
@@ -678,13 +678,13 @@
         "price": 47273
     },
     "zion3": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "zion3",
         "category": "sportsclassics",
         "name": "Zion Classic",
         "type": "automobile",
         "hash": 1862507111,
-        "price": 74281,
+        "price": 13500,
         "vehicleClass": "C"
     },
     "asterope": {
@@ -694,7 +694,7 @@
         "name": "Asterope",
         "type": "automobile",
         "hash": -1903012613,
-        "price": 64174,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "armytrailer": {
@@ -722,7 +722,7 @@
         "name": "Bobcat XL Open",
         "type": "automobile",
         "hash": 1069929536,
-        "price": 58720,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "cavalcade2": {
@@ -750,7 +750,7 @@
         "name": "Baller",
         "type": "automobile",
         "hash": -808831384,
-        "price": 65628,
+        "price": 16500,
         "vehicleClass": "C"
     },
     "coach": {
@@ -769,7 +769,7 @@
         "name": "Diablous Custom",
         "type": "bike",
         "hash": 1790834270,
-        "price": 24901,
+        "price": 35000,
         "vehicleClass": "M"
     },
     "driftjester": {
@@ -806,7 +806,7 @@
         "name": "JB 700W",
         "type": "automobile",
         "hash": 394110044,
-        "price": 82400,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "freightcar2": {
@@ -843,7 +843,7 @@
         "name": "Futo",
         "type": "automobile",
         "hash": 2016857647,
-        "price": 74336,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "chavosv6": {
@@ -880,7 +880,7 @@
         "name": "Baller ST",
         "type": "automobile",
         "hash": 359875117,
-        "price": 77229,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "avenger": {
@@ -908,17 +908,17 @@
         "name": "Nebula Turbo",
         "type": "automobile",
         "hash": -882629065,
-        "price": 62877,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "imorgon": {
-        "brand": "Ã–verflÃ¶d",
+        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
         "model": "imorgon",
         "category": "sports",
         "name": "Imorgon",
         "type": "automobile",
         "hash": -1132721664,
-        "price": 76854,
+        "price": 529200,
         "vehicleClass": "A"
     },
     "conada": {
@@ -955,7 +955,7 @@
         "name": "BeeJay XL",
         "type": "automobile",
         "hash": 850565707,
-        "price": 60692,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "stalion2": {
@@ -965,7 +965,7 @@
         "name": "Stallion Burgershot",
         "type": "automobile",
         "hash": -401643538,
-        "price": 79092,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "exemplar": {
@@ -975,7 +975,7 @@
         "name": "Exemplar",
         "type": "automobile",
         "hash": -5153954,
-        "price": 79891,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "faction3": {
@@ -994,7 +994,7 @@
         "name": "9F",
         "type": "automobile",
         "hash": 1032823388,
-        "price": 81139,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "handler": {
@@ -1031,7 +1031,7 @@
         "name": "Komoda",
         "type": "automobile",
         "hash": -834353991,
-        "price": 83129,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "seminole2": {
@@ -1041,7 +1041,7 @@
         "name": "Seminole Frontier",
         "type": "automobile",
         "hash": -1810806490,
-        "price": 64904,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "barrage": {
@@ -1060,7 +1060,7 @@
         "name": "Comet Safari",
         "type": "automobile",
         "hash": 1561920505,
-        "price": 78289,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "blista3": {
@@ -1070,7 +1070,7 @@
         "name": "Blista Go Go Monkey",
         "type": "automobile",
         "hash": -591651781,
-        "price": 69291,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "ninef2": {
@@ -1098,7 +1098,7 @@
         "name": "Hermes",
         "type": "automobile",
         "hash": 15219735,
-        "price": 68776,
+        "price": 9500,
         "vehicleClass": "D"
     },
     "weevil2": {
@@ -1117,7 +1117,7 @@
         "name": "Mesa (Merryweather)",
         "type": "automobile",
         "hash": -2064372143,
-        "price": 57125,
+        "price": 14500,
         "vehicleClass": "C"
     },
     "ardent": {
@@ -1181,7 +1181,7 @@
         "name": "Blista Kanjo",
         "type": "automobile",
         "hash": 409049982,
-        "price": 73478,
+        "price": 242200,
         "vehicleClass": "A"
     },
     "skylift": {
@@ -1227,7 +1227,7 @@
         "name": "Felon",
         "type": "automobile",
         "hash": -391594584,
-        "price": 76088,
+        "price": 28700,
         "vehicleClass": "B"
     },
     "burrito": {
@@ -1237,7 +1237,7 @@
         "name": "Burrito (LSDWP)",
         "type": "automobile",
         "hash": -1346687836,
-        "price": 61195,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "duster": {
@@ -1265,7 +1265,7 @@
         "name": "Voltic",
         "type": "automobile",
         "hash": -1622444098,
-        "price": 60326,
+        "price": 31850,
         "vehicleClass": "B"
     },
     "omnis": {
@@ -1275,7 +1275,7 @@
         "name": "Omnis",
         "type": "automobile",
         "hash": -777172681,
-        "price": 73163,
+        "price": 45500,
         "vehicleClass": "B"
     },
     "driftnebula": {
@@ -1294,7 +1294,7 @@
         "name": "Roosevelt Valor",
         "type": "automobile",
         "hash": -602287871,
-        "price": 69018,
+        "price": 13500,
         "vehicleClass": "C"
     },
     "vamos": {
@@ -1304,7 +1304,7 @@
         "name": "Vamos",
         "type": "automobile",
         "hash": -49115651,
-        "price": 75751,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "tailgater2": {
@@ -1314,17 +1314,17 @@
         "name": "Tailgater S",
         "type": "automobile",
         "hash": -1244461404,
-        "price": 77411,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "oracle": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "oracle",
         "category": "coupes",
         "name": "Oracle XS",
         "type": "automobile",
         "hash": 1348744438,
-        "price": 75192,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "weevil": {
@@ -1334,7 +1334,7 @@
         "name": "Weevil",
         "type": "automobile",
         "hash": 1644055914,
-        "price": 53983,
+        "price": 12500,
         "vehicleClass": "D"
     },
     "asbo": {
@@ -1344,7 +1344,7 @@
         "name": "Asbo",
         "type": "automobile",
         "hash": 1118611807,
-        "price": 63020,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "coquette4": {
@@ -1399,7 +1399,7 @@
         "name": "Surge",
         "type": "automobile",
         "hash": -1894894188,
-        "price": 40605,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "pounder": {
@@ -1436,7 +1436,7 @@
         "name": "Bifta",
         "type": "automobile",
         "hash": -349601129,
-        "price": 74872,
+        "price": 11500,
         "vehicleClass": "D"
     },
     "cutter": {
@@ -1455,7 +1455,7 @@
         "name": "Minivan",
         "type": "automobile",
         "hash": -310465116,
-        "price": 58370,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "tropos": {
@@ -1474,7 +1474,7 @@
         "name": "Broadway",
         "type": "automobile",
         "hash": -1933242328,
-        "price": 61702,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "utillitruck3": {
@@ -1493,7 +1493,7 @@
         "name": "Elegy RH8",
         "type": "automobile",
         "hash": -566387422,
-        "price": 80339,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "slamvan5": {
@@ -1539,7 +1539,7 @@
         "name": "Baller LE",
         "type": "automobile",
         "hash": 1878062887,
-        "price": 74448,
+        "price": 179200,
         "vehicleClass": "A"
     },
     "penumbra2": {
@@ -1549,7 +1549,7 @@
         "name": "Penumbra FF",
         "type": "automobile",
         "hash": -631322662,
-        "price": 74920,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "barracks": {
@@ -1568,7 +1568,7 @@
         "name": "Zentorno",
         "type": "automobile",
         "hash": -1403128555,
-        "price": 82795,
+        "price": 459200,
         "vehicleClass": "A"
     },
     "nokota": {
@@ -1587,7 +1587,7 @@
         "name": "Gauntlet Classic",
         "type": "automobile",
         "hash": 722226637,
-        "price": 73572,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "deathbike3": {
@@ -1615,7 +1615,7 @@
         "name": "Hakuchou Drag",
         "type": "bike",
         "hash": -255678177,
-        "price": 27374,
+        "price": 75000,
         "vehicleClass": "M"
     },
     "gb200": {
@@ -1652,7 +1652,7 @@
         "name": "Blista Compact",
         "type": "automobile",
         "hash": 1039032026,
-        "price": 69291,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "brawler": {
@@ -1662,7 +1662,7 @@
         "name": "Brawler",
         "type": "automobile",
         "hash": -1479664699,
-        "price": 77578,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "driftcheburek": {
@@ -1717,7 +1717,7 @@
         "name": "Asea",
         "type": "automobile",
         "hash": -1809822327,
-        "price": 63374,
+        "price": 11600,
         "vehicleClass": "C"
     },
     "furia": {
@@ -1727,7 +1727,7 @@
         "name": "Furia",
         "type": "automobile",
         "hash": 960812448,
-        "price": 83110,
+        "price": 650540,
         "vehicleClass": "S"
     },
     "monstrociti": {
@@ -1737,7 +1737,7 @@
         "name": "MonstroCiti",
         "type": "automobile",
         "hash": 802856453,
-        "price": 68406,
+        "price": 14500,
         "vehicleClass": "C"
     },
     "everon2": {
@@ -1783,7 +1783,7 @@
         "name": "Clown Van",
         "type": "automobile",
         "hash": 728614474,
-        "price": 66002,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "bmx": {
@@ -1802,7 +1802,7 @@
         "name": "Lurcher",
         "type": "automobile",
         "hash": 2068293287,
-        "price": 78245,
+        "price": 8560,
         "vehicleClass": "D"
     },
     "manana2": {
@@ -1812,7 +1812,7 @@
         "name": "Manana Custom",
         "type": "automobile",
         "hash": 1717532765,
-        "price": 71516,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "chernobog": {
@@ -1858,7 +1858,7 @@
         "name": "Sandking",
         "type": "automobile",
         "hash": -1189015600,
-        "price": 63694,
+        "price": 27650,
         "vehicleClass": "C"
     },
     "bison": {
@@ -1868,7 +1868,7 @@
         "name": "Bison",
         "type": "automobile",
         "hash": -16948145,
-        "price": 62297,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "vigero2": {
@@ -1878,7 +1878,7 @@
         "name": "Vigero ZX",
         "type": "automobile",
         "hash": -1758379524,
-        "price": 82143,
+        "price": 70000000,
         "vehicleClass": "A"
     },
     "sheriff2": {
@@ -1906,7 +1906,7 @@
         "name": "Huntley S",
         "type": "automobile",
         "hash": 486987393,
-        "price": 74869,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "terminus": {
@@ -1916,7 +1916,7 @@
         "name": "Terminus",
         "type": "automobile",
         "hash": 167522317,
-        "price": 71490,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "zr380": {
@@ -1971,7 +1971,7 @@
         "name": "BF400",
         "type": "bike",
         "hash": 86520421,
-        "price": 23103,
+        "price": 35000,
         "vehicleClass": "M"
     },
     "zombieb": {
@@ -1981,7 +1981,7 @@
         "name": "Zombie Chopper",
         "type": "bike",
         "hash": -570033273,
-        "price": 23182,
+        "price": 7500,
         "vehicleClass": "M"
     },
     "deveste": {
@@ -2003,13 +2003,13 @@
         "price": 69772
     },
     "zion2": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "zion2",
         "category": "coupes",
         "name": "Zion Cabrio",
         "type": "automobile",
         "hash": -1193103848,
-        "price": 77752,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "impaler4": {
@@ -2028,7 +2028,7 @@
         "name": "Regina",
         "type": "automobile",
         "hash": -14495224,
-        "price": 50997,
+        "price": 8540,
         "vehicleClass": "D"
     },
     "yosemite": {
@@ -2050,17 +2050,17 @@
         "price": 56656
     },
     "zion": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "zion",
         "category": "coupes",
         "name": "Zion",
         "type": "automobile",
         "hash": -1122289213,
-        "price": 77752,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "zeno": {
-        "brand": "Ã–verflÃ¶d",
+        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
         "model": "zeno",
         "category": "super",
         "name": "Zeno",
@@ -2075,7 +2075,7 @@
         "name": "Blazer",
         "type": "automobile",
         "hash": -2128233223,
-        "price": 21457,
+        "price": 12500,
         "vehicleClass": "D"
     },
     "ignus": {
@@ -2130,7 +2130,7 @@
         "name": "Esskey",
         "type": "bike",
         "hash": 2035069708,
-        "price": 23138,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "swift": {
@@ -2167,7 +2167,7 @@
         "name": "Youga Custom",
         "type": "automobile",
         "hash": 1486521356,
-        "price": 60252,
+        "price": 14500,
         "vehicleClass": "C"
     },
     "comet7": {
@@ -2177,7 +2177,7 @@
         "name": "Comet S2 Cabrio",
         "type": "automobile",
         "hash": 1141395928,
-        "price": 83759,
+        "price": 780540,
         "vehicleClass": "S"
     },
     "mesa": {
@@ -2187,7 +2187,7 @@
         "name": "Mesa",
         "type": "automobile",
         "hash": 914654722,
-        "price": 57125,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "dune3": {
@@ -2206,7 +2206,7 @@
         "name": "Landstalker XL",
         "type": "automobile",
         "hash": -838099166,
-        "price": 62744,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "youga2": {
@@ -2216,7 +2216,7 @@
         "name": "Youga Classic",
         "type": "automobile",
         "hash": 1026149675,
-        "price": 55630,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "sadler2": {
@@ -2235,7 +2235,7 @@
         "name": "Youga",
         "type": "automobile",
         "hash": 65402552,
-        "price": 55630,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "tractor3": {
@@ -2317,7 +2317,7 @@
         "name": "Pigalle",
         "type": "automobile",
         "hash": 1078682497,
-        "price": 82282,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "freightgrain": {
@@ -2336,7 +2336,7 @@
         "name": "Tailgater",
         "type": "automobile",
         "hash": -1008861746,
-        "price": 64174,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "xls": {
@@ -2355,7 +2355,7 @@
         "name": "Glendale Custom",
         "type": "automobile",
         "hash": -913589546,
-        "price": 66105,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "xa21": {
@@ -2374,7 +2374,7 @@
         "name": "Wolfsbane",
         "type": "bike",
         "hash": -618617997,
-        "price": 19441,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "mesa2": {
@@ -2393,7 +2393,7 @@
         "name": "Comet Retro Custom",
         "type": "automobile",
         "hash": -2022483795,
-        "price": 83253,
+        "price": 220500,
         "vehicleClass": "A"
     },
     "carbonizzare": {
@@ -2412,7 +2412,7 @@
         "name": "Rancher XL",
         "type": "automobile",
         "hash": 1645267888,
-        "price": 58720,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "winky": {
@@ -2422,7 +2422,7 @@
         "name": "Winky",
         "type": "automobile",
         "hash": -210308634,
-        "price": 49504,
+        "price": 13700,
         "vehicleClass": "C"
     },
     "peyote3": {
@@ -2432,7 +2432,7 @@
         "name": "Peyote Custom",
         "type": "automobile",
         "hash": 1107404867,
-        "price": 70150,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "dominator": {
@@ -2442,7 +2442,7 @@
         "name": "Dominator",
         "type": "automobile",
         "hash": 80636076,
-        "price": 80149,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "mule3": {
@@ -2452,7 +2452,7 @@
         "name": "Mule (Heist)",
         "type": "automobile",
         "hash": -2052737935,
-        "price": 52599,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "rumpo3": {
@@ -2462,7 +2462,7 @@
         "name": "Rumpo Custom",
         "type": "automobile",
         "hash": 1475773103,
-        "price": 59206,
+        "price": 15500,
         "vehicleClass": "C"
     },
     "windsor": {
@@ -2472,7 +2472,7 @@
         "name": "Windsor",
         "type": "automobile",
         "hash": 1581459400,
-        "price": 79422,
+        "price": 27300,
         "vehicleClass": "B"
     },
     "sabregt": {
@@ -2482,7 +2482,7 @@
         "name": "Sabre Turbo",
         "type": "automobile",
         "hash": -1685021548,
-        "price": 77450,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "dinghy4": {
@@ -2501,7 +2501,7 @@
         "name": "Washington",
         "type": "automobile",
         "hash": 1777363799,
-        "price": 71053,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "hellion": {
@@ -2511,7 +2511,7 @@
         "name": "Hellion",
         "type": "automobile",
         "hash": -362150785,
-        "price": 66525,
+        "price": 34650,
         "vehicleClass": "B"
     },
     "riot2": {
@@ -2530,7 +2530,7 @@
         "name": "Savestra",
         "type": "automobile",
         "hash": 903794909,
-        "price": 72617,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "banshee3": {
@@ -2558,7 +2558,7 @@
         "name": "Stinger GT",
         "type": "automobile",
         "hash": -2098947590,
-        "price": 74712,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "sandking2": {
@@ -2568,7 +2568,7 @@
         "name": "Sandking SWB",
         "type": "automobile",
         "hash": 989381445,
-        "price": 63694,
+        "price": 27650,
         "vehicleClass": "C"
     },
     "barracks2": {
@@ -2605,7 +2605,7 @@
         "name": "Voodoo",
         "type": "automobile",
         "hash": 523724515,
-        "price": 63070,
+        "price": 7500,
         "vehicleClass": "D"
     },
     "submersible": {
@@ -2624,7 +2624,7 @@
         "name": "Growler",
         "type": "automobile",
         "hash": 1304459735,
-        "price": 82635,
+        "price": 1205400,
         "vehicleClass": "S"
     },
     "voodoo": {
@@ -2634,7 +2634,7 @@
         "name": "Voodoo Custom",
         "type": "automobile",
         "hash": 2006667053,
-        "price": 66162,
+        "price": 9500,
         "vehicleClass": "D"
     },
     "seashark": {
@@ -2662,7 +2662,7 @@
         "name": "Innovation",
         "type": "bike",
         "hash": -159126838,
-        "price": 23509,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "italirsx": {
@@ -2681,7 +2681,7 @@
         "name": "Vivanite",
         "type": "automobile",
         "hash": -1372798934,
-        "price": 46334,
+        "price": 16500,
         "vehicleClass": "C"
     },
     "faggio3": {
@@ -2691,7 +2691,7 @@
         "name": "Faggio Mod",
         "type": "bike",
         "hash": -1289178744,
-        "price": 14291,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "visione": {
@@ -2710,7 +2710,7 @@
         "name": "Viseris",
         "type": "automobile",
         "hash": -391595372,
-        "price": 78246,
+        "price": 31920,
         "vehicleClass": "B"
     },
     "polterminus": {
@@ -2747,7 +2747,7 @@
         "name": "Virgo Custom Classic",
         "type": "automobile",
         "hash": 16646064,
-        "price": 60554,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "virgo2": {
@@ -2757,7 +2757,7 @@
         "name": "Virgo Custom Classic",
         "type": "automobile",
         "hash": -899509638,
-        "price": 60758,
+        "price": 11500,
         "vehicleClass": "D"
     },
     "feltzer2": {
@@ -2767,7 +2767,7 @@
         "name": "Feltzer",
         "type": "automobile",
         "hash": -1995326987,
-        "price": 82235,
+        "price": 29750,
         "vehicleClass": "S"
     },
     "openwheel2": {
@@ -2786,7 +2786,7 @@
         "name": "Virgo",
         "type": "automobile",
         "hash": -498054846,
-        "price": 60554,
+        "price": 15600,
         "vehicleClass": "D"
     },
     "firebolt": {
@@ -2805,7 +2805,7 @@
         "name": "Faction",
         "type": "automobile",
         "hash": -2119578145,
-        "price": 77450,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "tr2": {
@@ -2869,7 +2869,7 @@
         "name": "Vigero ZX Convertible",
         "type": "automobile",
         "hash": 372621319,
-        "price": 81866,
+        "price": 556000,
         "vehicleClass": "S"
     },
     "vigero": {
@@ -2906,7 +2906,7 @@
         "name": "Granger",
         "type": "automobile",
         "hash": -1775728740,
-        "price": 60692,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "frogger": {
@@ -2946,13 +2946,13 @@
         "price": 1321065
     },
     "entity3": {
-        "brand": "Ã–verflÃ¶d",
+        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
         "model": "entity3",
         "category": "super",
         "name": "Entity MT",
         "type": "automobile",
         "hash": 1748565021,
-        "price": 89208,
+        "price": 650540,
         "vehicleClass": "S"
     },
     "fcr2": {
@@ -2962,7 +2962,7 @@
         "name": "FCR 1000 Custom",
         "type": "bike",
         "hash": -757735410,
-        "price": 24491,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "jester5": {
@@ -2981,7 +2981,7 @@
         "name": "Serrano",
         "type": "automobile",
         "hash": 1337041428,
-        "price": 66517,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "verus": {
@@ -2991,7 +2991,7 @@
         "name": "Verus",
         "type": "automobile",
         "hash": 298565713,
-        "price": 16526,
+        "price": 65000,
         "vehicleClass": "M"
     },
     "verlierer2": {
@@ -3001,7 +3001,7 @@
         "name": "Verlierer",
         "type": "automobile",
         "hash": 1102544804,
-        "price": 83280,
+        "price": 38500,
         "vehicleClass": "A"
     },
     "velum": {
@@ -3029,7 +3029,7 @@
         "name": "Bullet",
         "type": "automobile",
         "hash": -1696146015,
-        "price": 82565,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "crusader": {
@@ -3048,7 +3048,7 @@
         "name": "Nightblade",
         "type": "bike",
         "hash": -1606187161,
-        "price": 24551,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "ruffian": {
@@ -3058,7 +3058,7 @@
         "name": "Ruffian",
         "type": "bike",
         "hash": -893578776,
-        "price": 24413,
+        "price": 55000,
         "vehicleClass": "M"
     },
     "bruiser2": {
@@ -3086,7 +3086,7 @@
         "name": "Jubilee",
         "type": "automobile",
         "hash": 461465043,
-        "price": 71210,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "savage": {
@@ -3123,7 +3123,7 @@
         "name": "Sultan Custom",
         "type": "automobile",
         "hash": 872704284,
-        "price": 77184,
+        "price": 387800,
         "vehicleClass": "A"
     },
     "calico": {
@@ -3160,7 +3160,7 @@
         "name": "Stallion",
         "type": "automobile",
         "hash": 1923400478,
-        "price": 74781,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "utillitruck": {
@@ -3179,17 +3179,17 @@
         "name": "Clique Wagon",
         "type": "automobile",
         "hash": -979292575,
-        "price": 54902,
+        "price": 9500,
         "vehicleClass": "D"
     },
     "cypher": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "cypher",
         "category": "sports",
         "name": "Cypher",
         "type": "automobile",
         "hash": 1755697647,
-        "price": 75676,
+        "price": 880540,
         "vehicleClass": "S"
     },
     "felon2": {
@@ -3199,7 +3199,7 @@
         "name": "Felon GT",
         "type": "automobile",
         "hash": -89291282,
-        "price": 72343,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "armytanker": {
@@ -3221,7 +3221,7 @@
         "price": 5668
     },
     "tyrant": {
-        "brand": "Ã–verflÃ¶d",
+        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
         "model": "tyrant",
         "category": "super",
         "name": "Tyrant",
@@ -3245,7 +3245,7 @@
         "name": "Penumbra",
         "type": "automobile",
         "hash": -377465520,
-        "price": 67839,
+        "price": 27650,
         "vehicleClass": "A"
     },
     "cargoplane": {
@@ -3318,7 +3318,7 @@
         "name": "Casco",
         "type": "automobile",
         "hash": 941800958,
-        "price": 83125,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "turismor": {
@@ -3328,7 +3328,7 @@
         "name": "Grotti Turismo R",
         "type": "automobile",
         "hash": 408192225,
-        "price": 85403,
+        "price": 750540,
         "vehicleClass": "S"
     },
     "trailers4": {
@@ -3374,7 +3374,7 @@
         "name": "Slam Van Custom",
         "type": "automobile",
         "hash": 1119641113,
-        "price": 67005,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "tulip2": {
@@ -3384,7 +3384,7 @@
         "name": "Tulip M-100",
         "type": "automobile",
         "hash": 268758436,
-        "price": 74746,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "baller5": {
@@ -3412,7 +3412,7 @@
         "name": "Bagger",
         "type": "bike",
         "hash": -2140431165,
-        "price": 19934,
+        "price": 7500,
         "vehicleClass": "M"
     },
     "asterope2": {
@@ -3422,7 +3422,7 @@
         "name": "Asterope GZ",
         "type": "automobile",
         "hash": -741120335,
-        "price": 71306,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "tula": {
@@ -3444,7 +3444,7 @@
         "price": 94680
     },
     "driftsentinel": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "driftsentinel",
         "category": "sports",
         "name": "Sentinel Classic Widebody (Drift)",
@@ -3468,7 +3468,7 @@
         "name": "Rapid GT",
         "type": "automobile",
         "hash": -1934452204,
-        "price": 83599,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "trophytruck2": {
@@ -3496,7 +3496,7 @@
         "name": "Pony",
         "type": "automobile",
         "hash": -119658072,
-        "price": 61195,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "bombushka": {
@@ -3515,7 +3515,7 @@
         "name": "Reever",
         "type": "bike",
         "hash": 1993851908,
-        "price": 26269,
+        "price": 25500,
         "vehicleClass": "M"
     },
     "tribike2": {
@@ -3528,13 +3528,13 @@
         "price": 3622
     },
     "revolter": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "revolter",
         "category": "sports",
         "name": "Revolter",
         "type": "automobile",
         "hash": -410205223,
-        "price": 74872,
+        "price": 312200,
         "vehicleClass": "B"
     },
     "boattrailer2": {
@@ -3598,7 +3598,7 @@
         "name": "Sabre GT",
         "type": "automobile",
         "hash": 223258115,
-        "price": 77489,
+        "price": 24500,
         "vehicleClass": "B"
     },
     "trailersmall": {
@@ -3626,7 +3626,7 @@
         "name": "Emperor (Beater)",
         "type": "automobile",
         "hash": -1883002148,
-        "price": 56110,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "corsita": {
@@ -3636,7 +3636,7 @@
         "name": "Corsita",
         "type": "automobile",
         "hash": -754687673,
-        "price": 87616,
+        "price": 780540,
         "vehicleClass": "S"
     },
     "turismo3": {
@@ -3646,7 +3646,7 @@
         "name": "Turismo Omaggio",
         "type": "automobile",
         "hash": -122993285,
-        "price": 83545,
+        "price": 950540,
         "vehicleClass": "S"
     },
     "dominator6": {
@@ -3665,7 +3665,7 @@
         "name": "Defiler",
         "type": "bike",
         "hash": 822018448,
-        "price": 25616,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "kalahari": {
@@ -3675,7 +3675,7 @@
         "name": "Kalahari",
         "type": "automobile",
         "hash": 92612664,
-        "price": 59046,
+        "price": 9500,
         "vehicleClass": "D"
     },
     "inductor": {
@@ -3721,7 +3721,7 @@
         "name": "Premier",
         "type": "automobile",
         "hash": -1883869285,
-        "price": 63694,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "docktug": {
@@ -3731,7 +3731,7 @@
         "name": "Docktug",
         "type": "automobile",
         "hash": -884690486,
-        "price": 41473,
+        "price": 9500,
         "vehicleClass": "S"
     },
     "driftfr36": {
@@ -3750,7 +3750,7 @@
         "name": "Contender",
         "type": "automobile",
         "hash": 683047626,
-        "price": 68578,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "deity": {
@@ -3787,7 +3787,7 @@
         "name": "Duneloader",
         "type": "automobile",
         "hash": 1770332643,
-        "price": 55231,
+        "price": 7500,
         "vehicleClass": "D"
     },
     "squaddie": {
@@ -3833,7 +3833,7 @@
         "name": "Gresley",
         "type": "automobile",
         "hash": -1543762099,
-        "price": 63694,
+        "price": 34300,
         "vehicleClass": "B"
     },
     "monster": {
@@ -3852,7 +3852,7 @@
         "name": "Surfer",
         "type": "automobile",
         "hash": 699456151,
-        "price": 34505,
+        "price": 7500,
         "vehicleClass": "D"
     },
     "baller2": {
@@ -3862,7 +3862,7 @@
         "name": "Baller",
         "type": "automobile",
         "hash": 142944341,
-        "price": 74432,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "buffalo2": {
@@ -3872,7 +3872,7 @@
         "name": "Buffalo S",
         "type": "automobile",
         "hash": 736902334,
-        "price": 77026,
+        "price": 227500,
         "vehicleClass": "A"
     },
     "comet6": {
@@ -3882,7 +3882,7 @@
         "name": "Comet S2",
         "type": "automobile",
         "hash": -1726022652,
-        "price": 83378,
+        "price": 680540,
         "vehicleClass": "S"
     },
     "avenger3": {
@@ -3910,7 +3910,7 @@
         "name": "Tow Truck (Beater)",
         "type": "automobile",
         "hash": -671564942,
-        "price": 62901,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "towtruck": {
@@ -3929,7 +3929,7 @@
         "name": "Ruiner",
         "type": "automobile",
         "hash": -227741703,
-        "price": 80117,
+        "price": 319200,
         "vehicleClass": "A"
     },
     "tourbus": {
@@ -4029,7 +4029,7 @@
         "name": "Tornado",
         "type": "automobile",
         "hash": 464687292,
-        "price": 60635,
+        "price": 7850,
         "vehicleClass": "D"
     },
     "sugoi": {
@@ -4039,7 +4039,7 @@
         "name": "Sugoi",
         "type": "automobile",
         "hash": 987469656,
-        "price": 75269,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "tampa3": {
@@ -4067,7 +4067,7 @@
         "name": "Emperor",
         "type": "automobile",
         "hash": -685276541,
-        "price": 56110,
+        "price": 8000,
         "vehicleClass": "D"
     },
     "tulip": {
@@ -4077,7 +4077,7 @@
         "name": "Tulip",
         "type": "automobile",
         "hash": 1456744817,
-        "price": 80611,
+        "price": 31500,
         "vehicleClass": "B"
     },
     "tiptruck": {
@@ -4114,7 +4114,7 @@
         "name": "Dilettante",
         "type": "automobile",
         "hash": -1130810103,
-        "price": 40298,
+        "price": 12300,
         "vehicleClass": "C"
     },
     "thrust": {
@@ -4124,7 +4124,7 @@
         "name": "Thrust",
         "type": "bike",
         "hash": 1836027715,
-        "price": 25865,
+        "price": 45500,
         "vehicleClass": "M"
     },
     "dilettante2": {
@@ -4143,7 +4143,7 @@
         "name": "Speedo",
         "type": "automobile",
         "hash": -810318068,
-        "price": 66002,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "daemon2": {
@@ -4153,7 +4153,7 @@
         "name": "Daemon Custom",
         "type": "bike",
         "hash": -1404136503,
-        "price": 22423,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "turismo2": {
@@ -4163,7 +4163,7 @@
         "name": "Turismo Classic",
         "type": "automobile",
         "hash": -982130927,
-        "price": 81835,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "picador": {
@@ -4173,7 +4173,7 @@
         "name": "Picador",
         "type": "automobile",
         "hash": 1507916787,
-        "price": 67839,
+        "price": 14500,
         "vehicleClass": "C"
     },
     "phantom": {
@@ -4219,7 +4219,7 @@
         "name": "Akuma",
         "type": "bike",
         "hash": 1672195559,
-        "price": 25356,
+        "price": 7500,
         "vehicleClass": "M"
     },
     "stafford": {
@@ -4229,7 +4229,7 @@
         "name": "Stafford",
         "type": "automobile",
         "hash": 321186144,
-        "price": 62882,
+        "price": 9500,
         "vehicleClass": "D"
     },
     "technical3": {
@@ -4257,7 +4257,7 @@
         "name": "Faction Rider",
         "type": "automobile",
         "hash": -1790546981,
-        "price": 77450,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "deathbike": {
@@ -4330,7 +4330,7 @@
         "name": "Cognoscenti",
         "type": "automobile",
         "hash": -2030171296,
-        "price": 75535,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "jester3": {
@@ -4340,7 +4340,7 @@
         "name": "Jester Classic",
         "type": "automobile",
         "hash": -214906006,
-        "price": 80462,
+        "price": 388500,
         "vehicleClass": "B"
     },
     "sultan": {
@@ -4368,7 +4368,7 @@
         "name": "Adder",
         "type": "automobile",
         "hash": -1216765807,
-        "price": 86065,
+        "price": 459200,
         "vehicleClass": "A"
     },
     "dominator9": {
@@ -4414,7 +4414,7 @@
         "name": "Tampa",
         "type": "automobile",
         "hash": 972671128,
-        "price": 70442,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "tahoma": {
@@ -4424,7 +4424,7 @@
         "name": "Tahoma Coupe",
         "type": "automobile",
         "hash": -461850249,
-        "price": 72249,
+        "price": 7500,
         "vehicleClass": "D"
     },
     "mule": {
@@ -4434,7 +4434,7 @@
         "name": "Mule",
         "type": "automobile",
         "hash": 904750859,
-        "price": 47273,
+        "price": 7500,
         "vehicleClass": "D"
     },
     "taco": {
@@ -4444,7 +4444,7 @@
         "name": "Taco Van",
         "type": "automobile",
         "hash": 1951180813,
-        "price": 47273,
+        "price": 7500,
         "vehicleClass": "D"
     },
     "brutus3": {
@@ -4463,7 +4463,7 @@
         "name": "Manchez Scout",
         "type": "bike",
         "hash": 1086534307,
-        "price": 21545,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "t20": {
@@ -4473,7 +4473,7 @@
         "name": "Progen T20",
         "type": "automobile",
         "hash": 1663218586,
-        "price": 83022,
+        "price": 599200,
         "vehicleClass": "A"
     },
     "bodhi2": {
@@ -4483,7 +4483,7 @@
         "name": "Bodhi",
         "type": "automobile",
         "hash": -1435919434,
-        "price": 59867,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "castigator": {
@@ -4529,7 +4529,7 @@
         "name": "Tow Truck",
         "type": "automobile",
         "hash": -902029319,
-        "price": 62901,
+        "price": 9500,
         "vehicleClass": "D"
     },
     "riot": {
@@ -4557,7 +4557,7 @@
         "name": "Surano",
         "type": "automobile",
         "hash": 384071873,
-        "price": 83971,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "supervolito2": {
@@ -4612,7 +4612,7 @@
         "name": "Sultan Classic Custom",
         "type": "automobile",
         "hash": -291021213,
-        "price": 78067,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "cerberus2": {
@@ -4631,7 +4631,7 @@
         "name": "Progen Emerus",
         "type": "automobile",
         "hash": 1323778901,
-        "price": 85112,
+        "price": 650540,
         "vehicleClass": "S"
     },
     "vagner": {
@@ -4644,7 +4644,7 @@
         "price": 87808
     },
     "sc1": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "sc1",
         "category": "super",
         "name": "SC1",
@@ -4668,7 +4668,7 @@
         "name": "Cheetah Classic",
         "type": "automobile",
         "hash": 223240013,
-        "price": 82724,
+        "price": 529200,
         "vehicleClass": "A"
     },
     "monroe": {
@@ -4678,7 +4678,7 @@
         "name": "Monroe",
         "type": "automobile",
         "hash": -433375717,
-        "price": 82544,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "jester": {
@@ -4697,7 +4697,7 @@
         "name": "Phoenix",
         "type": "automobile",
         "hash": -2095439403,
-        "price": 78433,
+        "price": 33600,
         "vehicleClass": "B"
     },
     "stunt": {
@@ -4716,7 +4716,7 @@
         "name": "Stryder",
         "type": "bike",
         "hash": 301304410,
-        "price": 26711,
+        "price": 35000,
         "vehicleClass": "M"
     },
     "bison3": {
@@ -4744,7 +4744,7 @@
         "name": "Stretch",
         "type": "automobile",
         "hash": -1961627517,
-        "price": 63950,
+        "price": 18500,
         "vehicleClass": "C"
     },
     "speedo5": {
@@ -4790,7 +4790,7 @@
         "name": "Daemon",
         "type": "bike",
         "hash": 2006142190,
-        "price": 22321,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "policet3": {
@@ -4872,7 +4872,7 @@
         "name": "V-STR",
         "type": "automobile",
         "hash": 1456336509,
-        "price": 79649,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "volatus": {
@@ -4927,7 +4927,7 @@
         "name": "Stanier",
         "type": "automobile",
         "hash": -1477580979,
-        "price": 71053,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "tempesta": {
@@ -4937,7 +4937,7 @@
         "name": "Tempesta",
         "type": "automobile",
         "hash": 272929391,
-        "price": 81980,
+        "price": 850540,
         "vehicleClass": "S"
     },
     "dump": {
@@ -4950,13 +4950,13 @@
         "price": 24629
     },
     "rebla": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "rebla",
         "category": "suvs",
         "name": "Rebla GTS",
         "type": "automobile",
         "hash": 83136452,
-        "price": 77543,
+        "price": 249200,
         "vehicleClass": "A"
     },
     "freecrawler": {
@@ -4993,7 +4993,7 @@
         "name": "Banshee",
         "type": "automobile",
         "hash": -1041692462,
-        "price": 79495,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "rapidgt3": {
@@ -5003,7 +5003,7 @@
         "name": "Rapid GT Classic",
         "type": "automobile",
         "hash": 2049897956,
-        "price": 77766,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "retinue2": {
@@ -5013,7 +5013,7 @@
         "name": "Retinue MKII",
         "type": "automobile",
         "hash": 2031587082,
-        "price": 76099,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "cargobob4": {
@@ -5050,7 +5050,7 @@
         "name": "Manchez Scout C",
         "type": "bike",
         "hash": 1384502824,
-        "price": 21632,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "cruiser": {
@@ -5114,7 +5114,7 @@
         "name": "Specter Custom",
         "type": "automobile",
         "hash": 1074745671,
-        "price": 82332,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "cog55": {
@@ -5124,7 +5124,7 @@
         "name": "Cognoscenti 55",
         "type": "automobile",
         "hash": 906642318,
-        "price": 76441,
+        "price": 227500,
         "vehicleClass": "A"
     },
     "specter": {
@@ -5134,7 +5134,7 @@
         "name": "Specter",
         "type": "automobile",
         "hash": 1886268224,
-        "price": 81060,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "btype2": {
@@ -5144,7 +5144,7 @@
         "name": "Franken Stange",
         "type": "automobile",
         "hash": -831834716,
-        "price": 74624,
+        "price": 10500,
         "vehicleClass": "D"
     },
     "sovereign": {
@@ -5154,7 +5154,7 @@
         "name": "Sovereign",
         "type": "bike",
         "hash": 743478836,
-        "price": 23078,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "slamvan4": {
@@ -5173,7 +5173,7 @@
         "name": "Sanctus",
         "type": "bike",
         "hash": 1491277511,
-        "price": 24351,
+        "price": 25500,
         "vehicleClass": "M"
     },
     "apc": {
@@ -5201,7 +5201,7 @@
         "name": "Gauntlet",
         "type": "automobile",
         "hash": -1800170043,
-        "price": 78237,
+        "price": 249200,
         "vehicleClass": "A"
     },
     "ellie": {
@@ -5211,7 +5211,7 @@
         "name": "Ellie",
         "type": "automobile",
         "hash": -1267543371,
-        "price": 75782,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "camper": {
@@ -5221,7 +5221,7 @@
         "name": "Camper",
         "type": "automobile",
         "hash": 1876516712,
-        "price": 50131,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "journey2": {
@@ -5249,7 +5249,7 @@
         "name": "Lost Slam Van",
         "type": "automobile",
         "hash": 833469436,
-        "price": 67165,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "formula": {
@@ -5286,7 +5286,7 @@
         "name": "Streiter",
         "type": "automobile",
         "hash": 1741861769,
-        "price": 71204,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "tvtrailer": {
@@ -5341,21 +5341,21 @@
         "name": "SM722",
         "type": "automobile",
         "hash": 775514032,
-        "price": 80260,
+        "price": 750540,
         "vehicleClass": "S"
     },
     "sentinel3": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "sentinel3",
         "category": "sports",
         "name": "Sentinel Classic",
         "type": "automobile",
         "hash": 1104234922,
-        "price": 74166,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "sentinel2": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "sentinel2",
         "category": "coupes",
         "name": " Sentinel XS",
@@ -5379,17 +5379,17 @@
         "name": "300R",
         "type": "automobile",
         "hash": 1076201208,
-        "price": 79467,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "sentinel": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "sentinel",
         "category": "coupes",
         "name": "Sentinel",
         "type": "automobile",
         "hash": 1349725314,
-        "price": 75585,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "seven70": {
@@ -5426,7 +5426,7 @@
         "name": "Schwartzer",
         "type": "automobile",
         "hash": -746882698,
-        "price": 80250,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "schlagen": {
@@ -5436,7 +5436,7 @@
         "name": "Schlagen GT",
         "type": "automobile",
         "hash": -507495760,
-        "price": 86368,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "driftyosemite": {
@@ -5482,7 +5482,7 @@
         "name": "Hexer",
         "type": "bike",
         "hash": 301427732,
-        "price": 22521,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "schafter3": {
@@ -5492,7 +5492,7 @@
         "name": "Schafter V12",
         "type": "automobile",
         "hash": -1485523546,
-        "price": 83088,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "schafter2": {
@@ -5502,7 +5502,7 @@
         "name": "Schafter",
         "type": "automobile",
         "hash": -1255452397,
-        "price": 65682,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "tractor": {
@@ -5539,7 +5539,7 @@
         "name": "Sprunk Buffalo",
         "type": "automobile",
         "hash": 237764926,
-        "price": 80264,
+        "price": 249200,
         "vehicleClass": "A"
     },
     "gp1": {
@@ -5549,7 +5549,7 @@
         "name": "GP1",
         "type": "automobile",
         "hash": 1234311532,
-        "price": 84220,
+        "price": 780540,
         "vehicleClass": "S"
     },
     "baller4": {
@@ -5559,7 +5559,7 @@
         "name": "Baller LE LWB",
         "type": "automobile",
         "hash": 634118882,
-        "price": 74384,
+        "price": 249200,
         "vehicleClass": "A"
     },
     "blazer2": {
@@ -5587,7 +5587,7 @@
         "name": "Warrener HKR",
         "type": "automobile",
         "hash": 579912970,
-        "price": 67374,
+        "price": 29750,
         "vehicleClass": "B"
     },
     "vortex": {
@@ -5597,11 +5597,11 @@
         "name": "Vortex",
         "type": "bike",
         "hash": -609625092,
-        "price": 25612,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "sentinel4": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "sentinel4",
         "category": "sports",
         "name": "Sentinel Classic Widebody",
@@ -5616,7 +5616,7 @@
         "name": "Sanchez (livery)",
         "type": "bike",
         "hash": 788045382,
-        "price": 20686,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "freightcar": {
@@ -5644,7 +5644,7 @@
         "name": "Minivan Custom",
         "type": "automobile",
         "hash": -1126264336,
-        "price": 58450,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "brioso2": {
@@ -5654,7 +5654,7 @@
         "name": "Brioso 300",
         "type": "automobile",
         "hash": 1429622905,
-        "price": 54291,
+        "price": 13500,
         "vehicleClass": "C"
     },
     "wastelander": {
@@ -5682,7 +5682,7 @@
         "name": "Kamacho",
         "type": "automobile",
         "hash": -121446169,
-        "price": 67315,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "rumpo": {
@@ -5692,7 +5692,7 @@
         "name": "Rumpo",
         "type": "automobile",
         "hash": 1162065741,
-        "price": 63310,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "ruiner4": {
@@ -5702,7 +5702,7 @@
         "name": "Ruiner ZZ-8",
         "type": "automobile",
         "hash": 1706945532,
-        "price": 80458,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "ruiner2": {
@@ -5748,7 +5748,7 @@
         "name": "Buffalo STX",
         "type": "automobile",
         "hash": -619930876,
-        "price": 80516,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "romero": {
@@ -5758,17 +5758,17 @@
         "name": "Romero Hearse",
         "type": "automobile",
         "hash": 627094268,
-        "price": 53105,
+        "price": 7500,
         "vehicleClass": "D"
     },
     "oracle2": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "oracle2",
         "category": "coupes",
         "name": "Oracle",
         "type": "automobile",
         "hash": -511601230,
-        "price": 76907,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "rhapsody": {
@@ -5787,7 +5787,7 @@
         "name": "Retinue",
         "type": "automobile",
         "hash": 1841130506,
-        "price": 70738,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "rentalbus": {
@@ -5806,7 +5806,7 @@
         "name": "Remus",
         "type": "automobile",
         "hash": 1377217886,
-        "price": 78314,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "squalo": {
@@ -5825,7 +5825,7 @@
         "name": "Rusty Rebel",
         "type": "automobile",
         "hash": -1207771834,
-        "price": 63694,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "brickade2": {
@@ -5880,7 +5880,7 @@
         "name": "Rat Bike",
         "type": "bike",
         "hash": 1873600305,
-        "price": 19441,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "raptor": {
@@ -5935,7 +5935,7 @@
         "name": "Faggio Sport",
         "type": "bike",
         "hash": -1842748181,
-        "price": 14728,
+        "price": 7500,
         "vehicleClass": "M"
     },
     "baller6": {
@@ -5966,7 +5966,7 @@
         "price": 2712193
     },
     "niobe": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "niobe",
         "category": "sports",
         "name": "Niobe",
@@ -5990,7 +5990,7 @@
         "name": "Dominator GTT",
         "type": "automobile",
         "hash": 736672010,
-        "price": 76296,
+        "price": 290500,
         "vehicleClass": "A"
     },
     "eudora": {
@@ -6000,7 +6000,7 @@
         "name": "Eudora",
         "type": "automobile",
         "hash": -1249788006,
-        "price": 66819,
+        "price": 6500,
         "vehicleClass": "D"
     },
     "cerberus3": {
@@ -6028,7 +6028,7 @@
         "name": "Radius",
         "type": "automobile",
         "hash": -1651067813,
-        "price": 65522,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "hotknife": {
@@ -6038,7 +6038,7 @@
         "name": "Hotknife",
         "type": "automobile",
         "hash": 37348240,
-        "price": 74328,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "pyro": {
@@ -6057,7 +6057,7 @@
         "name": "Blazer Sport",
         "type": "automobile",
         "hash": -440768424,
-        "price": 24453,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "surfer3": {
@@ -6094,7 +6094,7 @@
         "name": "Primo Custom",
         "type": "automobile",
         "hash": -2040426790,
-        "price": 64174,
+        "price": 13500,
         "vehicleClass": "C"
     },
     "primo": {
@@ -6104,7 +6104,7 @@
         "name": "Primo",
         "type": "automobile",
         "hash": -1150599089,
-        "price": 64174,
+        "price": 13000,
         "vehicleClass": "D"
     },
     "nero2": {
@@ -6141,7 +6141,7 @@
         "name": "Fagaloa",
         "type": "automobile",
         "hash": 1617472902,
-        "price": 57546,
+        "price": 10560,
         "vehicleClass": "D"
     },
     "prairie": {
@@ -6151,7 +6151,7 @@
         "name": "Prairie",
         "type": "automobile",
         "hash": -1450650718,
-        "price": 67519,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "pounder2": {
@@ -6188,7 +6188,7 @@
         "name": "Dukes",
         "type": "automobile",
         "hash": 723973206,
-        "price": 79383,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "nero": {
@@ -6225,7 +6225,7 @@
         "name": "Lectro",
         "type": "bike",
         "hash": 640818791,
-        "price": 27225,
+        "price": 25500,
         "vehicleClass": "M"
     },
     "gt500": {
@@ -6235,7 +6235,7 @@
         "name": "GT500",
         "type": "automobile",
         "hash": -2079788230,
-        "price": 76158,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "polimpaler6": {
@@ -6290,7 +6290,7 @@
         "name": "Bati 801",
         "type": "bike",
         "hash": -114291515,
-        "price": 25838,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "voltic2": {
@@ -6327,7 +6327,7 @@
         "name": "Banshee 900R",
         "type": "automobile",
         "hash": 633712403,
-        "price": 74887,
+        "price": 10000000,
         "vehicleClass": "S"
     },
     "policeb": {
@@ -6355,7 +6355,7 @@
         "name": "Chino Custom",
         "type": "automobile",
         "hash": -1361687965,
-        "price": 60394,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "paragon": {
@@ -6365,7 +6365,7 @@
         "name": "Paragon",
         "type": "automobile",
         "hash": -447711397,
-        "price": 75255,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "chimera": {
@@ -6375,7 +6375,7 @@
         "name": "Chimera",
         "type": "bike",
         "hash": 6774487,
-        "price": 22412,
+        "price": 35000,
         "vehicleClass": "M"
     },
     "police5": {
@@ -6412,7 +6412,7 @@
         "name": "Neon",
         "type": "automobile",
         "hash": -1848994066,
-        "price": 65765,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "driftremus": {
@@ -6458,7 +6458,7 @@
         "name": "FR36",
         "type": "automobile",
         "hash": -465825307,
-        "price": 78667,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "police2": {
@@ -6480,7 +6480,7 @@
         "price": 60938
     },
     "pipistrello": {
-        "brand": "Ã–verflÃ¶d",
+        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
         "model": "pipistrello",
         "category": "super",
         "name": "Pipistrello",
@@ -6504,7 +6504,7 @@
         "name": "Zombie Bobber",
         "type": "bike",
         "hash": -1009268949,
-        "price": 23182,
+        "price": 10000,
         "vehicleClass": "M"
     },
     "burrito5": {
@@ -6523,7 +6523,7 @@
         "name": "Windsor Drop",
         "type": "automobile",
         "hash": -1930048799,
-        "price": 79252,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "ruston": {
@@ -6533,7 +6533,7 @@
         "name": "Ruston",
         "type": "automobile",
         "hash": 719660200,
-        "price": 78365,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "peyote": {
@@ -6543,7 +6543,7 @@
         "name": "Peyote",
         "type": "automobile",
         "hash": 1830407356,
-        "price": 60635,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "penetrator": {
@@ -6616,7 +6616,7 @@
         "name": "Panto",
         "type": "automobile",
         "hash": -431692672,
-        "price": 67549,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "panthere": {
@@ -6680,7 +6680,7 @@
         "name": "Novak",
         "type": "automobile",
         "hash": -1829436850,
-        "price": 78077,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "raiden": {
@@ -6690,7 +6690,7 @@
         "name": "Raiden",
         "type": "automobile",
         "hash": -1529242755,
-        "price": 64370,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "nimbus": {
@@ -6709,7 +6709,7 @@
         "name": "Journey",
         "type": "automobile",
         "hash": -120287622,
-        "price": 52886,
+        "price": 11000,
         "vehicleClass": "D"
     },
     "buffalo5": {
@@ -6719,7 +6719,7 @@
         "name": "Buffalo EVX",
         "type": "automobile",
         "hash": 165968051,
-        "price": 83332,
+        "price": 750540,
         "vehicleClass": "S"
     },
     "issi7": {
@@ -6729,7 +6729,7 @@
         "name": "Issi Sport",
         "type": "automobile",
         "hash": 1854776567,
-        "price": 70443,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "pony2": {
@@ -6757,7 +6757,7 @@
         "name": "Neo",
         "type": "automobile",
         "hash": -1620126302,
-        "price": 85696,
+        "price": 750540,
         "vehicleClass": "S"
     },
     "dubsta3": {
@@ -6794,7 +6794,7 @@
         "name": "Nemesis",
         "type": "bike",
         "hash": -634879114,
-        "price": 23612,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "mule5": {
@@ -6813,7 +6813,7 @@
         "name": "Mamba",
         "type": "automobile",
         "hash": -1660945322,
-        "price": 81429,
+        "price": 24850,
         "vehicleClass": "A"
     },
     "mule4": {
@@ -6823,7 +6823,7 @@
         "name": "Mule Custom",
         "type": "automobile",
         "hash": 1945374990,
-        "price": 47273,
+        "price": 9500,
         "vehicleClass": "D"
     },
     "fcr": {
@@ -6833,7 +6833,7 @@
         "name": "FCR 1000",
         "type": "bike",
         "hash": 627535535,
-        "price": 24321,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "moonbeam": {
@@ -6843,7 +6843,7 @@
         "name": "Moonbeam",
         "type": "automobile",
         "hash": 525509695,
-        "price": 68586,
+        "price": 13500,
         "vehicleClass": "C"
     },
     "boor": {
@@ -6853,7 +6853,7 @@
         "name": "Boor",
         "type": "automobile",
         "hash": 996383885,
-        "price": 67237,
+        "price": 12500,
         "vehicleClass": "D"
     },
     "monster4": {
@@ -6962,7 +6962,7 @@
         "name": "Manchez",
         "type": "bike",
         "hash": -1523428744,
-        "price": 23138,
+        "price": 7500,
         "vehicleClass": "M"
     },
     "impaler5": {
@@ -6972,7 +6972,7 @@
         "name": "Impaler SZ",
         "type": "automobile",
         "hash": -478639183,
-        "price": 78875,
+        "price": 9500,
         "vehicleClass": "D"
     },
     "longfin": {
@@ -6991,7 +6991,7 @@
         "name": "Locust",
         "type": "automobile",
         "hash": -941272559,
-        "price": 81371,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "annihilator2": {
@@ -7010,7 +7010,7 @@
         "name": "Lifeguard",
         "type": "automobile",
         "hash": 469291905,
-        "price": 62617,
+        "price": 16500,
         "vehicleClass": "C"
     },
     "lazer": {
@@ -7029,7 +7029,7 @@
         "name": "Walton L35",
         "type": "automobile",
         "hash": -1763675285,
-        "price": 64429,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "kuruma": {
@@ -7039,7 +7039,7 @@
         "name": "Kuruma",
         "type": "automobile",
         "hash": -1372848492,
-        "price": 77445,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "krieger": {
@@ -7067,7 +7067,7 @@
         "name": "Khamelion",
         "type": "automobile",
         "hash": 544021352,
-        "price": 53292,
+        "price": 242200,
         "vehicleClass": "A"
     },
     "vindicator": {
@@ -7077,7 +7077,7 @@
         "name": "Vindicator",
         "type": "bike",
         "hash": -1353081087,
-        "price": 31055,
+        "price": 35000,
         "vehicleClass": "M"
     },
     "bruiser3": {
@@ -7114,7 +7114,7 @@
         "name": "Comet SR",
         "type": "automobile",
         "hash": 661493923,
-        "price": 78583,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "slamvan6": {
@@ -7133,7 +7133,7 @@
         "name": "Coquette",
         "type": "automobile",
         "hash": 108773431,
-        "price": 83674,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "jetmax": {
@@ -7161,7 +7161,7 @@
         "name": "Enduro",
         "type": "bike",
         "hash": 1753414259,
-        "price": 20848,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "jackal": {
@@ -7171,7 +7171,7 @@
         "name": "Jackal",
         "type": "automobile",
         "hash": -624529134,
-        "price": 76324,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "iwagen": {
@@ -7190,7 +7190,7 @@
         "name": "Stinger",
         "type": "automobile",
         "hash": 1545842587,
-        "price": 74712,
+        "price": 14500,
         "vehicleClass": "C"
     },
     "freightcont2": {
@@ -7236,7 +7236,7 @@
         "name": "Nightshade",
         "type": "automobile",
         "hash": -1943285540,
-        "price": 67005,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "impaler": {
@@ -7246,7 +7246,7 @@
         "name": "Impaler",
         "type": "automobile",
         "hash": -2096690334,
-        "price": 74584,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "kanjosj": {
@@ -7256,7 +7256,7 @@
         "name": "Kanjo SJ",
         "type": "automobile",
         "hash": -64075878,
-        "price": 73789,
+        "price": 11500,
         "vehicleClass": "D"
     },
     "freight": {
@@ -7284,7 +7284,7 @@
         "name": "Issi Classic",
         "type": "automobile",
         "hash": 931280609,
-        "price": 65593,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "dune5": {
@@ -7339,7 +7339,7 @@
         "name": "Issi",
         "type": "automobile",
         "hash": -1177863319,
-        "price": 69371,
+        "price": 24500,
         "vehicleClass": "C"
     },
     "impaler3": {
@@ -7349,7 +7349,7 @@
         "name": "Future Shock Impaler",
         "type": "automobile",
         "hash": -1924800695,
-        "price": 84076,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "inductor2": {
@@ -7368,7 +7368,7 @@
         "name": "Impaler LX",
         "type": "automobile",
         "hash": -178442374,
-        "price": 77917,
+        "price": 14500,
         "vehicleClass": "C"
     },
     "boattrailer": {
@@ -7387,7 +7387,7 @@
         "name": "Burrito (McGill-Olsen)",
         "type": "automobile",
         "hash": 893081117,
-        "price": 61195,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "luxor": {
@@ -7415,7 +7415,7 @@
         "name": "Blade",
         "type": "automobile",
         "hash": -1205801634,
-        "price": 70520,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "infernus": {
@@ -7425,7 +7425,7 @@
         "name": "Infernus",
         "type": "automobile",
         "hash": 418536135,
-        "price": 81077,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "impaler2": {
@@ -7444,7 +7444,7 @@
         "name": "190Z",
         "type": "automobile",
         "hash": 838982985,
-        "price": 73299,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "dinghy5": {
@@ -7490,7 +7490,7 @@
         "name": "Habanero",
         "type": "automobile",
         "hash": 884422927,
-        "price": 65442,
+        "price": 10500,
         "vehicleClass": "C"
     },
     "guardian": {
@@ -7509,7 +7509,7 @@
         "name": "Greenwood",
         "type": "automobile",
         "hash": 40817712,
-        "price": 78897,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "granger2": {
@@ -7546,7 +7546,7 @@
         "name": "Clique",
         "type": "automobile",
         "hash": -1566607184,
-        "price": 76525,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "dominator10": {
@@ -7565,7 +7565,7 @@
         "name": "Coquette BlackFin",
         "type": "automobile",
         "hash": 784565758,
-        "price": 74621,
+        "price": 13500,
         "vehicleClass": "C"
     },
     "gauntlet4": {
@@ -7602,7 +7602,7 @@
         "name": "Gargoyle",
         "type": "bike",
         "hash": 741090084,
-        "price": 25195,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "futo2": {
@@ -7612,7 +7612,7 @@
         "name": "Futo GTX",
         "type": "automobile",
         "hash": -1507230520,
-        "price": 75463,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "bulldozer": {
@@ -7640,7 +7640,7 @@
         "name": "Furore GT",
         "type": "automobile",
         "hash": -1089039904,
-        "price": 84346,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "driftvorschlag": {
@@ -7668,7 +7668,7 @@
         "name": "Itali GTO",
         "type": "automobile",
         "hash": -331467772,
-        "price": 87475,
+        "price": 459200,
         "vehicleClass": "A"
     },
     "postlude": {
@@ -7678,7 +7678,7 @@
         "name": "Postlude",
         "type": "automobile",
         "hash": -294678663,
-        "price": 69683,
+        "price": 6500,
         "vehicleClass": "D"
     },
     "slamvan": {
@@ -7688,7 +7688,7 @@
         "name": "Slam Van",
         "type": "automobile",
         "hash": 729783779,
-        "price": 66207,
+        "price": 13500,
         "vehicleClass": "C"
     },
     "forklift": {
@@ -7725,7 +7725,7 @@
         "name": "Brioso R/A",
         "type": "automobile",
         "hash": 1549126457,
-        "price": 69113,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "mule2": {
@@ -7744,7 +7744,7 @@
         "name": "Fugitive",
         "type": "automobile",
         "hash": 1909141499,
-        "price": 67317,
+        "price": 24850,
         "vehicleClass": "B"
     },
     "technical": {
@@ -7763,7 +7763,7 @@
         "name": "Aleutian",
         "type": "automobile",
         "hash": -38879449,
-        "price": 66169,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "envisage": {
@@ -7782,7 +7782,7 @@
         "name": "Everon",
         "type": "automobile",
         "hash": -1756021720,
-        "price": 68803,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "omnisegt": {
@@ -7792,7 +7792,7 @@
         "name": "Omnis e-GT",
         "type": "automobile",
         "hash": -505223465,
-        "price": 80374,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "euros": {
@@ -7802,27 +7802,27 @@
         "name": "Euros",
         "type": "automobile",
         "hash": 2038480341,
-        "price": 78840,
+        "price": 780540,
         "vehicleClass": "S"
     },
     "entityxf": {
-        "brand": "Ã–verflÃ¶d",
+        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
         "model": "entityxf",
         "category": "super",
         "name": "Entity XF",
         "type": "automobile",
         "hash": -1291952903,
-        "price": 84601,
+        "price": 850540,
         "vehicleClass": "S"
     },
     "entity2": {
-        "brand": "Ã–verflÃ¶d",
+        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
         "model": "entity2",
         "category": "super",
         "name": "Entity XXR",
         "type": "automobile",
         "hash": -2120700196,
-        "price": 89286,
+        "price": 950540,
         "vehicleClass": "S"
     },
     "jester2": {
@@ -7859,7 +7859,7 @@
         "name": "Dynasty",
         "type": "automobile",
         "hash": 310284501,
-        "price": 58840,
+        "price": 7850,
         "vehicleClass": "D"
     },
     "infernus2": {
@@ -7869,7 +7869,7 @@
         "name": "Infernus Classic",
         "type": "automobile",
         "hash": -1405937764,
-        "price": 79349,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "alkonost": {
@@ -7888,7 +7888,7 @@
         "name": "Dubsta",
         "type": "automobile",
         "hash": 1177543287,
-        "price": 62617,
+        "price": 29050,
         "vehicleClass": "B"
     },
     "dune4": {
@@ -7937,7 +7937,7 @@
         "price": 86900
     },
     "driftcypher": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "driftcypher",
         "category": "sports",
         "name": "Cypher (Drift)",
@@ -7979,7 +7979,7 @@
         "name": "Schafter LWB",
         "type": "automobile",
         "hash": 1489967196,
-        "price": 65602,
+        "price": 27650,
         "vehicleClass": "C"
     },
     "hakuchou": {
@@ -7989,7 +7989,7 @@
         "name": "Hakuchou",
         "type": "bike",
         "hash": 1265391242,
-        "price": 25975,
+        "price": 65000,
         "vehicleClass": "M"
     },
     "deathbike2": {
@@ -8026,7 +8026,7 @@
         "name": "La Coureuse",
         "type": "automobile",
         "hash": 610429990,
-        "price": 77754,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "cinquemila": {
@@ -8036,7 +8036,7 @@
         "name": "Cinquemila",
         "type": "automobile",
         "hash": -1527436269,
-        "price": 80476,
+        "price": 227500,
         "vehicleClass": "A"
     },
     "astron": {
@@ -8046,7 +8046,7 @@
         "name": "Astron",
         "type": "automobile",
         "hash": 629969764,
-        "price": 81719,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "cargobob3": {
@@ -8065,7 +8065,7 @@
         "name": "Coquette Classic",
         "type": "automobile",
         "hash": 1011753235,
-        "price": 81755,
+        "price": 14500,
         "vehicleClass": "C"
     },
     "shinobi": {
@@ -8075,7 +8075,7 @@
         "name": "Shinobi",
         "type": "bike",
         "hash": 1353120668,
-        "price": 27244,
+        "price": 65000,
         "vehicleClass": "M"
     },
     "cogcabrio": {
@@ -8085,7 +8085,7 @@
         "name": "Cognoscenti Cabrio",
         "type": "automobile",
         "hash": 330661258,
-        "price": 74712,
+        "price": 227500,
         "vehicleClass": "A"
     },
     "caracara": {
@@ -8104,7 +8104,7 @@
         "name": "Warrener",
         "type": "automobile",
         "hash": 1373123368,
-        "price": 64367,
+        "price": 8500,
         "vehicleClass": "D"
     },
     "comet2": {
@@ -8114,7 +8114,7 @@
         "name": "Comet 2",
         "type": "automobile",
         "hash": -1045541610,
-        "price": 83289,
+        "price": 396200,
         "vehicleClass": "A"
     },
     "boxville": {
@@ -8124,7 +8124,7 @@
         "name": "Boxville (LSDWP)",
         "type": "automobile",
         "hash": -1987130134,
-        "price": 47273,
+        "price": 9500,
         "vehicleClass": "D"
     },
     "club": {
@@ -8134,7 +8134,7 @@
         "name": "Club",
         "type": "automobile",
         "hash": -2098954619,
-        "price": 69335,
+        "price": 12500,
         "vehicleClass": "C"
     },
     "glendale": {
@@ -8144,7 +8144,7 @@
         "name": "Glendale",
         "type": "automobile",
         "hash": 75131841,
-        "price": 65948,
+        "price": 7560,
         "vehicleClass": "D"
     },
     "cliffhanger": {
@@ -8154,7 +8154,7 @@
         "name": "Cliffhanger",
         "type": "bike",
         "hash": 390201602,
-        "price": 25621,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "cerberus": {
@@ -8173,7 +8173,7 @@
         "name": "Vader",
         "type": "bike",
         "hash": -140902153,
-        "price": 22163,
+        "price": 12500,
         "vehicleClass": "M"
     },
     "buzzard": {
@@ -8192,7 +8192,7 @@
         "name": "Bugstars Burrito",
         "type": "automobile",
         "hash": -907477130,
-        "price": 61195,
+        "price": 11500,
         "vehicleClass": "C"
     },
     "dukes2": {
@@ -8247,7 +8247,7 @@
         "name": "Bestia GTS",
         "type": "automobile",
         "hash": 1274868363,
-        "price": 79703,
+        "price": 459200,
         "vehicleClass": "A"
     },
     "blazer5": {
@@ -8275,7 +8275,7 @@
         "name": "Mogul RS",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 459200,
         "vehicleClass": "A"
     },
     "gbsultanrsx": {
@@ -8285,7 +8285,7 @@
         "name": "Sultan RSX",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "gbneonct": {
@@ -8295,7 +8295,7 @@
         "name": "Neon CT",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 403200,
         "vehicleClass": "A"
     },
     "gbdominatorgsx": {
@@ -8305,7 +8305,7 @@
         "name": "Dominator GSX",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 529200,
         "vehicleClass": "A"
     },
     "gbkomodagt": {
@@ -8315,7 +8315,7 @@
         "name": "Komoda GT",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 389200,
         "vehicleClass": "A"
     },
     "gbbisonhf": {
@@ -8325,7 +8325,7 @@
         "name": "Bison HF",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 312200,
         "vehicleClass": "A"
     },
     "gbargento7f": {
@@ -8335,7 +8335,7 @@
         "name": "Argento 7F",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "gbgresleystx": {
@@ -8345,7 +8345,7 @@
         "name": "Gresley STX",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "gbharmann": {
@@ -8355,7 +8355,7 @@
         "name": "Harmann",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "gbirisz": {
@@ -8365,7 +8365,7 @@
         "name": "Irisz",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "gbissimetro": {
@@ -8375,7 +8375,7 @@
         "name": "Issimetro",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 452200,
         "vehicleClass": "A"
     },
     "gbsidewinder": {
@@ -8385,7 +8385,7 @@
         "name": "Sidewinder",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 382200,
         "vehicleClass": "A"
     },
     "gbbisonstx": {
@@ -8395,7 +8395,7 @@
         "name": "Bison STX",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 34650,
         "vehicleClass": "B"
     },
     "gbesperta": {
@@ -8405,7 +8405,7 @@
         "name": "Esperta",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "gbtahomagt": {
@@ -8415,7 +8415,7 @@
         "name": "Tahoma GT",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 70000000,
         "vehicleClass": "B"
     },
     "gbstanierle": {
@@ -8425,7 +8425,7 @@
         "name": "Stanier LE",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 35000,
         "vehicleClass": "B"
     },
     "gbstarlight": {
@@ -8435,7 +8435,7 @@
         "name": "Starlg HT",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "gbschrauber": {
@@ -8445,7 +8445,7 @@
         "name": "Schrauber",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "gbbriosof": {
@@ -8455,7 +8455,7 @@
         "name": "Brios of",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "gbimpaler": {
@@ -8465,7 +8465,7 @@
         "name": "Impaler",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "gbmojave": {
@@ -8475,7 +8475,7 @@
         "name": "Mojave",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "gbraidillon": {
@@ -8485,7 +8485,7 @@
         "name": "Raidillon",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 27650,
         "vehicleClass": "B"
     },
     "gbturismogts": {
@@ -8495,7 +8495,7 @@
         "name": "Turismo GTS",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 38500,
         "vehicleClass": "B"
     },
     "gbvivant": {
@@ -8505,7 +8505,7 @@
         "name": "VIVANT",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 24850,
         "vehicleClass": "C"
     },
     "gbadmiral": {
@@ -8515,7 +8515,7 @@
         "name": "Admiral",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 17500,
         "vehicleClass": "C"
     },
     "gbhades": {
@@ -8525,7 +8525,7 @@
         "name": "HADES",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 18500,
         "vehicleClass": "C"
     },
     "gbterrorizer": {
@@ -8616,7 +8616,7 @@
         "name": "Prospero",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 1505400,
         "vehicleClass": "S"
     },
     "gbsapphire": {
@@ -8626,7 +8626,7 @@
         "name": "Sapphire",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 650540,
         "vehicleClass": "S"
     },
     "gb811s2": {
@@ -8636,7 +8636,7 @@
         "name": "811 S2",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 950540,
         "vehicleClass": "S"
     },
     "gbcomets2r": {
@@ -8646,7 +8646,7 @@
         "name": "Comet S2R",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 1505400,
         "vehicleClass": "S"
     },
     "gbcometcl": {
@@ -8656,7 +8656,7 @@
         "name": "Comet CL",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 950540,
         "vehicleClass": "S"
     },
     "gbcomets2rc": {
@@ -8666,7 +8666,7 @@
         "name": "comets 2RC",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 1505400,
         "vehicleClass": "S"
     },
     "gbschlagenr": {
@@ -8676,7 +8676,7 @@
         "name": "Schlagen R",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 650540,
         "vehicleClass": "S"
     },
     "gbtenfr": {
@@ -8686,7 +8686,7 @@
         "name": "Ten FR",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 780540,
         "vehicleClass": "S"
     },
     "gbsentinelgts": {
@@ -8696,7 +8696,7 @@
         "name": "Sentinel GTS",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 680540,
         "vehicleClass": "S"
     },
     "gbschwarz": {
@@ -8715,7 +8715,7 @@
         "name": "Solace",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 780540,
         "vehicleClass": "S"
     },
     "gbsolacev": {
@@ -8725,7 +8725,7 @@
         "name": "Solace V",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 680540,
         "vehicleClass": "S"
     },
     "elegyrh7": {
@@ -8735,7 +8735,7 @@
         "name": "RH7",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 1705400,
         "vehicleClass": "S"
     },
     "gbbanshees": {
@@ -8745,7 +8745,7 @@
         "name": "Banshees",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 880540,
         "vehicleClass": "S"
     },
     "gbmilano": {
@@ -8755,7 +8755,7 @@
         "name": "Milano",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 1705400,
         "vehicleClass": "S"
     },
     "gbnexusrr": {
@@ -8765,7 +8765,7 @@
         "name": "Nexus RR",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 880540,
         "vehicleClass": "S"
     },
     "gbronin": {
@@ -8775,7 +8775,7 @@
         "name": "Ronin",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 1705400,
         "vehicleClass": "S"
     },
     "gbtr3s": {
@@ -8785,7 +8785,7 @@
         "name": "TR3 S",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 1505400,
         "vehicleClass": "S"
     },
     "banshees": {
@@ -8804,17 +8804,17 @@
         "name": "Schlagen SP",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 750540,
         "vehicleClass": "S"
     },
     "cypherct": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "cypherct",
         "category": "custom",
         "name": "Cypher ct",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 980540,
         "vehicleClass": "S"
     },
     "clubxr": {
@@ -8824,7 +8824,7 @@
         "name": "Club XR",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 227500,
         "vehicleClass": "A"
     },
     "gbcomets1t": {
@@ -8834,7 +8834,7 @@
         "name": "Comet S1T",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 1505400,
         "vehicleClass": "A"
     },
     "gbeonn": {
@@ -8844,7 +8844,7 @@
         "name": "Eonn",
         "type": "automobile",
         "hash": 0,
-        "price": 100000,
+        "price": 396200,
         "vehicleClass": "A"
     },
     "trophytrunbk2": {
@@ -9262,7 +9262,7 @@
         "price": 0
     },
     "onx_polkandra": {
-        "brand": "Ãœbermacht",
+        "brand": "\u00c3\u0153bermacht",
         "model": "onx_polkandra",
         "category": "police",
         "name": "Police Kandra",
