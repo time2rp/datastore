@@ -2060,7 +2060,7 @@
         "vehicleClass": "B"
     },
     "zeno": {
-        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
+        "brand": "Overflod",
         "model": "zeno",
         "category": "super",
         "name": "Zeno",
@@ -2946,7 +2946,7 @@
         "price": 1321065
     },
     "entity3": {
-        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
+        "brand": "Overflod",
         "model": "entity3",
         "category": "super",
         "name": "Entity MT",
@@ -3221,7 +3221,7 @@
         "price": 5668
     },
     "tyrant": {
-        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
+        "brand": "Overflod",
         "model": "tyrant",
         "category": "super",
         "name": "Tyrant",
@@ -6480,7 +6480,7 @@
         "price": 60938
     },
     "pipistrello": {
-        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
+        "brand": "Overflod",
         "model": "pipistrello",
         "category": "super",
         "name": "Pipistrello",
@@ -7806,7 +7806,7 @@
         "vehicleClass": "S"
     },
     "entityxf": {
-        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
+        "brand": "Overflod",
         "model": "entityxf",
         "category": "super",
         "name": "Entity XF",
@@ -7816,7 +7816,7 @@
         "vehicleClass": "S"
     },
     "entity2": {
-        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
+        "brand": "Overflod",
         "model": "entity2",
         "category": "super",
         "name": "Entity XXR",
