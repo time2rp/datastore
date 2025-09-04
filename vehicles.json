@@ -620,7 +620,7 @@
         "price": 46633
     },
     "rhinehart": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "rhinehart",
         "category": "sedans",
         "name": "Rhinehart",
@@ -678,7 +678,7 @@
         "price": 47273
     },
     "zion3": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "zion3",
         "category": "sportsclassics",
         "name": "Zion Classic",
@@ -912,7 +912,7 @@
         "vehicleClass": "B"
     },
     "imorgon": {
-        "brand": "\u00c3\u2013verfl\u00c3\u00b6d",
+        "brand": "Overflod",
         "model": "imorgon",
         "category": "sports",
         "name": "Imorgon",
@@ -1318,7 +1318,7 @@
         "vehicleClass": "A"
     },
     "oracle": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "oracle",
         "category": "coupes",
         "name": "Oracle XS",
@@ -2003,7 +2003,7 @@
         "price": 69772
     },
     "zion2": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "zion2",
         "category": "coupes",
         "name": "Zion Cabrio",
@@ -2050,7 +2050,7 @@
         "price": 56656
     },
     "zion": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "zion",
         "category": "coupes",
         "name": "Zion",
@@ -3183,7 +3183,7 @@
         "vehicleClass": "D"
     },
     "cypher": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "cypher",
         "category": "sports",
         "name": "Cypher",
@@ -3444,7 +3444,7 @@
         "price": 94680
     },
     "driftsentinel": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "driftsentinel",
         "category": "sports",
         "name": "Sentinel Classic Widebody (Drift)",
@@ -3528,7 +3528,7 @@
         "price": 3622
     },
     "revolter": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "revolter",
         "category": "sports",
         "name": "Revolter",
@@ -4644,7 +4644,7 @@
         "price": 87808
     },
     "sc1": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "sc1",
         "category": "super",
         "name": "SC1",
@@ -4950,7 +4950,7 @@
         "price": 24629
     },
     "rebla": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "rebla",
         "category": "suvs",
         "name": "Rebla GTS",
@@ -5345,7 +5345,7 @@
         "vehicleClass": "S"
     },
     "sentinel3": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "sentinel3",
         "category": "sports",
         "name": "Sentinel Classic",
@@ -5355,7 +5355,7 @@
         "vehicleClass": "B"
     },
     "sentinel2": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "sentinel2",
         "category": "coupes",
         "name": " Sentinel XS",
@@ -5383,7 +5383,7 @@
         "vehicleClass": "A"
     },
     "sentinel": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "sentinel",
         "category": "coupes",
         "name": "Sentinel",
@@ -5601,7 +5601,7 @@
         "vehicleClass": "M"
     },
     "sentinel4": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "sentinel4",
         "category": "sports",
         "name": "Sentinel Classic Widebody",
@@ -5762,7 +5762,7 @@
         "vehicleClass": "D"
     },
     "oracle2": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "oracle2",
         "category": "coupes",
         "name": "Oracle",
@@ -5966,7 +5966,7 @@
         "price": 2712193
     },
     "niobe": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "niobe",
         "category": "sports",
         "name": "Niobe",
@@ -7937,7 +7937,7 @@
         "price": 86900
     },
     "driftcypher": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "driftcypher",
         "category": "sports",
         "name": "Cypher (Drift)",
@@ -8808,7 +8808,7 @@
         "vehicleClass": "S"
     },
     "cypherct": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "cypherct",
         "category": "custom",
         "name": "Cypher ct",
@@ -9262,7 +9262,7 @@
         "price": 0
     },
     "onx_polkandra": {
-        "brand": "\u00c3\u0153bermacht",
+        "brand": "Ubermacht",
         "model": "onx_polkandra",
         "category": "police",
         "name": "Police Kandra",
