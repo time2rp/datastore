@@ -1,22 +1,22 @@
 {
-  "patch": "2.0.11",
-  "changes": [
-    {
-      "title": "Time2RP 2.0",
-      "changes": [
-        "Fixed fueling issues for vehicles",
-        "Added Dirt Bag as a buyable item at U-Tool",
-        "Drug economy tweaked",
-        "Impound system updated",
-        "Weapons adjusted and updated",
-        "New Quest system at City Hall – be rewarded for exploring & doing!",
-        "Added garage at the Foundry",
-        "Bin searching reduced cooldown",
-        "Baggies now have a functional use",
-        "Guns now have more value – be careful with them (base gun decay added)",
-        "Updated pricing at PDM",
-        "Prison time now goes down while offline"
-      ]
-    }
-  ]
+    "patch": "2.0.12",
+    "changes": [
+        {
+            "title": "Time2RP 2.0",
+            "changes": [
+                "Weed Changes + Fixes",
+                "LSC Updated",
+                "Weapons Tweaked",
+                "Recycler Fixes",
+                "Compass Fixes",
+                "Garbage Job Updates",
+                "Fleeca Robbery Updated",
+                "Vehicle Rentals Updated",
+                "Economy Changes",
+                "Added Blindfolds",
+                "Business Computers Added",
+                "General Bug Fixes/Quality of Life"
+            ]
+        }
+    ]
 }
