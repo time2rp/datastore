@@ -1,22 +1,22 @@
 {
-  "patch": "2.0.12", 
-  "changes": [
-    {
-      "title": "Time2RP 2.0",
-      "changes": [
-        "Weed Changes + Fixes",
-        "LSC Updated",
-        "Weapons Tweaked",
-        "Recycler Fixes",
-        "Compass Fixes",
-        "Garbage Job Updates",
-        "Fleeca Robbery Updated",
-        "Vehicle Rentals Updated",
-        "Economy Changes",
-        "Added Blindfolds",
-        "Business Computers Added",
-        "General Bug Fixes/Quality of Life" 
-      ]
-    }
-  ]
+    "patch": "2.0.12",
+    "changes": [
+        {
+            "title": "Time2RP 2.0",
+            "changes": [
+                "Weed Changes + Fixes",
+                "LSC Updated",
+                "Weapons Tweaked",
+                "Recycler Fixes",
+                "Compass Fixes",
+                "Garbage Job Updates",
+                "Fleeca Robbery Updated",
+                "Vehicle Rentals Updated",
+                "Economy Changes",
+                "Added Blindfolds",
+                "Business Computers Added",
+                "General Bug Fixes/Quality of Life"
+            ]
+        }
+    ]
 }
