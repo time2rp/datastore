@@ -1,21 +1,16 @@
 {
-    "patch": "2.0.12",
+    "patch": "2.0.13",
     "changes": [
         {
             "title": "Time2RP 2.0",
             "changes": [
-                "Weed Changes + Fixes",
-                "LSC Updated",
-                "Weapons Tweaked",
-                "Recycler Fixes",
-                "Compass Fixes",
-                "Garbage Job Updates",
-                "Fleeca Robbery Updated",
-                "Vehicle Rentals Updated",
-                "Economy Changes",
-                "Added Blindfolds",
-                "Business Computers Added",
-                "General Bug Fixes/Quality of Life"
+                "Added Boosting",
+                "Added Boosting USB",
+                "Added Scrapyard",
+                "Buffed Thermite Decay",
+                "Added Command for PD Evidence - Tracers Removed",
+                "PD QoL Tweaks",
+                "Increased Trucking Pay"
             ]
         }
     ]
